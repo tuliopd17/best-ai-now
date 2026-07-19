@@ -1,0 +1,11 @@
+{
+  "name": "best-ai-now",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Ranking dinâmico de custo-benefício dos modelos de IA (dados: Artificial Analysis)",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-data.mjs",
+    "dev": "npx -y serve ."
+  }
+}

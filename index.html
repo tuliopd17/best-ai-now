@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Melhor IA Agora — custo-benefício em tempo real</title>
+  <meta name="description" content="Ranking dinâmico de custo-benefício dos modelos de IA, combinando inteligência e preço. Dados: Artificial Analysis." />
+  <link rel="stylesheet" href="assets/style.css" />
+  <script>
+    // Aplica o tema salvo (ou ?theme=light|dark) antes do primeiro paint
+    (function () {
+      var q = new URLSearchParams(location.search).get("theme");
+      var t = q || localStorage.getItem("theme");
+      if (t === "dark" || t === "light") document.documentElement.dataset.theme = t;
+    })();
+  </script>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="topbar">
+        <h1>Melhor IA Agora</h1>
+        <div class="meta">
+          <span id="updated-at">—</span>
+          <button class="theme-btn" id="theme-toggle" type="button" aria-label="Alternar tema">◐ Tema</button>
+        </div>
+      </div>
+      <p class="subtitle">
+        Qual modelo de IA vale mais a pena <em>neste momento</em>? O ranking abaixo é recalculado
+        automaticamente a partir dos dados independentes do
+        <a href="https://artificialanalysis.ai" target="_blank" rel="noopener">Artificial Analysis</a>:
+        quando um modelo novo entra na briga (ou muda de preço), a conta é refeita.
+      </p>
+    </header>
+
+    <!-- Vencedor -->
+    <section class="hero" id="hero" aria-live="polite"></section>
+    <div class="podium" id="podium"></div>
+
+    <!-- Filtros: uma linha, valem para tudo abaixo -->
+    <div class="controls" id="controls">
+      <div class="ctl">
+        <label for="preset">Perfil de uso</label>
+        <select id="preset">
+          <option value="balanced" selected>Equilibrado (recomendado)</option>
+          <option value="budget">Foco em economia</option>
+          <option value="performance">Foco em desempenho</option>
+          <option value="custom">Personalizado</option>
+        </select>
+      </div>
+      <div class="ctl">
+        <label for="gamma">Peso da inteligência (γ) · <span class="val" id="gamma-val">4,0</span></label>
+        <input type="range" id="gamma" min="1" max="6" step="0.5" value="4" />
+      </div>
+      <div class="ctl">
+        <label for="beta">Sensibilidade a preço (β) · <span class="val" id="beta-val">0,35</span></label>
+        <input type="range" id="beta" min="0.1" max="1" step="0.05" value="0.35" />
+      </div>
+      <div class="ctl">
+        <label for="min-ii">Inteligência mínima · <span class="val" id="min-ii-val">40</span></label>
+        <input type="range" id="min-ii" min="20" max="55" step="1" value="40" />
+      </div>
+      <div class="ctl chk">
+        <input type="checkbox" id="include-estimated" />
+        <label for="include-estimated">incluir modelos com índice estimado</label>
+      </div>
+    </div>
+
+    <!-- Ranking -->
+    <section class="card">
+      <h2>Ranking de custo-benefício</h2>
+      <p class="desc">Score = inteligência ajustada ÷ preço ajustado, normalizado para o líder valer 100. O líder aparece em azul; passe o mouse para detalhes.</p>
+      <div class="bars" id="bars"></div>
+    </section>
+
+    <!-- Dispersão preço × inteligência -->
+    <section class="card">
+      <h2>Inteligência × preço</h2>
+      <p class="desc">Cada ponto é um modelo. Quanto mais acima (inteligente) e mais à esquerda (barato), melhor. A linha cinza é a fronteira de eficiência: nenhum modelo abaixo dela vale a pena no preço em que está.</p>
+      <div class="legend" id="scatter-legend">
+        <span class="li"><span class="dot" style="background: var(--accent)"></span> Líder atual</span>
+        <span class="li"><span class="ln"></span> Fronteira de eficiência</span>
+        <span class="li"><span class="dot" style="background: var(--demph)"></span> Demais modelos</span>
+      </div>
+      <div class="scatter-box" id="scatter"></div>
+    </section>
+
+    <!-- Tabela completa -->
+    <section class="card">
+      <h2>Todos os modelos elegíveis</h2>
+      <p class="desc">Clique nos cabeçalhos para ordenar. Preços em US$ por milhão de tokens; “combinado” = 3 partes de entrada para 1 de saída (padrão Artificial Analysis).</p>
+      <div class="table-scroll">
+        <table class="rank" id="table"></table>
+      </div>
+    </section>
+
+    <!-- Metodologia -->
+    <section class="card method">
+      <h2>Como o score é calculado</h2>
+      <div class="formula" id="formula-box">
+        Score(m) = 100 × ( (I<sub>m</sub> / 100)<sup>γ</sup> ÷ P<sub>m</sub><sup>β</sup> ) ÷ máx.
+      </div>
+      <ul>
+        <li><b>I<sub>m</sub></b> — Artificial Analysis Intelligence Index (<span id="ii-version">v?</span>), medido de forma independente em 9 avaliações (raciocínio, código, agentes, conhecimento…).</li>
+        <li><b>P<sub>m</sub></b> — preço combinado em US$ por milhão de tokens (3 entrada : 1 saída).</li>
+        <li><b>γ</b> (peso da inteligência) — inteligência no topo é escassa: cada ponto extra de índice custa exponencialmente mais para os laboratórios, então o score recompensa capacidade de forma convexa. γ alto favorece modelos de fronteira.</li>
+        <li><b>β</b> (sensibilidade a preço) — β &lt; 1 comprime a escala de preços (que varia 100×+ entre modelos), evitando que qualquer modelo minúsculo e barato domine o ranking. β alto favorece modelos baratos.</li>
+        <li>O resultado é normalizado: o melhor modelo do momento vale <b>100</b> e os demais são relativos a ele.</li>
+      </ul>
+      <p>
+        Por padrão o ranking exclui modelos descontinuados e modelos cujo índice ainda é estimado
+        (sem avaliação completa), e considera apenas modelos com inteligência mínima ajustável ao lado.
+        Modelos novos entram automaticamente no cálculo na próxima atualização de dados.
+      </p>
+    </section>
+
+    <footer>
+      <span id="attribution">Dados: <a href="https://artificialanalysis.ai" target="_blank" rel="noopener">Artificial Analysis</a></span>
+      · <span id="model-count"></span>
+      · Atualize com <code>node scripts/update-data.mjs</code>
+    </footer>
+  </div>
+
+  <div class="tip" id="tip" role="status"></div>
+
+  <script src="data/models.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
