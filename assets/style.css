@@ -259,14 +259,16 @@ svg.scatter text { font-family: inherit; }
 .tip .tt-row b { color: var(--text-primary); font-weight: 600; font-variant-numeric: tabular-nums; }
 
 /* ---------- tabela ---------- */
-.table-scroll { overflow-x: auto; }
+.table-scroll { overflow-x: auto; scrollbar-width: thin; scrollbar-color: var(--axis) transparent; }
+.table-scroll::-webkit-scrollbar { height: 8px; }
+.table-scroll::-webkit-scrollbar-thumb { background: var(--axis); border-radius: 4px; }
 table.rank {
   border-collapse: collapse;
   width: 100%;
   font-size: 13.5px;
   white-space: nowrap;
 }
-table.rank th, table.rank td { padding: 7px 12px; text-align: right; }
+table.rank th, table.rank td { padding: 6px 9px; text-align: right; }
 table.rank th:nth-child(2), table.rank td:nth-child(2),
 table.rank th:nth-child(3), table.rank td:nth-child(3) { text-align: left; }
 table.rank thead th {

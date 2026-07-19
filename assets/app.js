@@ -323,12 +323,12 @@
     { key: "name", label: "Modelo", get: function (r) { return r.m.name; }, fmt: String, cls: "name" },
     { key: "creator", label: "Criador", get: function (r) { return r.m.creator || ""; }, fmt: String, cls: "muted" },
     { key: "score", label: "Score", get: function (r) { return r.score; }, fmt: function (v) { return f1.format(v); } },
-    { key: "ii", label: "Inteligência", get: function (r) { return r.m.intelligenceIndex; }, fmt: function (v) { return f1.format(v); } },
-    { key: "price", label: "US$ comb.", get: function (r) { return r.m.blendedPrice; }, fmt: function (v) { return f2.format(v); } },
-    { key: "in", label: "US$ entrada", get: function (r) { return r.m.inputPrice; }, fmt: function (v) { return f2.format(v); } },
-    { key: "out", label: "US$ saída", get: function (r) { return r.m.outputPrice; }, fmt: function (v) { return f2.format(v); } },
+    { key: "ii", label: "Intelig.", get: function (r) { return r.m.intelligenceIndex; }, fmt: function (v) { return f1.format(v); } },
+    { key: "price", label: "Comb.", get: function (r) { return r.m.blendedPrice; }, fmt: function (v) { return f2.format(v); } },
+    { key: "in", label: "Entrada", get: function (r) { return r.m.inputPrice; }, fmt: function (v) { return f2.format(v); } },
+    { key: "out", label: "Saída", get: function (r) { return r.m.outputPrice; }, fmt: function (v) { return f2.format(v); } },
     { key: "speed", label: "Tokens/s", get: function (r) { return r.m.outputSpeed; }, fmt: function (v) { return v == null ? "—" : f0.format(v); } },
-    { key: "lat", label: "Latência (s)", get: function (r) { return r.m.latency; }, fmt: function (v) { return v == null ? "—" : f1.format(v); } },
+    { key: "lat", label: "Lat. (s)", get: function (r) { return r.m.latency; }, fmt: function (v) { return v == null ? "—" : f1.format(v); } },
     { key: "ctx", label: "Contexto", get: function (r) { return r.m.contextWindowTokens; }, fmt: fmtCtx },
   ];
 
