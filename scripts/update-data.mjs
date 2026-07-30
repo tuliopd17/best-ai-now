@@ -116,20 +116,38 @@ function extractModelsArray(payload) {
   return null;
 }
 
-async function fetchFromSite() {
-  // 1) Página /models: pega a versão do Intelligence Index e um slug de modelo válido
-  const listHtml = await getText("https://artificialanalysis.ai/models");
-  const iiVersion = listHtml.match(/Intelligence Index v([\d.]+)/)?.[1] ?? null;
-  const slug = listHtml.match(/"detailsUrl":"\/models\/([a-z0-9-]+)"/)?.[1];
-  if (!slug) throw new Error("Não achei nenhum slug de modelo na página /models");
+// Extrai o objeto rico de um modelo específico (página /models/<slug>).
+// O dataset embutido em "models":[...] às vezes omite o líder recém-lançado;
+// a página de detalhes ainda traz o objeto completo com II, preço e shortName.
+function extractRichModel(payload, slug) {
+  const needle = `"slug":"${slug}"`;
+  let i = -1;
+  let best = null;
+  while ((i = payload.indexOf(needle, i + 1)) !== -1) {
+    let start = i;
+    while (start > 0 && payload[start] !== "{") start--;
+    const raw = scanBalanced(payload, start);
+    if (!raw) continue;
+    try {
+      const obj = JSON.parse(raw);
+      if (obj.slug !== slug) continue;
+      // Prefere o objeto com métricas de ranking (II + preço)
+      const rich =
+        obj.intelligenceIndex != null &&
+        (obj.price1mInputTokens != null || obj.price1mBlended0To3To1 != null);
+      if (rich) return obj;
+      if (!best && (obj.shortName || obj.name)) best = obj;
+    } catch {
+      /* tenta a próxima ocorrência */
+    }
+  }
+  return best;
+}
 
-  // 2) Página de detalhes: embute o dataset completo de todos os modelos
-  const detailHtml = await getText(`https://artificialanalysis.ai/models/${slug}`);
-  const all = extractModelsArray(decodeFlightPayload(detailHtml));
-  if (!all) throw new Error("Dataset completo não encontrado no payload da página de detalhes");
-
-  const models = all.map((m) => ({
+function normalizeModel(m) {
+  return {
     slug: m.slug,
+    // shortName é o rótulo canônico do AA (ex.: "Claude Opus 5 (max)")
     name: m.shortName ?? m.name,
     creator: m.creator?.name ?? null,
     releaseDate: m.releaseDate ?? null,
@@ -147,8 +165,48 @@ async function fetchFromSite() {
     outputSpeed: m.timescaleData?.medianOutputSpeed ?? null,
     latency: m.timeToFirstAnswerToken?.total ?? null,
     contextWindowTokens: m.contextWindowTokens ?? null,
-  }));
-  return { source: "site-publico", iiVersion, models };
+  };
+}
+
+async function fetchFromSite() {
+  // 1) Página /models: versão do II + slugs visíveis no ranking do site
+  const listHtml = await getText("https://artificialanalysis.ai/models");
+  const iiVersion = listHtml.match(/Intelligence Index v([\d.]+)/)?.[1] ?? null;
+  const listSlugs = [
+    ...listHtml.matchAll(/"detailsUrl":"\/models\/([a-z0-9-]+)"/g),
+  ].map((m) => m[1]);
+  const uniqueListSlugs = [...new Set(listSlugs)];
+  const seed = uniqueListSlugs[0];
+  if (!seed) throw new Error("Não achei nenhum slug de modelo na página /models");
+
+  // 2) Página de detalhes: embute o dataset completo de (quase) todos os modelos
+  const detailHtml = await getText(`https://artificialanalysis.ai/models/${seed}`);
+  const seedPayload = decodeFlightPayload(detailHtml);
+  const all = extractModelsArray(seedPayload);
+  if (!all) throw new Error("Dataset completo não encontrado no payload da página de detalhes");
+
+  // 3) Reconcilia modelos listados em /models mas ausentes do array embutido
+  //    (ex.: Claude Opus 5 max — presente na página própria, omitido do chart dataset)
+  const bySlug = new Map(all.map((m) => [m.slug, m]));
+  const recovered = [];
+  for (const s of uniqueListSlugs) {
+    if (bySlug.has(s)) continue;
+    const html = s === seed ? detailHtml : await getText(`https://artificialanalysis.ai/models/${s}`);
+    const payload = s === seed ? seedPayload : decodeFlightPayload(html);
+    const rich = extractRichModel(payload, s);
+    if (!rich) {
+      console.warn(`Aviso: slug listado "${s}" não encontrado no dataset nem na página de detalhes`);
+      continue;
+    }
+    all.push(rich);
+    bySlug.set(s, rich);
+    recovered.push(s);
+  }
+  if (recovered.length) {
+    console.log(`Recuperados ${recovered.length} modelo(s) omitidos do dataset: ${recovered.join(", ")}`);
+  }
+
+  return { source: "site-publico", iiVersion, models: all.map(normalizeModel) };
 }
 
 // ---------------------------------------------------------------------------
