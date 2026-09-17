@@ -1,5 +1,5 @@
 {
- "fetchedAt": "2026-09-16T14:07:22.742Z",
+ "fetchedAt": "2026-09-17T14:12:44.143Z",
  "source": "site-publico",
  "intelligenceIndexVersion": "4.3",
  "attribution": "Dados: Artificial Analysis (https://artificialanalysis.ai)",
@@ -20,8 +20,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 0.25,
    "blendedPrice": 20,
-   "outputSpeed": 65.1271749519948,
-   "latency": 213.23478798,
+   "outputSpeed": 67.6942867003517,
+   "latency": 262.877531015,
    "contextWindowTokens": 1000000
   },
   {
@@ -41,7 +41,7 @@
    "cacheHitPrice": 0.25,
    "blendedPrice": 20,
    "outputSpeed": 58.1928231238941,
-   "latency": 91.6346106540001,
+   "latency": 106.600246656,
    "contextWindowTokens": 1000000
   },
   {
@@ -60,8 +60,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 1,
    "blendedPrice": 20,
-   "outputSpeed": 52.6185559299729,
-   "latency": 335.4066447775,
+   "outputSpeed": 52.9841513460148,
+   "latency": 317.3219131575,
    "contextWindowTokens": 1000000
   },
   {
@@ -80,8 +80,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 1,
    "blendedPrice": 20,
-   "outputSpeed": 50.8836183974937,
-   "latency": 123.677638746,
+   "outputSpeed": 52.9243169963677,
+   "latency": 117.7072868305,
    "contextWindowTokens": 1000000
   },
   {
@@ -100,8 +100,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 0.25,
    "blendedPrice": 20,
-   "outputSpeed": 53.2944447856705,
-   "latency": 12.008993383,
+   "outputSpeed": 57.9952599193268,
+   "latency": 11.1425649070001,
    "contextWindowTokens": 1000000
   },
   {
@@ -120,8 +120,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 1,
    "blendedPrice": 20,
-   "outputSpeed": 48.1967827944953,
-   "latency": 40.5050214845,
+   "outputSpeed": 51.9487729533075,
+   "latency": 37.2229942935001,
    "contextWindowTokens": 1000000
   },
   {
@@ -140,8 +140,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 50.1666980549436,
-   "latency": 46.504496617,
+   "outputSpeed": 53.2587683474965,
+   "latency": 52.5751065395,
    "contextWindowTokens": 1000000
   },
   {
@@ -151,7 +151,7 @@
    "releaseDate": "2026-06-09",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 49.6994452733378,
    "codingIndex": null,
@@ -160,8 +160,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 1,
    "blendedPrice": 20,
-   "outputSpeed": 66.5120620878849,
-   "latency": 101.164010465,
+   "outputSpeed": 68.2334534069976,
+   "latency": 129.83805002,
    "contextWindowTokens": 1000000
   },
   {
@@ -180,8 +180,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 1,
    "blendedPrice": 20,
-   "outputSpeed": 48.818065343054,
-   "latency": 4.26515050900002,
+   "outputSpeed": 53.2424035818575,
+   "latency": 4.45788101450006,
    "contextWindowTokens": 1000000
   },
   {
@@ -200,8 +200,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 52.001366915969,
-   "latency": 24.0899248635001,
+   "outputSpeed": 53.7986830311558,
+   "latency": 22.2709949235,
    "contextWindowTokens": 1000000
   },
   {
@@ -220,8 +220,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 0.25,
    "blendedPrice": 20,
-   "outputSpeed": 50.4450904832728,
-   "latency": 5.99040853549991,
+   "outputSpeed": 54.0313776621313,
+   "latency": 6.38494349949996,
    "contextWindowTokens": 1000000
   },
   {
@@ -240,8 +240,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 51.392700317219,
-   "latency": 15.6715549615,
+   "outputSpeed": 53.6853222680299,
+   "latency": 12.17768284,
    "contextWindowTokens": 1000000
   },
   {
@@ -260,8 +260,8 @@
    "outputPrice": 4.25,
    "cacheHitPrice": 0.15,
    "blendedPrice": 2,
-   "outputSpeed": 235.287738382206,
-   "latency": 35.67778941319074,
+   "outputSpeed": 255.179125253414,
+   "latency": 34.85128681804484,
    "contextWindowTokens": 1000000
   },
   {
@@ -280,8 +280,8 @@
    "outputPrice": 20,
    "cacheHitPrice": 0.4,
    "blendedPrice": 8,
-   "outputSpeed": 66.4817365841886,
-   "latency": 102.7409144305,
+   "outputSpeed": 73.3388606063309,
+   "latency": 103.504099104,
    "contextWindowTokens": 1000000
   },
   {
@@ -300,8 +300,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 0.25,
    "blendedPrice": 20,
-   "outputSpeed": 51.4050636294829,
-   "latency": 4.93651597899998,
+   "outputSpeed": 54.4569637558875,
+   "latency": 5.04397649449998,
    "contextWindowTokens": 1000000
   },
   {
@@ -320,8 +320,8 @@
    "outputPrice": 50,
    "cacheHitPrice": 1,
    "blendedPrice": 20,
-   "outputSpeed": 50.6708959622086,
-   "latency": 2.82386640299989,
+   "outputSpeed": 50.9435208650546,
+   "latency": 2.9638652399999,
    "contextWindowTokens": 1000000
   },
   {
@@ -341,7 +341,7 @@
    "cacheHitPrice": 0.25,
    "blendedPrice": 3,
    "outputSpeed": 40.4108411362042,
-   "latency": 52.313977179655815,
+   "latency": 52.3783311366558,
    "contextWindowTokens": 983616
   },
   {
@@ -360,8 +360,8 @@
    "outputPrice": 4.25,
    "cacheHitPrice": 0.15,
    "blendedPrice": 2,
-   "outputSpeed": 231.650674332857,
-   "latency": 32.25287972957135,
+   "outputSpeed": 240.976581512463,
+   "latency": 32.9713859029527,
    "contextWindowTokens": 1000000
   },
   {
@@ -380,8 +380,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 49.4717067504523,
-   "latency": 5.61537679950006,
+   "outputSpeed": 52.9055511581054,
+   "latency": 5.32386102200008,
    "contextWindowTokens": 1000000
   },
   {
@@ -401,7 +401,7 @@
    "cacheHitPrice": 0.26,
    "blendedPrice": 2.15,
    "outputSpeed": 67.0082715819019,
-   "latency": 32.79496876901693,
+   "latency": 32.95693412551692,
    "contextWindowTokens": 1000000
   },
   {
@@ -420,8 +420,8 @@
    "outputPrice": 6,
    "cacheHitPrice": 0.5,
    "blendedPrice": 3,
-   "outputSpeed": 62.8578366598542,
-   "latency": 38.6347573875,
+   "outputSpeed": 64.4561261702102,
+   "latency": 40.558767104,
    "contextWindowTokens": 500000
   },
   {
@@ -440,7 +440,7 @@
    "outputPrice": 6,
    "cacheHitPrice": 0.5,
    "blendedPrice": 3,
-   "outputSpeed": 57.403284102686,
+   "outputSpeed": 59.065318087042,
    "latency": 25.400185502,
    "contextWindowTokens": 500000
   },
@@ -460,8 +460,8 @@
    "outputPrice": 20,
    "cacheHitPrice": 0.4,
    "blendedPrice": 8,
-   "outputSpeed": 65.6350664070696,
-   "latency": 41.5037623545,
+   "outputSpeed": 68.3461510920101,
+   "latency": 29.0436852535001,
    "contextWindowTokens": 1000000
   },
   {
@@ -480,8 +480,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.3,
    "blendedPrice": 6,
-   "outputSpeed": 35.9910559820527,
-   "latency": 60.137238903400515,
+   "outputSpeed": 36.8066443436354,
+   "latency": 58.675491754285645,
    "contextWindowTokens": 1048576
   },
   {
@@ -500,8 +500,8 @@
    "outputPrice": 6,
    "cacheHitPrice": 0.5,
    "blendedPrice": 3,
-   "outputSpeed": 55.9616970455609,
-   "latency": 31.589614957,
+   "outputSpeed": 58.4526214739059,
+   "latency": 30.5742379915,
    "contextWindowTokens": 500000
   },
   {
@@ -520,8 +520,8 @@
    "outputPrice": 20,
    "cacheHitPrice": 0.4,
    "blendedPrice": 8,
-   "outputSpeed": 57.9817522833301,
-   "latency": 9.68797365700001,
+   "outputSpeed": 61.6344474419195,
+   "latency": 10.0735661570001,
    "contextWindowTokens": 1000000
   },
   {
@@ -540,7 +540,7 @@
    "outputPrice": 12,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4.5,
-   "outputSpeed": 94.5213511502642,
+   "outputSpeed": 90.7576880098005,
    "latency": 139.756118515,
    "contextWindowTokens": 1000000
   },
@@ -560,8 +560,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 56.9411324765753,
-   "latency": 18.7149124884999,
+   "outputSpeed": 58.651459342263,
+   "latency": 16.4111844139998,
    "contextWindowTokens": 1000000
   },
   {
@@ -580,8 +580,8 @@
    "outputPrice": 0.5,
    "cacheHitPrice": 0.026,
    "blendedPrice": 0.2375,
-   "outputSpeed": 114.38740764176,
-   "latency": 19.822133705583113,
+   "outputSpeed": 117.247636125543,
+   "latency": 19.35784750905701,
    "contextWindowTokens": 1000000
   },
   {
@@ -600,8 +600,8 @@
    "outputPrice": 3.75,
    "cacheHitPrice": 0.075,
    "blendedPrice": 1.5,
-   "outputSpeed": 332.016970525199,
-   "latency": 15.5682139905,
+   "outputSpeed": 345.090936777822,
+   "latency": 30.49441437,
    "contextWindowTokens": 1000000
   },
   {
@@ -620,8 +620,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 44.6316000562496,
-   "latency": 24.3057061945,
+   "outputSpeed": 52.2337311952895,
+   "latency": 17.783215209,
    "contextWindowTokens": 1000000
   },
   {
@@ -631,7 +631,7 @@
    "releaseDate": "2026-08-03",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 40.3048623585941,
    "codingIndex": null,
@@ -640,8 +640,8 @@
    "outputPrice": 6,
    "cacheHitPrice": 0.25,
    "blendedPrice": 3,
-   "outputSpeed": 40.5361090262404,
-   "latency": 51.960652697385974,
+   "outputSpeed": 40.6266932270713,
+   "latency": 51.816150129112394,
    "contextWindowTokens": 1000000
   },
   {
@@ -660,8 +660,8 @@
    "outputPrice": 6,
    "cacheHitPrice": 0.25,
    "blendedPrice": 3,
-   "outputSpeed": 40.5430120940006,
-   "latency": 52.096643884236975,
+   "outputSpeed": 40.705270580605,
+   "latency": 51.8636013074336,
    "contextWindowTokens": 983616
   },
   {
@@ -700,8 +700,8 @@
    "outputPrice": 0.47,
    "cacheHitPrice": 0.016,
    "blendedPrice": 0.22999999999999998,
-   "outputSpeed": 51.804124470748,
-   "latency": 41.29935457768153,
+   "outputSpeed": 52.8047718048694,
+   "latency": 40.56775485869299,
    "contextWindowTokens": 256000
   },
   {
@@ -711,7 +711,7 @@
    "releaseDate": "2026-08-05",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 39.8039107970943,
    "codingIndex": null,
@@ -720,8 +720,8 @@
    "outputPrice": 4.25,
    "cacheHitPrice": 0.15,
    "blendedPrice": 2,
-   "outputSpeed": 183.498760115417,
-   "latency": 26.273173071102104,
+   "outputSpeed": 207.906781841771,
+   "latency": 24.524265830879614,
    "contextWindowTokens": 1048576
   },
   {
@@ -740,8 +740,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 46.8320619076787,
-   "latency": 2.54830637399994,
+   "outputSpeed": 52.0543310215564,
+   "latency": 2.88493505999995,
    "contextWindowTokens": 1000000
   },
   {
@@ -751,7 +751,7 @@
    "releaseDate": "2026-08-13",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": true,
    "intelligenceIndex": 39.617751842555,
    "codingIndex": null,
@@ -760,8 +760,8 @@
    "outputPrice": 3.75,
    "cacheHitPrice": 0.075,
    "blendedPrice": 1.5,
-   "outputSpeed": 278.545908317241,
-   "latency": 4.76845877350002,
+   "outputSpeed": 306.011030451663,
+   "latency": 4.26135421499987,
    "contextWindowTokens": 1000000
   },
   {
@@ -780,8 +780,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.006,
    "blendedPrice": 0.5249999999999999,
-   "outputSpeed": 218.193118963507,
-   "latency": 10.334997934470996,
+   "outputSpeed": 219.798885558096,
+   "latency": 10.225489922099577,
    "contextWindowTokens": 1000000
   },
   {
@@ -800,8 +800,8 @@
    "outputPrice": 20,
    "cacheHitPrice": 0.4,
    "blendedPrice": 8,
-   "outputSpeed": 59.6834291038031,
-   "latency": 3.44697635450003,
+   "outputSpeed": 63.4697750959714,
+   "latency": 3.80721266799998,
    "contextWindowTokens": 1000000
   },
   {
@@ -811,7 +811,7 @@
    "releaseDate": "2026-08-13",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 39.4295316404896,
    "codingIndex": null,
@@ -820,8 +820,8 @@
    "outputPrice": 3.75,
    "cacheHitPrice": 0.075,
    "blendedPrice": 1.5,
-   "outputSpeed": 289.349800716853,
-   "latency": 10.4346700385,
+   "outputSpeed": 328.16428023936,
+   "latency": 13.3204372274999,
    "contextWindowTokens": 1000000
   },
   {
@@ -831,7 +831,7 @@
    "releaseDate": "2026-07-08",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 39.0842403240657,
    "codingIndex": null,
@@ -840,8 +840,8 @@
    "outputPrice": 6,
    "cacheHitPrice": 0.3,
    "blendedPrice": 3,
-   "outputSpeed": 59.9009623020591,
-   "latency": 7.02340792799997,
+   "outputSpeed": 60.4848094654199,
+   "latency": 7.4058058315,
    "contextWindowTokens": 500000
   },
   {
@@ -860,8 +860,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.25,
    "blendedPrice": 5.625,
-   "outputSpeed": 139.50907651159,
-   "latency": 111.604596206,
+   "outputSpeed": 136.319277528051,
+   "latency": 121.23336229,
    "contextWindowTokens": 1050000
   },
   {
@@ -880,8 +880,8 @@
    "outputPrice": 30,
    "cacheHitPrice": 0.5,
    "blendedPrice": 11.25,
-   "outputSpeed": 84.218622001459,
-   "latency": 32.7549743405,
+   "outputSpeed": 90.8089127551576,
+   "latency": 37.9551744819999,
    "contextWindowTokens": 922000
   },
   {
@@ -900,8 +900,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4,
-   "outputSpeed": 75.1496614219828,
-   "latency": 164.729263979,
+   "outputSpeed": 72.3002730918935,
+   "latency": 139.429100229,
    "contextWindowTokens": 1000000
   },
   {
@@ -940,8 +940,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.45,
-   "outputSpeed": 114.824478505938,
-   "latency": 128.277061074,
+   "outputSpeed": 123.503964548474,
+   "latency": 116.30851641,
    "contextWindowTokens": 1000000
   },
   {
@@ -960,8 +960,8 @@
    "outputPrice": 30,
    "cacheHitPrice": 0.5,
    "blendedPrice": 11.25,
-   "outputSpeed": 90.7552892129526,
-   "latency": 16.188278033,
+   "outputSpeed": 94.6849952394879,
+   "latency": 13.6359918245,
    "contextWindowTokens": 922000
   },
   {
@@ -971,7 +971,7 @@
    "releaseDate": "2026-08-13",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": true,
    "intelligenceIndex": 36.9459114891198,
    "codingIndex": null,
@@ -980,8 +980,8 @@
    "outputPrice": 3.75,
    "cacheHitPrice": 0.075,
    "blendedPrice": 1.5,
-   "outputSpeed": 287.545102799942,
-   "latency": 0.840271941999958,
+   "outputSpeed": 297.664071865269,
+   "latency": 0.843149980000021,
    "contextWindowTokens": 1000000
   },
   {
@@ -1000,8 +1000,8 @@
    "outputPrice": 3.96,
    "cacheHitPrice": 0.044,
    "blendedPrice": 1.98,
-   "outputSpeed": 88.7972003620648,
-   "latency": 24.31314708620803,
+   "outputSpeed": 92.5179584618785,
+   "latency": 23.46088053266429,
    "contextWindowTokens": 1000000
   },
   {
@@ -1020,8 +1020,8 @@
    "outputPrice": 0.15,
    "cacheHitPrice": 0.005,
    "blendedPrice": 0.07500000000000001,
-   "outputSpeed": 238.420897034428,
-   "latency": 10.208999219780512,
+   "outputSpeed": 317.171489989209,
+   "latency": 8.2994990767246,
    "contextWindowTokens": 1000000
   },
   {
@@ -1040,8 +1040,8 @@
    "outputPrice": 6,
    "cacheHitPrice": 0.5,
    "blendedPrice": 3,
-   "outputSpeed": 54.0932077985406,
-   "latency": 5.90104567249997,
+   "outputSpeed": 55.9601537743113,
+   "latency": 5.96980440549999,
    "contextWindowTokens": 500000
   },
   {
@@ -1080,8 +1080,8 @@
    "outputPrice": 1.32,
    "cacheHitPrice": 0.014,
    "blendedPrice": 0.66,
-   "outputSpeed": 216.093256171427,
-   "latency": 10.399037694647445,
+   "outputSpeed": 226.362008933674,
+   "latency": 9.973762208660261,
    "contextWindowTokens": 1000000
   },
   {
@@ -1100,8 +1100,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.45,
-   "outputSpeed": 117.701361411527,
-   "latency": 43.556532255,
+   "outputSpeed": 118.970892227368,
+   "latency": 39.2074596980001,
    "contextWindowTokens": 1000000
   },
   {
@@ -1120,8 +1120,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4,
-   "outputSpeed": 65.3814291909826,
-   "latency": 23.618934349,
+   "outputSpeed": 67.0011950985985,
+   "latency": 30.1874456109999,
    "contextWindowTokens": 1000000
   },
   {
@@ -1131,7 +1131,7 @@
    "releaseDate": "2026-07-31",
    "isReasoning": true,
    "isOpenWeights": true,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 34.5281879347816,
    "codingIndex": null,
@@ -1140,8 +1140,8 @@
    "outputPrice": 1.32,
    "cacheHitPrice": 0.014,
    "blendedPrice": 0.66,
-   "outputSpeed": 217.705665480663,
-   "latency": 10.755716248134908,
+   "outputSpeed": 220.465103939663,
+   "latency": 10.51901359354958,
    "contextWindowTokens": 1000000
   },
   {
@@ -1160,7 +1160,7 @@
    "outputPrice": 12,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4.5,
-   "outputSpeed": 84.3554611156139,
+   "outputSpeed": 86.2279569675967,
    "latency": 3.13577595649997,
    "contextWindowTokens": 1000000
   },
@@ -1171,7 +1171,7 @@
    "releaseDate": "2026-07-21",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 34.3395678920714,
    "codingIndex": null,
@@ -1180,8 +1180,8 @@
    "outputPrice": 3.75,
    "cacheHitPrice": 0.15,
    "blendedPrice": 1.5,
-   "outputSpeed": 176.854192619962,
-   "latency": 17.283297955,
+   "outputSpeed": 199.475526476905,
+   "latency": 18.3363438365,
    "contextWindowTokens": 1000000
   },
   {
@@ -1220,8 +1220,8 @@
    "outputPrice": 30,
    "cacheHitPrice": 0.5,
    "blendedPrice": 11.25,
-   "outputSpeed": 82.2006394056747,
-   "latency": 3.61679803150002,
+   "outputSpeed": 88.088929992763,
+   "latency": 4.87704793750004,
    "contextWindowTokens": 922000
   },
   {
@@ -1231,7 +1231,7 @@
    "releaseDate": "2026-06-16",
    "isReasoning": true,
    "isOpenWeights": true,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 34.0052322377545,
    "codingIndex": null,
@@ -1240,8 +1240,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": 0.26,
    "blendedPrice": 2.15,
-   "outputSpeed": 68.8638651298412,
-   "latency": 37.426791990713376,
+   "outputSpeed": 69.3183863744251,
+   "latency": 37.07122933625038,
    "contextWindowTokens": 1000000
   },
   {
@@ -1260,8 +1260,8 @@
    "outputPrice": 3,
    "cacheHitPrice": 0.05,
    "blendedPrice": 1.125,
-   "outputSpeed": 44.7132106838409,
-   "latency": 48.80166436526031,
+   "outputSpeed": 43.6575353602476,
+   "latency": 49.87182551111711,
    "contextWindowTokens": 256000
   },
   {
@@ -1280,8 +1280,8 @@
    "outputPrice": 20,
    "cacheHitPrice": 0.4,
    "blendedPrice": 8,
-   "outputSpeed": 61.8716630161432,
-   "latency": 3.16982246599997,
+   "outputSpeed": 65.4393906476627,
+   "latency": 3.19412595799998,
    "contextWindowTokens": 1000000
   },
   {
@@ -1311,7 +1311,7 @@
    "releaseDate": "2026-05-19",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": true,
    "intelligenceIndex": 33.6325871590289,
    "codingIndex": null,
@@ -1320,8 +1320,8 @@
    "outputPrice": 9,
    "cacheHitPrice": 0.15,
    "blendedPrice": 3.375,
-   "outputSpeed": 214.340212173996,
-   "latency": 13.1238214609999,
+   "outputSpeed": 218.593820740313,
+   "latency": 14.3351155175001,
    "contextWindowTokens": 1000000
   },
   {
@@ -1340,8 +1340,8 @@
    "outputPrice": 9,
    "cacheHitPrice": 0.15,
    "blendedPrice": 3.375,
-   "outputSpeed": 218.85195188726,
-   "latency": 16.108984007,
+   "outputSpeed": 226.587908802779,
+   "latency": 16.9015035504999,
    "contextWindowTokens": 1000000
   },
   {
@@ -1360,8 +1360,8 @@
    "outputPrice": 14,
    "cacheHitPrice": 0.175,
    "blendedPrice": 4.8125,
-   "outputSpeed": 132.474980905107,
-   "latency": 57.515992525,
+   "outputSpeed": 138.183579311104,
+   "latency": 60.19348069,
    "contextWindowTokens": 400000
   },
   {
@@ -1381,7 +1381,7 @@
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.45,
    "outputSpeed": 114.20091711512,
-   "latency": 10.7385630495,
+   "latency": 8.47044271949999,
    "contextWindowTokens": 1000000
   },
   {
@@ -1400,7 +1400,7 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4,
-   "outputSpeed": 61.5687891715372,
+   "outputSpeed": 67.5020009666245,
    "latency": 4.09502054149999,
    "contextWindowTokens": 1000000
   },
@@ -1421,7 +1421,7 @@
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
    "outputSpeed": 39.5778227617065,
-   "latency": 16.278521039,
+   "latency": 20.236485618,
    "contextWindowTokens": 1000000
   },
   {
@@ -1440,8 +1440,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 43.66529973381,
-   "latency": 1.03134532249999,
+   "outputSpeed": 46.0067180913184,
+   "latency": 1.17335523949998,
    "contextWindowTokens": 1000000
   },
   {
@@ -1451,7 +1451,7 @@
    "releaseDate": "2026-04-24",
    "isReasoning": true,
    "isOpenWeights": true,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 30.8650601315524,
    "codingIndex": null,
@@ -1460,8 +1460,8 @@
    "outputPrice": 0.87,
    "cacheHitPrice": 0.0036,
    "blendedPrice": 0.54375,
-   "outputSpeed": 82.2482489076583,
-   "latency": 54.800257097051094,
+   "outputSpeed": 85.52229651013,
+   "latency": 52.793849780461,
    "contextWindowTokens": 1000000
   },
   {
@@ -1480,8 +1480,8 @@
    "outputPrice": 30,
    "cacheHitPrice": 0.5,
    "blendedPrice": 11.25,
-   "outputSpeed": 96.8677526998781,
-   "latency": 1.67432688600003,
+   "outputSpeed": 98.5989634744458,
+   "latency": 1.7250934125,
    "contextWindowTokens": 922000
   },
   {
@@ -1500,8 +1500,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.3,
    "blendedPrice": 6,
-   "outputSpeed": 34.0777326409782,
-   "latency": 62.54257348751229,
+   "outputSpeed": 35.3303331123151,
+   "latency": 60.46180317490129,
    "contextWindowTokens": 1048576
   },
   {
@@ -1520,8 +1520,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.3,
    "blendedPrice": 6,
-   "outputSpeed": 47.6346115461532,
-   "latency": 124.1864674525,
+   "outputSpeed": 46.2957807305678,
+   "latency": 81.915188999,
    "contextWindowTokens": 1000000
   },
   {
@@ -1540,7 +1540,7 @@
    "outputPrice": 14,
    "cacheHitPrice": 0.175,
    "blendedPrice": 4.8125,
-   "outputSpeed": 74.573095475707,
+   "outputSpeed": 79.5048977847546,
    "latency": 82.535192892,
    "contextWindowTokens": 400000
   },
@@ -1561,7 +1561,7 @@
    "cacheHitPrice": 0.2,
    "blendedPrice": 4.5,
    "outputSpeed": 85.3122260609179,
-   "latency": 1.65465130099994,
+   "latency": 1.82618514749998,
    "contextWindowTokens": 1000000
   },
   {
@@ -1600,8 +1600,8 @@
    "outputPrice": 12,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4.5,
-   "outputSpeed": 113.448168917523,
-   "latency": 28.7406811284998,
+   "outputSpeed": 122.38124218976,
+   "latency": 30.5797116904999,
    "contextWindowTokens": 1000000
   },
   {
@@ -1621,7 +1621,7 @@
    "cacheHitPrice": 0.0036,
    "blendedPrice": 0.54375,
    "outputSpeed": 86.9034577636376,
-   "latency": 24.63285780919658,
+   "latency": 24.60765390619646,
    "contextWindowTokens": 1000000
   },
   {
@@ -1641,7 +1641,7 @@
    "cacheHitPrice": 0.5,
    "blendedPrice": 3.75,
    "outputSpeed": 195.383484734001,
-   "latency": 15.168876369910087,
+   "latency": 14.798163767910147,
    "contextWindowTokens": 1000000
   },
   {
@@ -1660,8 +1660,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.06,
    "blendedPrice": 0.5249999999999999,
-   "outputSpeed": 114.974934176015,
-   "latency": 18.714108119549554,
+   "outputSpeed": 130.437886425487,
+   "latency": 16.5886400021083,
    "contextWindowTokens": 1000000
   },
   {
@@ -1680,8 +1680,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 45.1882246001272,
-   "latency": 17.009891015,
+   "outputSpeed": 46.2194957297441,
+   "latency": 17.871391435,
    "contextWindowTokens": 200000
   },
   {
@@ -1700,8 +1700,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4,
-   "outputSpeed": 60.3113577613821,
-   "latency": 1.10649531450008,
+   "outputSpeed": 67.1190975388743,
+   "latency": 1.38739828000001,
    "contextWindowTokens": 1000000
   },
   {
@@ -1740,8 +1740,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4,
-   "outputSpeed": 60.1181173803436,
-   "latency": 2.00280824700002,
+   "outputSpeed": 65.7194652041802,
+   "latency": 2.07727663949993,
    "contextWindowTokens": 1000000
   },
   {
@@ -1760,8 +1760,8 @@
    "outputPrice": 7.8,
    "cacheHitPrice": 0.13,
    "blendedPrice": 2.925,
-   "outputSpeed": 63.5238584741086,
-   "latency": 35.016931526883305,
+   "outputSpeed": 63.5867848388054,
+   "latency": 34.81962129988311,
    "contextWindowTokens": 256000
   },
   {
@@ -1780,8 +1780,8 @@
    "outputPrice": 20,
    "cacheHitPrice": 0.4,
    "blendedPrice": 8,
-   "outputSpeed": 65.1487486777253,
-   "latency": 1.19150612950003,
+   "outputSpeed": 67.8325293016515,
+   "latency": 1.22859604799996,
    "contextWindowTokens": 1000000
   },
   {
@@ -1800,8 +1800,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.06,
    "blendedPrice": 0.5249999999999999,
-   "outputSpeed": 70.4768037645184,
-   "latency": 30.375945582059273,
+   "outputSpeed": 71.3222331486767,
+   "latency": 30.045292834113116,
    "contextWindowTokens": 512000
   },
   {
@@ -1840,8 +1840,8 @@
    "outputPrice": 12,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4.5,
-   "outputSpeed": 87.4671129683335,
-   "latency": 1.66380741250001,
+   "outputSpeed": 88.8146745835079,
+   "latency": 1.77793348999999,
    "contextWindowTokens": 1000000
   },
   {
@@ -1860,8 +1860,8 @@
    "outputPrice": 3.2,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.55,
-   "outputSpeed": 63.859858806152,
-   "latency": 50.05768510846762,
+   "outputSpeed": 63.3456247121388,
+   "latency": 50.45978424075687,
    "contextWindowTokens": 200000
   },
   {
@@ -1880,8 +1880,8 @@
    "outputPrice": 3,
    "cacheHitPrice": 0.05,
    "blendedPrice": 1.125,
-   "outputSpeed": 47.494056600812,
-   "latency": 45.93684515677181,
+   "outputSpeed": 50.2241195397478,
+   "latency": 43.616417787989676,
    "contextWindowTokens": 256000
   },
   {
@@ -1900,8 +1900,8 @@
    "outputPrice": 0.9,
    "cacheHitPrice": 0.01,
    "blendedPrice": 0.5625,
-   "outputSpeed": 174.017906785787,
-   "latency": 15.392884648274784,
+   "outputSpeed": 187.319535024557,
+   "latency": 14.549328698375934,
    "contextWindowTokens": 1000000
   },
   {
@@ -1920,8 +1920,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.25,
    "blendedPrice": 5.625,
-   "outputSpeed": 97.5176685639454,
-   "latency": 1.71431802300026,
+   "outputSpeed": 97.5831226555531,
+   "latency": 1.84821935800016,
    "contextWindowTokens": 1050000
   },
   {
@@ -1940,8 +1940,8 @@
    "outputPrice": 4,
    "cacheHitPrice": 0.16,
    "blendedPrice": 1.7125,
-   "outputSpeed": 37.039415404834,
-   "latency": 123.4584078686585,
+   "outputSpeed": 38.1614429942052,
+   "latency": 119.61362395073996,
    "contextWindowTokens": 256000
   },
   {
@@ -1960,8 +1960,8 @@
    "outputPrice": 2,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.25,
-   "outputSpeed": 49.3637969609681,
-   "latency": 41.136614774029574,
+   "outputSpeed": 51.0342246761299,
+   "latency": 39.770793687774585,
    "contextWindowTokens": 256000
   },
   {
@@ -1980,8 +1980,8 @@
    "outputPrice": 1.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.8999999999999999,
-   "outputSpeed": 146.287709866604,
-   "latency": 14.798916227388572,
+   "outputSpeed": 166.982085596115,
+   "latency": 13.054166367186117,
    "contextWindowTokens": 1000000
   },
   {
@@ -2000,8 +2000,8 @@
    "outputPrice": 3,
    "cacheHitPrice": 0.05,
    "blendedPrice": 1.125,
-   "outputSpeed": 56.2642427893247,
-   "latency": 100.80068063836907,
+   "outputSpeed": 56.1736058129674,
+   "latency": 100.90368382442342,
    "contextWindowTokens": 1000000
   },
   {
@@ -2020,8 +2020,8 @@
    "outputPrice": 30,
    "cacheHitPrice": 0.5,
    "blendedPrice": 11.25,
-   "outputSpeed": 134.6725969055,
-   "latency": 15.847750060472361,
+   "outputSpeed": 144.336859142526,
+   "latency": 14.840200012753025,
    "contextWindowTokens": 400000
   },
   {
@@ -2060,8 +2060,8 @@
    "outputPrice": 3,
    "cacheHitPrice": 0.05,
    "blendedPrice": 1.125,
-   "outputSpeed": 48.9579618235169,
-   "latency": 44.81463545167948,
+   "outputSpeed": 50.8653188477534,
+   "latency": 43.24803659956074,
    "contextWindowTokens": 256000
   },
   {
@@ -2080,8 +2080,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": 0.26,
    "blendedPrice": 2,
-   "outputSpeed": 51.9355473811313,
-   "latency": 74.70839390557845,
+   "outputSpeed": 47.3542604128075,
+   "latency": 81.89356861576778,
    "contextWindowTokens": 200000
   },
   {
@@ -2100,8 +2100,8 @@
    "outputPrice": 0.87,
    "cacheHitPrice": 0.0036,
    "blendedPrice": 0.54375,
-   "outputSpeed": 49.5188358504018,
-   "latency": 44.748897300636415,
+   "outputSpeed": 52.4078462367544,
+   "latency": 42.18671074419351,
    "contextWindowTokens": 1000000
   },
   {
@@ -2120,8 +2120,8 @@
    "outputPrice": 25,
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
-   "outputSpeed": 38.0631752973091,
-   "latency": 2.27817969350008,
+   "outputSpeed": 38.4428911419889,
+   "latency": 2.20804692050001,
    "contextWindowTokens": 1000000
   },
   {
@@ -2140,8 +2140,8 @@
    "outputPrice": 3,
    "cacheHitPrice": 0.05,
    "blendedPrice": 1.125,
-   "outputSpeed": 219.046202305803,
-   "latency": 5.98222267100005,
+   "outputSpeed": 228.903164665126,
+   "latency": 6.35043438050002,
    "contextWindowTokens": 1000000
   },
   {
@@ -2160,8 +2160,8 @@
    "outputPrice": 4,
    "cacheHitPrice": 0.19,
    "blendedPrice": 1.7125,
-   "outputSpeed": 50.9571395793026,
-   "latency": 46.560285515449074,
+   "outputSpeed": 58.2238421065853,
+   "latency": 41.119488491058426,
    "contextWindowTokens": 256000
   },
   {
@@ -2180,8 +2180,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.06,
    "blendedPrice": 0.5249999999999999,
-   "outputSpeed": 188.586538649352,
-   "latency": 12.704760057990086,
+   "outputSpeed": 184.775457809178,
+   "latency": 12.940557853819769,
    "contextWindowTokens": 1000000
   },
   {
@@ -2200,8 +2200,8 @@
    "outputPrice": 1.6,
    "cacheHitPrice": 0.04,
    "blendedPrice": 0.7000000000000001,
-   "outputSpeed": 68.934221469555,
-   "latency": 31.32102863856433,
+   "outputSpeed": 71.0857983548015,
+   "latency": 30.41269017730705,
    "contextWindowTokens": 1000000
   },
   {
@@ -2220,8 +2220,8 @@
    "outputPrice": 0.58,
    "cacheHitPrice": 0.035,
    "blendedPrice": 0.25,
-   "outputSpeed": 86.5537823915727,
-   "latency": 25.80828093385372,
+   "outputSpeed": 86.4119058966112,
+   "latency": 25.965981049093827,
    "contextWindowTokens": 256000
   },
   {
@@ -2241,7 +2241,7 @@
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.5625,
    "outputSpeed": 113.476976135112,
-   "latency": 17.5816144705,
+   "latency": 20.3011707265,
    "contextWindowTokens": 2000000
   },
   {
@@ -2260,8 +2260,8 @@
    "outputPrice": 4.05,
    "cacheHitPrice": 0.17,
    "blendedPrice": 1.7625,
-   "outputSpeed": 83.8196212160256,
-   "latency": 26.656074800092266,
+   "outputSpeed": 75.7136305068423,
+   "latency": 29.21126302395929,
    "contextWindowTokens": 1000000
   },
   {
@@ -2280,8 +2280,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.45,
-   "outputSpeed": 113.828477114563,
-   "latency": 2.44820279750002,
+   "outputSpeed": 109.692253042769,
+   "latency": 2.68806423600006,
    "contextWindowTokens": 1000000
   },
   {
@@ -2300,8 +2300,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.5625,
-   "outputSpeed": 118.973745550016,
-   "latency": 19.613391255,
+   "outputSpeed": 125.503435706361,
+   "latency": 20.574804376,
    "contextWindowTokens": 1000000
   },
   {
@@ -2340,8 +2340,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 144.074075875179,
-   "latency": 16.054480872940317,
+   "outputSpeed": 143.762257661986,
+   "latency": 16.104359913568995,
    "contextWindowTokens": 262144
   },
   {
@@ -2391,7 +2391,7 @@
    "releaseDate": "2026-04-30",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": true,
    "intelligenceIndex": 24.7816938151637,
    "codingIndex": null,
@@ -2400,8 +2400,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.5625,
-   "outputSpeed": 107.701584792427,
-   "latency": 12.5710983799999,
+   "outputSpeed": 108.038592545934,
+   "latency": 14.06724794,
    "contextWindowTokens": 1000000
   },
   {
@@ -2420,8 +2420,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4,
-   "outputSpeed": 57.0674648621887,
-   "latency": 1.53045107700005,
+   "outputSpeed": 65.2053346992785,
+   "latency": 1.81553827400006,
    "contextWindowTokens": 1000000
   },
   {
@@ -2440,8 +2440,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.125,
    "blendedPrice": 3.4375,
-   "outputSpeed": 102.061381963496,
-   "latency": 36.402148836,
+   "outputSpeed": 105.482574205404,
+   "latency": 43.4228267199999,
    "contextWindowTokens": 272000
   },
   {
@@ -2460,8 +2460,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.3,
    "blendedPrice": 6,
-   "outputSpeed": 42.3970197545333,
-   "latency": 1.29539341650002,
+   "outputSpeed": 43.4851283206752,
+   "latency": 1.33738948600004,
    "contextWindowTokens": 1000000
   },
   {
@@ -2500,8 +2500,8 @@
    "outputPrice": 4.5,
    "cacheHitPrice": 0.075,
    "blendedPrice": 1.6875,
-   "outputSpeed": 232.832183062938,
-   "latency": 137.130900842,
+   "outputSpeed": 213.069585811646,
+   "latency": 141.28010342,
    "contextWindowTokens": 400000
   },
   {
@@ -2511,7 +2511,7 @@
    "releaseDate": "2026-04-30",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": true,
    "intelligenceIndex": 24.2958998564863,
    "codingIndex": null,
@@ -2520,7 +2520,7 @@
    "outputPrice": 2.5,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.5625,
-   "outputSpeed": 102.317871633712,
+   "outputSpeed": 101.455969679525,
    "latency": 4.54580336250001,
    "contextWindowTokens": 1000000
   },
@@ -2540,8 +2540,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": 0.26,
    "blendedPrice": 2.135,
-   "outputSpeed": 33.8255111152124,
-   "latency": 2.00915564150006,
+   "outputSpeed": 33.4603717987896,
+   "latency": 1.97475956400012,
    "contextWindowTokens": 200000
   },
   {
@@ -2551,7 +2551,7 @@
    "releaseDate": "2026-05-19",
    "isReasoning": false,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": true,
    "intelligenceIndex": 23.848790860577,
    "codingIndex": null,
@@ -2560,8 +2560,8 @@
    "outputPrice": 9,
    "cacheHitPrice": 0.15,
    "blendedPrice": 3.375,
-   "outputSpeed": 208.504645762577,
-   "latency": 0.87235459050001,
+   "outputSpeed": 221.962498668663,
+   "latency": 0.883517405500015,
    "contextWindowTokens": 1000000
   },
   {
@@ -2601,7 +2601,7 @@
    "cacheHitPrice": 0.5,
    "blendedPrice": 10,
    "outputSpeed": 45.5672287053282,
-   "latency": 1.252192713,
+   "latency": 1.23069592999991,
    "contextWindowTokens": 200000
   },
   {
@@ -2620,8 +2620,8 @@
    "outputPrice": 4,
    "cacheHitPrice": 0.16,
    "blendedPrice": 1.7125,
-   "outputSpeed": 39.4016296436565,
-   "latency": 3.2581043555,
+   "outputSpeed": 38.2703356733092,
+   "latency": 3.06574721350003,
    "contextWindowTokens": 256000
   },
   {
@@ -2660,8 +2660,8 @@
    "outputPrice": 2.4,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.0499999999999998,
-   "outputSpeed": 179.029722776588,
-   "latency": 14.699718581876978,
+   "outputSpeed": 180.429890606177,
+   "latency": 14.735114116385423,
    "contextWindowTokens": 262144
   },
   {
@@ -2680,7 +2680,7 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.3,
    "blendedPrice": 6,
-   "outputSpeed": 42.1950908532956,
+   "outputSpeed": 42.0349573774363,
    "latency": 1.40933617100001,
    "contextWindowTokens": 1000000
   },
@@ -2700,8 +2700,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.06,
    "blendedPrice": 0.5249999999999999,
-   "outputSpeed": 62.4014198294001,
-   "latency": 41.17571561933992,
+   "outputSpeed": 63.14228117202,
+   "latency": 40.691305334632794,
    "contextWindowTokens": 204800
   },
   {
@@ -2720,8 +2720,8 @@
    "outputPrice": 30,
    "cacheHitPrice": 0.5,
    "blendedPrice": 11.25,
-   "outputSpeed": 82.4059259991112,
-   "latency": 0.964943795000067,
+   "outputSpeed": 92.4243896573878,
+   "latency": 0.969938895000041,
    "contextWindowTokens": 922000
   },
   {
@@ -2740,8 +2740,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 162.355233324328,
-   "latency": 59.81407322505373,
+   "outputSpeed": 161.499848114557,
+   "latency": 15.574002616455424,
    "contextWindowTokens": 262144
   },
   {
@@ -2760,8 +2760,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.125,
    "blendedPrice": 3.4375,
-   "outputSpeed": 88.1495810635714,
-   "latency": 62.6509967765001,
+   "outputSpeed": 82.2032280639012,
+   "latency": 65.0932860925001,
    "contextWindowTokens": 400000
   },
   {
@@ -2780,8 +2780,8 @@
    "outputPrice": 2.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.825,
-   "outputSpeed": 75.5368440059395,
-   "latency": 32.21899641913908,
+   "outputSpeed": 77.5582582115256,
+   "latency": 31.443202260345377,
    "contextWindowTokens": 262144
   },
   {
@@ -2800,7 +2800,7 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.125,
    "blendedPrice": 3.4375,
-   "outputSpeed": 81.741370969254,
+   "outputSpeed": 80.4823761914574,
    "latency": 30.7901045305,
    "contextWindowTokens": 400000
   },
@@ -2840,8 +2840,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.03,
    "blendedPrice": 0.5249999999999999,
-   "outputSpeed": 89.3983062871301,
-   "latency": 24.02739846425163,
+   "outputSpeed": 95.8899950233982,
+   "latency": 22.51284329775206,
    "contextWindowTokens": 204800
   },
   {
@@ -2900,8 +2900,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": 0.03,
    "blendedPrice": 0.85,
-   "outputSpeed": 373.921933081106,
-   "latency": 8.68446627950002,
+   "outputSpeed": 370.715217893811,
+   "latency": 8.88025009650005,
    "contextWindowTokens": 1000000
   },
   {
@@ -2940,8 +2940,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": 0.26,
    "blendedPrice": 2.15,
-   "outputSpeed": 143.806966415562,
-   "latency": 1.77670968899999,
+   "outputSpeed": 139.518129188851,
+   "latency": 1.78941877549982,
    "contextWindowTokens": 1000000
   },
   {
@@ -3000,8 +3000,8 @@
    "outputPrice": 0.28,
    "cacheHitPrice": 0.0028,
    "blendedPrice": 0.17500000000000002,
-   "outputSpeed": 49.0367667873761,
-   "latency": 46.74427704949454,
+   "outputSpeed": 51.2628765223709,
+   "latency": 45.45718983375144,
    "contextWindowTokens": 1000000
   },
   {
@@ -3020,8 +3020,8 @@
    "outputPrice": 2.2,
    "cacheHitPrice": 0.6,
    "blendedPrice": 1,
-   "outputSpeed": 104.081220690265,
-   "latency": 20.429403550417632,
+   "outputSpeed": 103.617347331454,
+   "latency": 20.506850821755293,
    "contextWindowTokens": 200000
   },
   {
@@ -3040,8 +3040,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 1.075,
-   "outputSpeed": 121.345117943375,
-   "latency": 17.849380141509698,
+   "outputSpeed": 118.519971393493,
+   "latency": 18.242490175110767,
    "contextWindowTokens": 256000
   },
   {
@@ -3051,7 +3051,7 @@
    "releaseDate": "2026-04-22",
    "isReasoning": true,
    "isOpenWeights": true,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 21.9050652240782,
    "codingIndex": null,
@@ -3060,8 +3060,8 @@
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 56.8848089339012,
-   "latency": 103.39097122299471,
+   "outputSpeed": 59.4400125356068,
+   "latency": 99.15558784373265,
    "contextWindowTokens": 262144
   },
   {
@@ -3120,8 +3120,8 @@
    "outputPrice": 3.2,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.55,
-   "outputSpeed": 57.826615721247,
-   "latency": 1.63702848999998,
+   "outputSpeed": 53.9549407019927,
+   "latency": 1.71098728949999,
    "contextWindowTokens": 200000
   },
   {
@@ -3160,8 +3160,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.45,
-   "outputSpeed": 100.296778176548,
-   "latency": 1.98239840349999,
+   "outputSpeed": 103.932453563994,
+   "latency": 2.19333649399994,
    "contextWindowTokens": 1000000
   },
   {
@@ -3200,8 +3200,8 @@
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 80.772002729697,
-   "latency": 2.163970408,
+   "outputSpeed": 80.0002152800965,
+   "latency": 2.17274089800003,
    "contextWindowTokens": 262144
   },
   {
@@ -3220,8 +3220,8 @@
    "outputPrice": 1.25,
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.4625,
-   "outputSpeed": 163.032547550147,
-   "latency": 61.1394105860001,
+   "outputSpeed": 158.562050947907,
+   "latency": 62.3139017244998,
    "contextWindowTokens": 400000
   },
   {
@@ -3240,8 +3240,8 @@
    "outputPrice": 12,
    "cacheHitPrice": 0.2,
    "blendedPrice": 4.5,
-   "outputSpeed": 91.563696017461,
-   "latency": 0.891560779499997,
+   "outputSpeed": 90.3739699485649,
+   "latency": 0.916391271500061,
    "contextWindowTokens": 1000000
   },
   {
@@ -3260,8 +3260,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.3,
    "blendedPrice": 6,
-   "outputSpeed": 43.1107884052215,
-   "latency": 7.93468841650003,
+   "outputSpeed": 42.1396868018328,
+   "latency": 7.72562362499991,
    "contextWindowTokens": 1000000
   },
   {
@@ -3280,8 +3280,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.5249999999999999,
-   "outputSpeed": 87.60084302754,
-   "latency": 24.57112727598313,
+   "outputSpeed": 93.0584382077408,
+   "latency": 23.313951265005468,
    "contextWindowTokens": 204800
   },
   {
@@ -3300,8 +3300,8 @@
    "outputPrice": 0.87,
    "cacheHitPrice": 0.0036,
    "blendedPrice": 0.54375,
-   "outputSpeed": 89.2164275969812,
-   "latency": 1.5415865185,
+   "outputSpeed": 89.3686567528483,
+   "latency": 1.74002086800002,
    "contextWindowTokens": 1000000
   },
   {
@@ -3340,8 +3340,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.125,
    "blendedPrice": 3.4375,
-   "outputSpeed": 92.4642076642307,
-   "latency": 5.5828050479999,
+   "outputSpeed": 88.1748207750098,
+   "latency": 5.9901376295,
    "contextWindowTokens": 400000
   },
   {
@@ -3380,8 +3380,8 @@
    "outputPrice": 0.22,
    "cacheHitPrice": 0.015,
    "blendedPrice": 0.11124999999999999,
-   "outputSpeed": 331.910534870187,
-   "latency": 8.505126425632405,
+   "outputSpeed": 339.440503086787,
+   "latency": 8.422708913327766,
    "contextWindowTokens": 262144
   },
   {
@@ -3400,8 +3400,8 @@
    "outputPrice": 2,
    "cacheHitPrice": 0.025,
    "blendedPrice": 0.6875,
-   "outputSpeed": 69.622458317992,
-   "latency": 17.068821457,
+   "outputSpeed": 66.5066385940983,
+   "latency": 18.562648987,
    "contextWindowTokens": 400000
   },
   {
@@ -3420,8 +3420,8 @@
    "outputPrice": 4.8,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 99.1597498375712,
-   "latency": 2.14212160600002,
+   "outputSpeed": 99.5049268944838,
+   "latency": 2.19178559000001,
    "contextWindowTokens": 256000
   },
   {
@@ -3460,8 +3460,8 @@
    "outputPrice": 8,
    "cacheHitPrice": 0.5,
    "blendedPrice": 3.5,
-   "outputSpeed": 129.698786860469,
-   "latency": 7.28937165599997,
+   "outputSpeed": 132.971863067058,
+   "latency": 7.13368453549992,
    "contextWindowTokens": 200000
   },
   {
@@ -3480,7 +3480,7 @@
    "outputPrice": 1.25,
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.4625,
-   "outputSpeed": 154.087574062976,
+   "outputSpeed": 152.172905008394,
    "latency": 4.54767937000008,
    "contextWindowTokens": 400000
   },
@@ -3491,7 +3491,7 @@
    "releaseDate": "2026-04-22",
    "isReasoning": false,
    "isOpenWeights": true,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": true,
    "intelligenceIndex": 19.8288203580036,
    "codingIndex": null,
@@ -3500,8 +3500,8 @@
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 58.9265325505288,
-   "latency": 3.63180347200001,
+   "outputSpeed": 60.7244226966649,
+   "latency": 3.66734270599994,
    "contextWindowTokens": 262144
   },
   {
@@ -3521,7 +3521,7 @@
    "cacheHitPrice": 0.075,
    "blendedPrice": 1.6875,
    "outputSpeed": 189.622505338251,
-   "latency": 6.42254234800001,
+   "latency": 4.45560328049998,
    "contextWindowTokens": 400000
   },
   {
@@ -3560,8 +3560,8 @@
    "outputPrice": 1.15,
    "cacheHitPrice": 0.04,
    "blendedPrice": 0.4375,
-   "outputSpeed": 147.00986003445,
-   "latency": 16.209670942169762,
+   "outputSpeed": 147.737461248418,
+   "latency": 16.080603988135973,
    "contextWindowTokens": 262144
   },
   {
@@ -3600,8 +3600,8 @@
    "outputPrice": 2.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.825,
-   "outputSpeed": 85.707224217377,
-   "latency": 5.56960661,
+   "outputSpeed": 85.8042484300455,
+   "latency": 5.7458963985,
    "contextWindowTokens": 262144
   },
   {
@@ -3620,8 +3620,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.3,
    "blendedPrice": 6,
-   "outputSpeed": 41.4788977725473,
-   "latency": 1.25121758100002,
+   "outputSpeed": 41.9554119970423,
+   "latency": 1.27970314799999,
    "contextWindowTokens": 1000000
   },
   {
@@ -3640,8 +3640,8 @@
    "outputPrice": 2,
    "cacheHitPrice": null,
    "blendedPrice": 0.6875,
-   "outputSpeed": 145.37728591188,
-   "latency": 15.847081505495304,
+   "outputSpeed": 149.369441370379,
+   "latency": 15.500608443246033,
    "contextWindowTokens": 262144
   },
   {
@@ -3660,8 +3660,8 @@
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 82.7271494044151,
-   "latency": 40.667832104753785,
+   "outputSpeed": 86.7358275480268,
+   "latency": 38.866917952822696,
    "contextWindowTokens": 262144
   },
   {
@@ -3700,8 +3700,8 @@
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.84375,
-   "outputSpeed": 123.974212935699,
-   "latency": 45.60493156775628,
+   "outputSpeed": 127.218887902964,
+   "latency": 44.49504219608929,
    "contextWindowTokens": 262144
   },
   {
@@ -3720,8 +3720,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.5249999999999999,
-   "outputSpeed": 92.7933229396063,
-   "latency": 23.265424301378445,
+   "outputSpeed": 94.6882310904483,
+   "latency": 22.819528982809096,
    "contextWindowTokens": 204800
   },
   {
@@ -3760,8 +3760,8 @@
    "outputPrice": 2.2,
    "cacheHitPrice": 0.55,
    "blendedPrice": 0.9625000000000001,
-   "outputSpeed": 39.2406191403456,
-   "latency": 54.43533787193221,
+   "outputSpeed": 38.8517827184542,
+   "latency": 55.0689146820536,
    "contextWindowTokens": 200000
   },
   {
@@ -3780,7 +3780,7 @@
    "outputPrice": 0.87,
    "cacheHitPrice": 0.0036,
    "blendedPrice": 0.54375,
-   "outputSpeed": 40.0741672065759,
+   "outputSpeed": 49.1900574612072,
    "latency": 4.40462807199998,
    "contextWindowTokens": 1000000
   },
@@ -3800,8 +3800,8 @@
    "outputPrice": 15,
    "cacheHitPrice": 0.25,
    "blendedPrice": 5.625,
-   "outputSpeed": 101.257498855207,
-   "latency": 0.833235606500011,
+   "outputSpeed": 101.401342927653,
+   "latency": 0.829912031000007,
    "contextWindowTokens": 1050000
   },
   {
@@ -3820,8 +3820,8 @@
    "outputPrice": 1.5,
    "cacheHitPrice": 0.04,
    "blendedPrice": 0.6375,
-   "outputSpeed": 98.4724864315033,
-   "latency": 21.35438791172723,
+   "outputSpeed": 99.4819610243102,
+   "latency": 21.12183240584172,
    "contextWindowTokens": 131072
   },
   {
@@ -3860,8 +3860,8 @@
    "outputPrice": 3,
    "cacheHitPrice": 0.05,
    "blendedPrice": 1.125,
-   "outputSpeed": 196.888044338402,
-   "latency": 0.879477313999985,
+   "outputSpeed": 211.102901268882,
+   "latency": 0.874130403500033,
    "contextWindowTokens": 1000000
   },
   {
@@ -3880,8 +3880,8 @@
    "outputPrice": 3.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.1,
-   "outputSpeed": 141.188286819723,
-   "latency": 2.32445386349996,
+   "outputSpeed": 140.803711166391,
+   "latency": 2.32729853799992,
    "contextWindowTokens": 262144
   },
   {
@@ -3901,7 +3901,7 @@
    "cacheHitPrice": 0.1,
    "blendedPrice": 2,
    "outputSpeed": 88.2436070753566,
-   "latency": 20.976434446,
+   "latency": 16.9057142914999,
    "contextWindowTokens": 200000
   },
   {
@@ -3920,8 +3920,8 @@
    "outputPrice": 2,
    "cacheHitPrice": 0.025,
    "blendedPrice": 0.6875,
-   "outputSpeed": 70.1680272203506,
-   "latency": 97.284224321,
+   "outputSpeed": 69.1716324536816,
+   "latency": 123.105517083,
    "contextWindowTokens": 400000
   },
   {
@@ -3940,8 +3940,8 @@
    "outputPrice": 2.2,
    "cacheHitPrice": 0.525,
    "blendedPrice": 1,
-   "outputSpeed": 101.126876469393,
-   "latency": 1.33049305049997,
+   "outputSpeed": 98.5693652644279,
+   "latency": 1.370167264,
    "contextWindowTokens": 200000
   },
   {
@@ -3960,8 +3960,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 124.977633153045,
-   "latency": 19.749845681284352,
+   "outputSpeed": 123.30252706457,
+   "latency": 19.997375878731706,
    "contextWindowTokens": 262144
   },
   {
@@ -4020,8 +4020,8 @@
    "outputPrice": 14,
    "cacheHitPrice": 0.175,
    "blendedPrice": 4.8125,
-   "outputSpeed": 70.3022922061703,
-   "latency": 1.12683046450001,
+   "outputSpeed": 73.9810244360247,
+   "latency": 1.20085678100005,
    "contextWindowTokens": 400000
   },
   {
@@ -4040,8 +4040,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.15000000000000002,
-   "outputSpeed": 130.107677315311,
-   "latency": 18.81863682308897,
+   "outputSpeed": 122.782566635924,
+   "latency": 19.700065954714486,
    "contextWindowTokens": 256000
   },
   {
@@ -4080,8 +4080,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.125,
    "blendedPrice": 3.4375,
-   "outputSpeed": 126.936043208126,
-   "latency": 21.9780357960001,
+   "outputSpeed": 127.81105866417,
+   "latency": 21.5809371745001,
    "contextWindowTokens": 1000000
   },
   {
@@ -4100,8 +4100,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": 0.275,
    "blendedPrice": 1.9250000000000003,
-   "outputSpeed": 141.834280228891,
-   "latency": 27.9282678815,
+   "outputSpeed": 139.488992492642,
+   "latency": 27.4691298705,
    "contextWindowTokens": 200000
   },
   {
@@ -4120,8 +4120,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15000000000000002,
-   "outputSpeed": 140.354935996101,
-   "latency": 17.605161108562847,
+   "outputSpeed": 122.094002899082,
+   "latency": 19.76151565542442,
    "contextWindowTokens": 256000
   },
   {
@@ -4180,8 +4180,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 2.4,
-   "outputSpeed": 58.6767691265943,
-   "latency": 38.16065738477021,
+   "outputSpeed": 58.3666038406177,
+   "latency": 38.34178829462635,
    "contextWindowTokens": 262144
   },
   {
@@ -4200,8 +4200,8 @@
    "outputPrice": 3.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.1,
-   "outputSpeed": 128.136204587209,
-   "latency": 17.964232760939026,
+   "outputSpeed": 127.781323312914,
+   "latency": 18.02951405429589,
    "contextWindowTokens": 262144
   },
   {
@@ -4220,8 +4220,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.45,
-   "outputSpeed": 109.057060807823,
-   "latency": 0.813408276499956,
+   "outputSpeed": 103.638043996641,
+   "latency": 0.79298804550001,
    "contextWindowTokens": 1000000
   },
   {
@@ -4260,8 +4260,8 @@
    "outputPrice": 1.5,
    "cacheHitPrice": 0.025,
    "blendedPrice": 0.5625,
-   "outputSpeed": 298.430347101981,
-   "latency": 5.28803439300004,
+   "outputSpeed": 332.009600187563,
+   "latency": 5.39444307300007,
    "contextWindowTokens": 1000000
   },
   {
@@ -4280,8 +4280,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 2.4,
-   "outputSpeed": 50.9584077457583,
-   "latency": 2.394104643,
+   "outputSpeed": 49.0834410935312,
+   "latency": 2.28650414850001,
    "contextWindowTokens": 262144
   },
   {
@@ -4300,8 +4300,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 34.9337335731258,
-   "latency": 50.71877568217024,
+   "outputSpeed": 35.1137800690964,
+   "latency": 50.44200725030681,
    "contextWindowTokens": 256000
   },
   {
@@ -4320,8 +4320,8 @@
    "outputPrice": 5,
    "cacheHitPrice": 0.1,
    "blendedPrice": 2,
-   "outputSpeed": 87.4396619840351,
-   "latency": 0.663426145000017,
+   "outputSpeed": 88.091801870162,
+   "latency": 0.67424242650003,
    "contextWindowTokens": 200000
   },
   {
@@ -4360,8 +4360,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 1.075,
-   "outputSpeed": 40.2538300220574,
-   "latency": 1.12853000499996,
+   "outputSpeed": 40.0306066254192,
+   "latency": 1.16553291900004,
    "contextWindowTokens": 256000
   },
   {
@@ -4400,8 +4400,8 @@
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.84375,
-   "outputSpeed": 131.562023722743,
-   "latency": 2.05734606050007,
+   "outputSpeed": 130.714014693067,
+   "latency": 2.08452556399999,
    "contextWindowTokens": 262144
   },
   {
@@ -4440,8 +4440,8 @@
    "outputPrice": 2,
    "cacheHitPrice": null,
    "blendedPrice": 0.6875,
-   "outputSpeed": 164.281148415483,
-   "latency": 2.05246386499999,
+   "outputSpeed": 165.180380076869,
+   "latency": 2.040629648,
    "contextWindowTokens": 262144
   },
   {
@@ -4460,8 +4460,8 @@
    "outputPrice": 2.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.98125,
-   "outputSpeed": 36.1493507603657,
-   "latency": 3.96124684449998,
+   "outputSpeed": 35.9593400732721,
+   "latency": 4.03653749900013,
    "contextWindowTokens": 200000
   },
   {
@@ -4480,8 +4480,8 @@
    "outputPrice": 7.5,
    "cacheHitPrice": 0.15,
    "blendedPrice": 3,
-   "outputSpeed": 144.644463300035,
-   "latency": 16.0854332596417,
+   "outputSpeed": 142.153558039118,
+   "latency": 16.32771888964032,
    "contextWindowTokens": 256000
   },
   {
@@ -4501,7 +4501,7 @@
    "cacheHitPrice": 0.07,
    "blendedPrice": 0.15250000000000002,
    "outputSpeed": 72.4295515238497,
-   "latency": 29.19904956276612,
+   "latency": 29.19307147276613,
    "contextWindowTokens": 200000
   },
   {
@@ -4520,8 +4520,8 @@
    "outputPrice": 0.65,
    "cacheHitPrice": 0.04,
    "blendedPrice": 0.2825,
-   "outputSpeed": 76.4554639755988,
-   "latency": 26.983382537895146,
+   "outputSpeed": 75.0005977776162,
+   "latency": 27.462221253208238,
    "contextWindowTokens": 131072
   },
   {
@@ -4540,8 +4540,8 @@
    "outputPrice": 0.5,
    "cacheHitPrice": 0.075,
    "blendedPrice": 0.35,
-   "outputSpeed": 74.0051360578063,
-   "latency": 27.708664329332738,
+   "outputSpeed": 75.6881766142027,
+   "latency": 27.131531317196952,
    "contextWindowTokens": 1000000
   },
   {
@@ -4571,7 +4571,7 @@
    "releaseDate": "2026-04-30",
    "isReasoning": false,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 14.5407059505055,
    "codingIndex": null,
@@ -4580,8 +4580,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.5625,
-   "outputSpeed": 106.880815219484,
-   "latency": 0.752127056999961,
+   "outputSpeed": 105.750362946905,
+   "latency": 0.816544978999957,
    "contextWindowTokens": 1000000
   },
   {
@@ -4620,8 +4620,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": 0.2,
    "blendedPrice": 1.5625,
-   "outputSpeed": 101.921655209652,
-   "latency": 0.587174236499919,
+   "outputSpeed": 99.8759260236295,
+   "latency": 0.574409843999945,
    "contextWindowTokens": 2000000
   },
   {
@@ -4640,8 +4640,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15000000000000002,
-   "outputSpeed": 109.978917570613,
-   "latency": 20.604292170390508,
+   "outputSpeed": 111.880270901269,
+   "latency": 20.30382489219686,
    "contextWindowTokens": 256000
   },
   {
@@ -4660,8 +4660,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.312,
    "blendedPrice": 3.4375,
-   "outputSpeed": 114.774783285561,
-   "latency": 32.342030588014296,
+   "outputSpeed": 113.708637314852,
+   "latency": 32.46323825346765,
    "contextWindowTokens": 256000
   },
   {
@@ -4700,8 +4700,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 243.443202242568,
-   "latency": 8.599688523604842,
+   "outputSpeed": 246.960155521429,
+   "latency": 8.506518138273108,
    "contextWindowTokens": 192000
   },
   {
@@ -4720,8 +4720,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": 0.14,
    "blendedPrice": 0.20500000000000002,
-   "outputSpeed": 45.1680081745767,
-   "latency": 1.95064851699999,
+   "outputSpeed": 43.9818036187747,
+   "latency": 1.95986389900011,
    "contextWindowTokens": 256000
   },
   {
@@ -4800,8 +4800,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.15125,
-   "outputSpeed": 80.4936234496434,
-   "latency": 26.704690328967207,
+   "outputSpeed": 68.8857087425941,
+   "latency": 30.891600035535635,
    "contextWindowTokens": 262144
   },
   {
@@ -4840,8 +4840,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": 0.05,
    "blendedPrice": 0.095,
-   "outputSpeed": 291.829527372557,
-   "latency": 7.441433132490365,
+   "outputSpeed": 292.620729320668,
+   "latency": 7.435876223045318,
    "contextWindowTokens": 1000000
   },
   {
@@ -4860,8 +4860,8 @@
    "outputPrice": 0.65,
    "cacheHitPrice": null,
    "blendedPrice": 0.306875,
-   "outputSpeed": 165.866094932928,
-   "latency": 14.554165202523276,
+   "outputSpeed": 139.862192380659,
+   "latency": 16.6804144751193,
    "contextWindowTokens": 1000000
   },
   {
@@ -4900,8 +4900,8 @@
    "outputPrice": 4,
    "cacheHitPrice": null,
    "blendedPrice": 1.3,
-   "outputSpeed": 57.0283706507217,
-   "latency": 37.96603652531419,
+   "outputSpeed": 53.7010846564182,
+   "latency": 40.1073877883892,
    "contextWindowTokens": 262144
   },
   {
@@ -4940,8 +4940,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 167.008870290712,
-   "latency": 26.044473312046357,
+   "outputSpeed": 161.912843733664,
+   "latency": 26.968230479779315,
    "contextWindowTokens": 1000000
   },
   {
@@ -4960,8 +4960,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.125,
    "blendedPrice": 3.4375,
-   "outputSpeed": 91.7591270752262,
-   "latency": 1.12127894249998,
+   "outputSpeed": 96.4345493364362,
+   "latency": 1.06049445299999,
    "contextWindowTokens": 400000
   },
   {
@@ -4980,7 +4980,7 @@
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.19,
-   "outputSpeed": 88.7677761405736,
+   "outputSpeed": 86.2466222746225,
    "latency": 0.758162765999998,
    "contextWindowTokens": 262144
   },
@@ -5000,8 +5000,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": 0.125,
    "blendedPrice": 0.1975,
-   "outputSpeed": 64.4923283364797,
-   "latency": 1.472614299,
+   "outputSpeed": 64.7005529204953,
+   "latency": 1.52422025499982,
    "contextWindowTokens": 256000
   },
   {
@@ -5020,8 +5020,8 @@
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.06,
-   "outputSpeed": 19.7236641525596,
-   "latency": 102.13968125258071,
+   "outputSpeed": 17.5888891600316,
+   "latency": 114.45386576214203,
    "contextWindowTokens": 262144
   },
   {
@@ -5060,8 +5060,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": 0.03,
    "blendedPrice": 0.85,
-   "outputSpeed": 220.516034529197,
-   "latency": 25.590301664,
+   "outputSpeed": 226.51320166426,
+   "latency": 24.589884812,
    "contextWindowTokens": 1000000
   },
   {
@@ -5080,8 +5080,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": 0.005,
    "blendedPrice": 0.1375,
-   "outputSpeed": 169.612480062097,
-   "latency": 101.824460911,
+   "outputSpeed": 162.743189626185,
+   "latency": 102.1775980735,
    "contextWindowTokens": 400000
   },
   {
@@ -5100,8 +5100,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.4375,
-   "outputSpeed": 113.679949033634,
-   "latency": 28.47563122384487,
+   "outputSpeed": 112.677988326384,
+   "latency": 26.89820880117769,
    "contextWindowTokens": 256000
   },
   {
@@ -5120,8 +5120,8 @@
    "outputPrice": 2.3,
    "cacheHitPrice": null,
    "blendedPrice": 1.0025,
-   "outputSpeed": 40.0445722622823,
-   "latency": 1.59147880449996,
+   "outputSpeed": 39.86203942042,
+   "latency": 1.64962737449997,
    "contextWindowTokens": 128000
   },
   {
@@ -5140,8 +5140,8 @@
    "outputPrice": 2.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.7474999999999999,
-   "outputSpeed": 63.1684717785455,
-   "latency": 34.50154265245849,
+   "outputSpeed": 58.6939866906423,
+   "latency": 36.88880930895931,
    "contextWindowTokens": 256000
   },
   {
@@ -5160,8 +5160,8 @@
    "outputPrice": 8,
    "cacheHitPrice": 0.5,
    "blendedPrice": 3.5,
-   "outputSpeed": 138.781276278296,
-   "latency": 1.04465274549995,
+   "outputSpeed": 132.718707880343,
+   "latency": 1.08935632049992,
    "contextWindowTokens": 1000000
   },
   {
@@ -5180,8 +5180,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 2.4,
-   "outputSpeed": 57.9850705316795,
-   "latency": 4.14278944600017,
+   "outputSpeed": 59.8019815304255,
+   "latency": 4.0779478340001,
    "contextWindowTokens": 262144
   },
   {
@@ -5201,7 +5201,7 @@
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
    "outputSpeed": 166.993420574022,
-   "latency": 27.903788381746512,
+   "latency": 29.478397452746712,
    "contextWindowTokens": 1000000
   },
   {
@@ -5220,7 +5220,7 @@
    "outputPrice": 0.4,
    "cacheHitPrice": 0.005,
    "blendedPrice": 0.1375,
-   "outputSpeed": 160.457587034238,
+   "outputSpeed": 152.880716946618,
    "latency": 36.910570129,
    "contextWindowTokens": 400000
   },
@@ -5240,8 +5240,8 @@
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.275,
-   "outputSpeed": 235.984632212616,
-   "latency": 1.8355825955,
+   "outputSpeed": 243.25339268732,
+   "latency": 1.86316625149994,
    "contextWindowTokens": 256000
   },
   {
@@ -5260,8 +5260,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": 0.55,
    "blendedPrice": 1.9250000000000003,
-   "outputSpeed": 191.528424136798,
-   "latency": 5.91135438850012,
+   "outputSpeed": 193.392703293955,
+   "latency": 5.45976496149999,
    "contextWindowTokens": 200000
   },
   {
@@ -5300,8 +5300,8 @@
    "outputPrice": 0.595,
    "cacheHitPrice": 0.125,
    "blendedPrice": 0.26125,
-   "outputSpeed": 198.297720668202,
-   "latency": 10.935668057237798,
+   "outputSpeed": 174.326274099814,
+   "latency": 12.333522672227732,
    "contextWindowTokens": 131072
   },
   {
@@ -5340,8 +5340,8 @@
    "outputPrice": 0.57,
    "cacheHitPrice": null,
    "blendedPrice": 0.3,
-   "outputSpeed": 37.794243425057,
-   "latency": 55.925442161422666,
+   "outputSpeed": 35.7044252911927,
+   "latency": 58.967299608284364,
    "contextWindowTokens": 512000
   },
   {
@@ -5360,7 +5360,7 @@
    "outputPrice": 0.92,
    "cacheHitPrice": null,
    "blendedPrice": 0.4025,
-   "outputSpeed": 59.3909433173956,
+   "outputSpeed": 58.0435314145891,
    "latency": 2.37960341200005,
    "contextWindowTokens": 256000
   },
@@ -5380,7 +5380,7 @@
    "outputPrice": 7.5,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 51.7168743193322,
+   "outputSpeed": 51.2974507195324,
    "latency": 3.03576110300003,
    "contextWindowTokens": 262144
   },
@@ -5400,8 +5400,8 @@
    "outputPrice": 0.64,
    "cacheHitPrice": null,
    "blendedPrice": 0.28,
-   "outputSpeed": 89.4519383932113,
-   "latency": 24.93311455773775,
+   "outputSpeed": 88.8547811108001,
+   "latency": 25.176734101394302,
    "contextWindowTokens": 256000
   },
   {
@@ -5420,8 +5420,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 168.083646150436,
-   "latency": 14.481983753383707,
+   "outputSpeed": 161.694651581487,
+   "latency": 14.947619165207197,
    "contextWindowTokens": 262144
   },
   {
@@ -5440,8 +5440,8 @@
    "outputPrice": 0.25,
    "cacheHitPrice": 0.015,
    "blendedPrice": 0.1075,
-   "outputSpeed": 67.1128450700528,
-   "latency": 30.456222750314286,
+   "outputSpeed": 90.801211759614,
+   "latency": 22.661484342099207,
    "contextWindowTokens": 131072
   },
   {
@@ -5460,29 +5460,9 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 172.630570951932,
-   "latency": 19.910604340981056,
+   "outputSpeed": 159.360978456621,
+   "latency": 19.76243636053821,
    "contextWindowTokens": 1000000
-  },
-  {
-   "slug": "hypernova-60b",
-   "name": "HyperNova 60B 2605 (high)",
-   "creator": "Multiverse Computing",
-   "releaseDate": "2026-05-26",
-   "isReasoning": true,
-   "isOpenWeights": true,
-   "deprecated": false,
-   "estimated": true,
-   "intelligenceIndex": 11.7380211033452,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 0.04,
-   "outputPrice": 0.14,
-   "cacheHitPrice": null,
-   "blendedPrice": 0.065,
-   "outputSpeed": 355.119250465455,
-   "latency": 6.203395793869651,
-   "contextWindowTokens": 131072
   },
   {
    "slug": "minimax-m1-80k",
@@ -5521,7 +5501,7 @@
    "cacheHitPrice": 0.02,
    "blendedPrice": 0.4625,
    "outputSpeed": 147.53612287409,
-   "latency": 0.8417348925,
+   "latency": 0.85163302849999,
    "contextWindowTokens": 400000
   },
   {
@@ -5540,8 +5520,8 @@
    "outputPrice": 0.75,
    "cacheHitPrice": 0.025,
    "blendedPrice": 0.375,
-   "outputSpeed": 659.489684644011,
-   "latency": 5.00414280349996,
+   "outputSpeed": 610.247582263254,
+   "latency": 7.42955257100004,
    "contextWindowTokens": 128000
   },
   {
@@ -5560,8 +5540,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.26249999999999996,
-   "outputSpeed": 168.062468622908,
-   "latency": 12.667059006693789,
+   "outputSpeed": 173.575436705566,
+   "latency": 12.29445869583424,
    "contextWindowTokens": 256000
   },
   {
@@ -5580,8 +5560,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 0.125,
    "blendedPrice": 3.4375,
-   "outputSpeed": 87.3618422862704,
-   "latency": 1.41053795549999,
+   "outputSpeed": 87.1090071276905,
+   "latency": 1.29668084200001,
    "contextWindowTokens": 400000
   },
   {
@@ -5640,8 +5620,8 @@
    "outputPrice": 0.9,
    "cacheHitPrice": null,
    "blendedPrice": 0.44999999999999996,
-   "outputSpeed": 73.3522482390124,
-   "latency": 30.78141261160955,
+   "outputSpeed": 70.6309973074749,
+   "latency": 31.968442025997962,
    "contextWindowTokens": 128000
   },
   {
@@ -5660,8 +5640,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.4125,
-   "outputSpeed": 197.328790203217,
-   "latency": 12.53771991386033,
+   "outputSpeed": 201.896059187458,
+   "latency": 12.308438796244236,
    "contextWindowTokens": 262144
   },
   {
@@ -5680,8 +5660,8 @@
    "outputPrice": 4.5,
    "cacheHitPrice": 0.075,
    "blendedPrice": 1.6875,
-   "outputSpeed": 177.386969146732,
-   "latency": 0.843277461999946,
+   "outputSpeed": 184.757803375044,
+   "latency": 0.81300911749986,
    "contextWindowTokens": 400000
   },
   {
@@ -5720,8 +5700,8 @@
    "outputPrice": 0.98,
    "cacheHitPrice": null,
    "blendedPrice": 0.3725,
-   "outputSpeed": 63.4727295219686,
-   "latency": 34.00514278018328,
+   "outputSpeed": 62.7393094919473,
+   "latency": 34.35231208654785,
    "contextWindowTokens": 128000
   },
   {
@@ -5760,8 +5740,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": 0.55,
    "blendedPrice": 1.9250000000000003,
-   "outputSpeed": 233.50079738707,
-   "latency": 19.119783942,
+   "outputSpeed": 223.922509707261,
+   "latency": 19.230031875,
    "contextWindowTokens": 200000
   },
   {
@@ -5780,8 +5760,8 @@
    "outputPrice": 0.9,
    "cacheHitPrice": null,
    "blendedPrice": 0.4125,
-   "outputSpeed": 324.18940637181,
-   "latency": 7.460635634732511,
+   "outputSpeed": 311.48152909168,
+   "latency": 7.705965627857061,
    "contextWindowTokens": 512000
   },
   {
@@ -5820,8 +5800,8 @@
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.06,
-   "outputSpeed": 14.5189831789809,
-   "latency": 0.860376359999975,
+   "outputSpeed": 12.9586947724176,
+   "latency": 0.775328611000077,
    "contextWindowTokens": 262144
   },
   {
@@ -5840,8 +5820,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.15250000000000002,
-   "outputSpeed": 120.753090579983,
-   "latency": 1.60305291300001,
+   "outputSpeed": 105.892125511233,
+   "latency": 1.65102251849996,
    "contextWindowTokens": 200000
   },
   {
@@ -5900,8 +5880,8 @@
    "outputPrice": 0.5449999999999999,
    "cacheHitPrice": 0.15,
    "blendedPrice": 0.24874999999999997,
-   "outputSpeed": 191.638677711077,
-   "latency": 11.289073893595035,
+   "outputSpeed": 173.370718648091,
+   "latency": 12.406111238710281,
    "contextWindowTokens": 131072
   },
   {
@@ -5920,8 +5900,8 @@
    "outputPrice": 1.6,
    "cacheHitPrice": 0.1,
    "blendedPrice": 0.7000000000000001,
-   "outputSpeed": 118.832983054897,
-   "latency": 0.846400195500024,
+   "outputSpeed": 118.86458321643,
+   "latency": 0.84874717750003,
    "contextWindowTokens": 1000000
   },
   {
@@ -5940,7 +5920,7 @@
    "outputPrice": 1.2,
    "cacheHitPrice": 0.35,
    "blendedPrice": 0.5625,
-   "outputSpeed": 101.921712716078,
+   "outputSpeed": 104.562894620083,
    "latency": 1.22740057299995,
    "contextWindowTokens": 256000
   },
@@ -5960,8 +5940,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.4375,
-   "outputSpeed": 107.588674863186,
-   "latency": 1.05132058749996,
+   "outputSpeed": 102.081938579971,
+   "latency": 1.08206368599997,
    "contextWindowTokens": 256000
   },
   {
@@ -5980,8 +5960,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.10250000000000001,
-   "outputSpeed": 254.319010069012,
-   "latency": 8.702412374992006,
+   "outputSpeed": 249.942564526874,
+   "latency": 8.840111911487657,
    "contextWindowTokens": 131072
   },
   {
@@ -6000,8 +5980,8 @@
    "outputPrice": 1.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.7000000000000001,
-   "outputSpeed": 51.9295051540136,
-   "latency": 2.6514054189999,
+   "outputSpeed": 49.7872767091561,
+   "latency": 2.66520994749999,
    "contextWindowTokens": 262144
   },
   {
@@ -6020,8 +6000,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 78.5710890705377,
-   "latency": 25.8595826265862,
+   "outputSpeed": 76.1061007083298,
+   "latency": 26.664780340951232,
    "contextWindowTokens": 256000
   },
   {
@@ -6040,8 +6020,8 @@
    "outputPrice": 2,
    "cacheHitPrice": 0.025,
    "blendedPrice": 0.6875,
-   "outputSpeed": 66.8002935307655,
-   "latency": 1.08381601449998,
+   "outputSpeed": 66.6462433070236,
+   "latency": 1.14893859649998,
    "contextWindowTokens": 400000
   },
   {
@@ -6060,8 +6040,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": 0.03,
    "blendedPrice": 0.85,
-   "outputSpeed": 201.284958229272,
-   "latency": 0.431339370500012,
+   "outputSpeed": 216.841168977908,
+   "latency": 0.443579424500002,
    "contextWindowTokens": 1000000
   },
   {
@@ -6080,8 +6060,8 @@
    "outputPrice": 2.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.75,
-   "outputSpeed": 152.325554511764,
-   "latency": 15.505751237609358,
+   "outputSpeed": 155.070295238739,
+   "latency": 15.295298413767831,
    "contextWindowTokens": 262144
   },
   {
@@ -6120,8 +6100,8 @@
    "outputPrice": 1.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.75,
-   "outputSpeed": 79.7812933861595,
-   "latency": 1.04673836099997,
+   "outputSpeed": 78.1157485120034,
+   "latency": 1.05598212700005,
    "contextWindowTokens": 256000
   },
   {
@@ -6140,7 +6120,7 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.4125,
-   "outputSpeed": 184.864387868698,
+   "outputSpeed": 184.283508228776,
    "latency": 2.19075961649997,
    "contextWindowTokens": 262144
   },
@@ -6160,8 +6140,8 @@
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.9,
-   "outputSpeed": 93.9703327385747,
-   "latency": 2.64257352850007,
+   "outputSpeed": 93.1738948233956,
+   "latency": 2.65246754750007,
    "contextWindowTokens": 262144
   },
   {
@@ -6181,7 +6161,7 @@
    "cacheHitPrice": null,
    "blendedPrice": 0.8,
    "outputSpeed": 138.497426338393,
-   "latency": 2.22769122199998,
+   "latency": 2.21166616450002,
    "contextWindowTokens": 128000
   },
   {
@@ -6240,8 +6220,8 @@
    "outputPrice": 2.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.75,
-   "outputSpeed": 110.542071489362,
-   "latency": 20.248486110790584,
+   "outputSpeed": 110.44879004194,
+   "latency": 20.28943628372328,
    "contextWindowTokens": 256000
   },
   {
@@ -6260,8 +6240,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 137.758814892901,
-   "latency": 2.26223592199995,
+   "outputSpeed": 136.132364823342,
+   "latency": 2.300304117,
    "contextWindowTokens": 256000
   },
   {
@@ -6280,8 +6260,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15000000000000002,
-   "outputSpeed": 106.39767479574,
-   "latency": 2.39107082299995,
+   "outputSpeed": 108.464233372756,
+   "latency": 2.40063595399999,
    "contextWindowTokens": 262144
   },
   {
@@ -6320,8 +6300,8 @@
    "outputPrice": 0.9099999999999999,
    "cacheHitPrice": 0.245,
    "blendedPrice": 0.4225,
-   "outputSpeed": 105.473423487526,
-   "latency": 0.866785505999928,
+   "outputSpeed": 111.007989565547,
+   "latency": 0.872769938000033,
    "contextWindowTokens": 1000000
   },
   {
@@ -6340,8 +6320,8 @@
    "outputPrice": 12.5,
    "cacheHitPrice": 0.625,
    "blendedPrice": 5,
-   "outputSpeed": 32.9449234924527,
-   "latency": 2.80720755600004,
+   "outputSpeed": 31.0580521568856,
+   "latency": 2.859272696,
    "contextWindowTokens": 1000000
   },
   {
@@ -6361,7 +6341,7 @@
    "cacheHitPrice": 0.0075,
    "blendedPrice": 0.0525,
    "outputSpeed": 208.072046742699,
-   "latency": 10.045053712441378,
+   "latency": 10.041310685441422,
    "contextWindowTokens": 131072
   },
   {
@@ -6380,8 +6360,8 @@
    "outputPrice": 2,
    "cacheHitPrice": null,
    "blendedPrice": 0.8,
-   "outputSpeed": 143.625751760934,
-   "latency": 2.24595434150016,
+   "outputSpeed": 142.308592656022,
+   "latency": 2.26579135199998,
    "contextWindowTokens": 128000
   },
   {
@@ -6400,8 +6380,8 @@
    "outputPrice": 0.19,
    "cacheHitPrice": null,
    "blendedPrice": 0.0925,
-   "outputSpeed": 213.706742455951,
-   "latency": 10.116521276825075,
+   "outputSpeed": 205.187613509645,
+   "latency": 10.486658212936877,
    "contextWindowTokens": 131072
   },
   {
@@ -6420,8 +6400,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.4,
-   "outputSpeed": 68.6552104552713,
-   "latency": 33.99507731669233,
+   "outputSpeed": 46.1931417382663,
+   "latency": 52.58632125288866,
    "contextWindowTokens": 128000
   },
   {
@@ -6440,8 +6420,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.26249999999999996,
-   "outputSpeed": 159.478453177301,
-   "latency": 0.737851720500004,
+   "outputSpeed": 164.94271197541,
+   "latency": 0.751727317000075,
    "contextWindowTokens": 256000
   },
   {
@@ -6460,8 +6440,8 @@
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.04,
-   "outputSpeed": 44.4101372907437,
-   "latency": 45.86212516092904,
+   "outputSpeed": 42.7859547992677,
+   "latency": 47.60941924876289,
    "contextWindowTokens": 128000
   },
   {
@@ -6480,8 +6460,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.08750000000000001,
-   "outputSpeed": 133.066729839557,
-   "latency": 16.515864758280383,
+   "outputSpeed": 109.611199447177,
+   "latency": 20.050444762522584,
    "contextWindowTokens": 1000000
   },
   {
@@ -6520,8 +6500,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 154.531431342413,
-   "latency": 1.01244212550001,
+   "outputSpeed": 152.947206251945,
+   "latency": 1.04497885149999,
    "contextWindowTokens": 1000000
   },
   {
@@ -6580,8 +6560,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": 0.01,
    "blendedPrice": 0.17500000000000002,
-   "outputSpeed": 400.739746966367,
-   "latency": 24.0692973909999,
+   "outputSpeed": 380.040652637826,
+   "latency": 24.42282024,
    "contextWindowTokens": 1000000
   },
   {
@@ -6620,8 +6600,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 1.5,
    "blendedPrice": 4.375,
-   "outputSpeed": 127.574198324272,
-   "latency": 1.00550943849998,
+   "outputSpeed": 123.283049638527,
+   "latency": 1.03646241249996,
    "contextWindowTokens": 128000
   },
   {
@@ -6661,7 +6641,7 @@
    "cacheHitPrice": null,
    "blendedPrice": 0.28,
    "outputSpeed": 57.8735224193834,
-   "latency": 2.82262235749988,
+   "latency": 2.8466270749999,
    "contextWindowTokens": 256000
   },
   {
@@ -6680,8 +6660,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 133.46525109368,
-   "latency": 2.23940763499999,
+   "outputSpeed": 131.137846653751,
+   "latency": 2.2937167880001,
    "contextWindowTokens": 256000
   },
   {
@@ -6700,8 +6680,8 @@
    "outputPrice": 0.9,
    "cacheHitPrice": null,
    "blendedPrice": 0.44999999999999996,
-   "outputSpeed": 59.5755199861723,
-   "latency": 3.32022004850006,
+   "outputSpeed": 60.9470794737144,
+   "latency": 2.86189333350004,
    "contextWindowTokens": 128000
   },
   {
@@ -6720,8 +6700,8 @@
    "outputPrice": 2.8,
    "cacheHitPrice": null,
    "blendedPrice": 1.2249999999999999,
-   "outputSpeed": 57.6351239178933,
-   "latency": 2.76108788950001,
+   "outputSpeed": 56.3268335430051,
+   "latency": 2.74429870849985,
    "contextWindowTokens": 32768
   },
   {
@@ -6760,8 +6740,8 @@
    "outputPrice": 2.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.66,
-   "outputSpeed": 113.802111044225,
-   "latency": 19.889545486510926,
+   "outputSpeed": 111.554826565842,
+   "latency": 20.24358306705674,
    "contextWindowTokens": 256000
   },
   {
@@ -6800,8 +6780,8 @@
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.35000000000000003,
-   "outputSpeed": 112.679283121931,
-   "latency": 2.18734314449997,
+   "outputSpeed": 112.493060309298,
+   "latency": 2.18933042049997,
    "contextWindowTokens": 256000
   },
   {
@@ -6820,8 +6800,8 @@
    "outputPrice": 1.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.7999999999999999,
-   "outputSpeed": 24.9555418157438,
-   "latency": 81.1311066006897,
+   "outputSpeed": 24.4533522422812,
+   "latency": 82.71759371683962,
    "contextWindowTokens": 128000
   },
   {
@@ -6860,8 +6840,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": 0.025,
    "blendedPrice": 0.17500000000000002,
-   "outputSpeed": 145.661396849916,
-   "latency": 0.800465830999997,
+   "outputSpeed": 141.071308697051,
+   "latency": 0.837584317000164,
    "contextWindowTokens": 1000000
   },
   {
@@ -6871,7 +6851,7 @@
    "releaseDate": "2026-04-06",
    "isReasoning": true,
    "isOpenWeights": false,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": false,
    "intelligenceIndex": 7.81551744502774,
    "codingIndex": null,
@@ -6880,8 +6860,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": 0.015,
    "blendedPrice": 0.26249999999999996,
-   "outputSpeed": 146.069689265636,
-   "latency": 16.173810669233095,
+   "outputSpeed": 147.289243730933,
+   "latency": 16.281991365601588,
    "contextWindowTokens": 128000
   },
   {
@@ -6900,8 +6880,8 @@
    "outputPrice": 0.57,
    "cacheHitPrice": null,
    "blendedPrice": 0.2475,
-   "outputSpeed": 8.4503230056794,
-   "latency": 2.72939505949999,
+   "outputSpeed": 6.35659906465637,
+   "latency": 2.70543903650002,
    "contextWindowTokens": 128000
   },
   {
@@ -6920,8 +6900,8 @@
    "outputPrice": 0.97,
    "cacheHitPrice": null,
    "blendedPrice": 0.43,
-   "outputSpeed": 100.602774721137,
-   "latency": 21.771783599534515,
+   "outputSpeed": 99.9635865078674,
+   "latency": 21.91691752077731,
    "contextWindowTokens": 65536
   },
   {
@@ -6940,8 +6920,8 @@
    "outputPrice": 10,
    "cacheHitPrice": 1.25,
    "blendedPrice": 4.375,
-   "outputSpeed": 88.2926183029877,
-   "latency": 1.31556122300001,
+   "outputSpeed": 86.5116826705312,
+   "latency": 1.30528343050008,
    "contextWindowTokens": 128000
   },
   {
@@ -6976,12 +6956,12 @@
    "intelligenceIndex": 7.66380859299009,
    "codingIndex": null,
    "agenticIndex": null,
-   "inputPrice": 0.655,
+   "inputPrice": 0.71,
    "outputPrice": 0.72,
-   "cacheHitPrice": 0.655,
-   "blendedPrice": 0.67125,
+   "cacheHitPrice": 0.71,
+   "blendedPrice": 0.7124999999999999,
    "outputSpeed": 87.0238250592725,
-   "latency": 1.63526327599993,
+   "latency": 1.62626690699994,
    "contextWindowTokens": 128000
   },
   {
@@ -7000,8 +6980,8 @@
    "outputPrice": 2.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.75,
-   "outputSpeed": 105.522872482744,
-   "latency": 21.11514096094011,
+   "outputSpeed": 106.273405527951,
+   "latency": 20.97024665362096,
    "contextWindowTokens": 32768
   },
   {
@@ -7020,8 +7000,8 @@
    "outputPrice": 1.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.8999999999999999,
-   "outputSpeed": 38.2794509168052,
-   "latency": 55.02087632728385,
+   "outputSpeed": 38.7287675418379,
+   "latency": 54.41931360602995,
    "contextWindowTokens": 64000
   },
   {
@@ -7040,8 +7020,8 @@
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.35000000000000003,
-   "outputSpeed": 140.22702613525,
-   "latency": 1.80844620099998,
+   "outputSpeed": 142.408725287021,
+   "latency": 1.80675426749997,
    "contextWindowTokens": 262144
   },
   {
@@ -7080,8 +7060,8 @@
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 42.9531029522008,
-   "latency": 49.027875199241,
+   "outputSpeed": 43.2212137855878,
+   "latency": 48.731198315808044,
    "contextWindowTokens": 128000
   },
   {
@@ -7100,8 +7080,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.30000000000000004,
-   "outputSpeed": 100.398659472808,
-   "latency": 23.75639884304658,
+   "outputSpeed": 60.8025198982094,
+   "latency": 37.61614762340267,
    "contextWindowTokens": 128000
   },
   {
@@ -7120,8 +7100,8 @@
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.04,
-   "outputSpeed": 42.2304073752587,
-   "latency": 0.751036979499986,
+   "outputSpeed": 40.730585015161,
+   "latency": 0.751175947999996,
    "contextWindowTokens": 128000
   },
   {
@@ -7140,8 +7120,8 @@
    "outputPrice": 0.16,
    "cacheHitPrice": null,
    "blendedPrice": 0.07,
-   "outputSpeed": 94.9368315606349,
-   "latency": 31.19559601432684,
+   "outputSpeed": 105.332875576145,
+   "latency": 25.99539839962616,
    "contextWindowTokens": 131072
   },
   {
@@ -7160,8 +7140,8 @@
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 43.8590769828233,
-   "latency": 2.35581866999997,
+   "outputSpeed": 44.174978632777,
+   "latency": 2.33769267150001,
    "contextWindowTokens": 128000
   },
   {
@@ -7180,8 +7160,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15000000000000002,
-   "outputSpeed": 162.22964017509,
-   "latency": 0.75004661600002,
+   "outputSpeed": 159.222353589012,
+   "latency": 0.757681905499936,
    "contextWindowTokens": 128000
   },
   {
@@ -7200,8 +7180,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.4,
-   "outputSpeed": 87.4356041177708,
-   "latency": 7.18137403700004,
+   "outputSpeed": 50.9397927856758,
+   "latency": 8.96743743950003,
    "contextWindowTokens": 128000
   },
   {
@@ -7220,8 +7200,8 @@
    "outputPrice": 0.64,
    "cacheHitPrice": null,
    "blendedPrice": 0.28,
-   "outputSpeed": 106.030278091358,
-   "latency": 2.45166189900004,
+   "outputSpeed": 105.205082699026,
+   "latency": 2.50416632199997,
    "contextWindowTokens": 32768
   },
   {
@@ -7240,8 +7220,8 @@
    "outputPrice": 15,
    "cacheHitPrice": null,
    "blendedPrice": 7.5,
-   "outputSpeed": 67.7701240789349,
-   "latency": 1.24224937599999,
+   "outputSpeed": 64.0596725557382,
+   "latency": 1.45930614700001,
    "contextWindowTokens": 128000
   },
   {
@@ -7260,8 +7240,8 @@
    "outputPrice": 0.7,
    "cacheHitPrice": null,
    "blendedPrice": 0.31,
-   "outputSpeed": 116.620245234997,
-   "latency": 2.255401742,
+   "outputSpeed": 114.248621656257,
+   "latency": 2.29051251649997,
    "contextWindowTokens": 256000
   },
   {
@@ -7300,8 +7280,8 @@
    "outputPrice": 0.64,
    "cacheHitPrice": null,
    "blendedPrice": 0.28,
-   "outputSpeed": 105.852892503886,
-   "latency": 21.359474699128715,
+   "outputSpeed": 104.95967742636,
+   "latency": 21.565808948830256,
    "contextWindowTokens": 32768
   },
   {
@@ -7380,8 +7360,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": 0.005,
    "blendedPrice": 0.1375,
-   "outputSpeed": 148.941204160034,
-   "latency": 0.854739023000036,
+   "outputSpeed": 147.643604575912,
+   "latency": 0.915346703999944,
    "contextWindowTokens": 400000
   },
   {
@@ -7400,8 +7380,8 @@
    "outputPrice": 30,
    "cacheHitPrice": null,
    "blendedPrice": 15,
-   "outputSpeed": 32.4133320285129,
-   "latency": 3.24859973900004,
+   "outputSpeed": 31.5623933916787,
+   "latency": 3.08061507999992,
    "contextWindowTokens": 128000
   },
   {
@@ -7420,8 +7400,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15000000000000002,
-   "outputSpeed": 156.546432327582,
-   "latency": 0.802436300999944,
+   "outputSpeed": 151.848105310117,
+   "latency": 0.793325526999923,
    "contextWindowTokens": 128000
   },
   {
@@ -7460,8 +7440,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4.375,
-   "outputSpeed": 51.3150904185896,
-   "latency": 1.75432460299999,
+   "outputSpeed": 53.2421838836857,
+   "latency": 1.820189766,
    "contextWindowTokens": 256000
   },
   {
@@ -7480,8 +7460,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.2,
-   "outputSpeed": 115.365840589016,
-   "latency": 3.58853874899995,
+   "outputSpeed": 75.8546894745425,
+   "latency": 7.8709744245001,
    "contextWindowTokens": 128000
   },
   {
@@ -7500,8 +7480,8 @@
    "outputPrice": 0.05,
    "cacheHitPrice": null,
    "blendedPrice": 0.0275,
-   "outputSpeed": 140.99630828888,
-   "latency": 0.826535169999943,
+   "outputSpeed": 138.213323967943,
+   "latency": 0.82332753799983,
    "contextWindowTokens": 128000
   },
   {
@@ -7520,8 +7500,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.08750000000000001,
-   "outputSpeed": 152.890897883075,
-   "latency": 0.97686771849996,
+   "outputSpeed": 143.257604202979,
+   "latency": 0.971365746999936,
    "contextWindowTokens": 1000000
   },
   {
@@ -7540,8 +7520,8 @@
    "outputPrice": 0.195,
    "cacheHitPrice": null,
    "blendedPrice": 0.08625000000000001,
-   "outputSpeed": 142.730471704554,
-   "latency": 1.60851135749999,
+   "outputSpeed": 132.91691393713,
+   "latency": 2.1272080795,
    "contextWindowTokens": 131072
   },
   {
@@ -7580,7 +7560,7 @@
    "outputPrice": 1.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.6124999999999999,
-   "outputSpeed": 62.9465730153122,
+   "outputSpeed": 62.7719571493957,
    "latency": 2.69471407849997,
    "contextWindowTokens": 32768
   },
@@ -7620,8 +7600,8 @@
    "outputPrice": 1.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.8999999999999999,
-   "outputSpeed": 41.3073799223358,
-   "latency": 3.08920802299997,
+   "outputSpeed": 41.1667874273208,
+   "latency": 2.69856166600016,
    "contextWindowTokens": 64000
   },
   {
@@ -7640,8 +7620,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15000000000000002,
-   "outputSpeed": 157.335283175583,
-   "latency": 0.796762674000092,
+   "outputSpeed": 153.889957831054,
+   "latency": 0.818382171999986,
    "contextWindowTokens": 32000
   },
   {
@@ -7660,8 +7640,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": 0.01,
    "blendedPrice": 0.17500000000000002,
-   "outputSpeed": 297.890483415318,
-   "latency": 0.314768632499949,
+   "outputSpeed": 327.764342659023,
+   "latency": 0.310349673999994,
    "contextWindowTokens": 1000000
   },
   {
@@ -7680,8 +7660,8 @@
    "outputPrice": 0.24,
    "cacheHitPrice": 0.015,
    "blendedPrice": 0.105,
-   "outputSpeed": 176.288819041163,
-   "latency": 0.922526027999965,
+   "outputSpeed": 169.579728140012,
+   "latency": 0.937357919000007,
    "contextWindowTokens": 300000
   },
   {
@@ -7700,8 +7680,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": 0.075,
    "blendedPrice": 0.26249999999999996,
-   "outputSpeed": 152.456220612614,
-   "latency": 0.858560805500076,
+   "outputSpeed": 147.19668788912,
+   "latency": 0.866725640000084,
    "contextWindowTokens": 128000
   },
   {
@@ -7720,8 +7700,8 @@
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.35000000000000003,
-   "outputSpeed": 108.021836395396,
-   "latency": 2.17867448050004,
+   "outputSpeed": 104.847578181162,
+   "latency": 2.22757071550001,
    "contextWindowTokens": 32768
   },
   {
@@ -7740,8 +7720,8 @@
    "outputPrice": 0.56,
    "cacheHitPrice": null,
    "blendedPrice": 0.56,
-   "outputSpeed": 68.2162046441285,
-   "latency": 1.55888980900005,
+   "outputSpeed": 69.958760158121,
+   "latency": 1.49800963050001,
    "contextWindowTokens": 128000
   },
   {
@@ -7751,7 +7731,7 @@
    "releaseDate": "2026-04-29",
    "isReasoning": false,
    "isOpenWeights": true,
-   "deprecated": false,
+   "deprecated": true,
    "estimated": true,
    "intelligenceIndex": 6.57208916161427,
    "codingIndex": null,
@@ -7760,8 +7740,8 @@
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.0625,
-   "outputSpeed": 124.895154420054,
-   "latency": 0.783986044499954,
+   "outputSpeed": 99.7940208765371,
+   "latency": 0.800859679500149,
    "contextWindowTokens": 131072
   },
   {
@@ -7800,8 +7780,8 @@
    "outputPrice": 0.6799999999999999,
    "cacheHitPrice": null,
    "blendedPrice": 0.3125,
-   "outputSpeed": 105.043085531569,
-   "latency": 0.842859729999873,
+   "outputSpeed": 103.025118718727,
+   "latency": 0.85489867800004,
    "contextWindowTokens": 10000000
   },
   {
@@ -7820,8 +7800,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.08750000000000001,
-   "outputSpeed": 108.507015569034,
-   "latency": 2.17083236300005,
+   "outputSpeed": 107.362393678764,
+   "latency": 2.14743350100002,
    "contextWindowTokens": 1000000
   },
   {
@@ -7880,8 +7860,8 @@
    "outputPrice": 4.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.3125,
-   "outputSpeed": 62.7372478108672,
-   "latency": 34.58376441034123,
+   "outputSpeed": 61.8394873221504,
+   "latency": 35.07434466471171,
    "contextWindowTokens": 32768
   },
   {
@@ -7900,8 +7880,8 @@
    "outputPrice": 0.7,
    "cacheHitPrice": null,
    "blendedPrice": 0.325,
-   "outputSpeed": 1438.93555327355,
-   "latency": 0.586483110499898,
+   "outputSpeed": 1463.09568634564,
+   "latency": 0.583745993999912,
    "contextWindowTokens": 131072
   },
   {
@@ -7920,8 +7900,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 45.6434967645856,
-   "latency": 0.88281646799993,
+   "outputSpeed": 45.7738858319009,
+   "latency": 0.883643120499926,
    "contextWindowTokens": 128000
   },
   {
@@ -7940,8 +7920,8 @@
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.1075,
-   "outputSpeed": 25.2973224539525,
-   "latency": 21.8772468284999,
+   "outputSpeed": 33.4289455741993,
+   "latency": 15.076754332,
    "contextWindowTokens": 128000
   },
   {
@@ -7960,8 +7940,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 85.7332303183591,
-   "latency": 0.9187897354999,
+   "outputSpeed": 87.0444397150657,
+   "latency": 0.907481412999914,
    "contextWindowTokens": 256000
   },
   {
@@ -8001,7 +7981,7 @@
    "cacheHitPrice": null,
    "blendedPrice": 0.43,
    "outputSpeed": 97.0625871769834,
-   "latency": 1.8527537085,
+   "latency": 1.84687940449998,
    "contextWindowTokens": 65536
   },
   {
@@ -8020,8 +8000,8 @@
    "outputPrice": 0.7,
    "cacheHitPrice": null,
    "blendedPrice": 0.7,
-   "outputSpeed": 31.0519984080366,
-   "latency": 2.05671424550002,
+   "outputSpeed": 30.236622747792,
+   "latency": 2.10487121149998,
    "contextWindowTokens": 128000
   },
   {
@@ -8040,8 +8020,8 @@
    "outputPrice": 0.7,
    "cacheHitPrice": null,
    "blendedPrice": 0.31,
-   "outputSpeed": 36.4106915793532,
-   "latency": 3.66803992300001,
+   "outputSpeed": 36.8701770548385,
+   "latency": 3.70271138000001,
    "contextWindowTokens": 32768
   },
   {
@@ -8060,8 +8040,8 @@
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.21875,
-   "outputSpeed": 41.1325401936764,
-   "latency": 2.507644583,
+   "outputSpeed": 36.3714385267619,
+   "latency": 2.55631877899987,
    "contextWindowTokens": 16000
   },
   {
@@ -8080,8 +8060,8 @@
    "outputPrice": 0.14,
    "cacheHitPrice": 0.00875,
    "blendedPrice": 0.061250000000000006,
-   "outputSpeed": 303.061320437028,
-   "latency": 0.854019543999925,
+   "outputSpeed": 279.300826374198,
+   "latency": 0.862373769999934,
    "contextWindowTokens": 130000
   },
   {
@@ -8100,8 +8080,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.30000000000000004,
-   "outputSpeed": 161.217738679988,
-   "latency": 0.796193607999953,
+   "outputSpeed": 155.746830524534,
+   "latency": 0.747463471999936,
    "contextWindowTokens": 32768
   },
   {
@@ -8120,8 +8100,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.30000000000000004,
-   "outputSpeed": 197.556631335019,
-   "latency": 1.62014148999992,
+   "outputSpeed": 197.365287650019,
+   "latency": 1.73433330899997,
    "contextWindowTokens": 128000
   },
   {
@@ -8140,8 +8120,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 17.0280922355013,
-   "latency": 0.873897377999981,
+   "outputSpeed": 17.0522398289197,
+   "latency": 0.890364648500054,
    "contextWindowTokens": 128000
   },
   {
@@ -8240,8 +8220,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.26249999999999996,
-   "outputSpeed": 157.512058427803,
-   "latency": 0.740971917000024,
+   "outputSpeed": 151.64412546312,
+   "latency": 0.776026815999998,
    "contextWindowTokens": 32768
   },
   {
@@ -8260,8 +8240,8 @@
    "outputPrice": 7.5,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 137.700685025064,
-   "latency": 2.27093137599979,
+   "outputSpeed": 131.574767773454,
+   "latency": 2.24821114699997,
    "contextWindowTokens": 32768
   },
   {
@@ -8301,7 +8281,7 @@
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
    "outputSpeed": 90.8976421083491,
-   "latency": 0.74558760299999,
+   "latency": 0.753708093499995,
    "contextWindowTokens": 256000
   },
   {
@@ -8420,8 +8400,8 @@
    "outputPrice": 2.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.66,
-   "outputSpeed": 38.1901325812411,
-   "latency": 56.17360933011653,
+   "outputSpeed": 37.452201511139,
+   "latency": 57.20546100766009,
    "contextWindowTokens": 131072
   },
   {
@@ -8480,8 +8460,8 @@
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.25,
-   "outputSpeed": 90.4038493013662,
-   "latency": 0.760257934500033,
+   "outputSpeed": 93.3438099801317,
+   "latency": 0.763805775000094,
    "contextWindowTokens": 8192
   },
   {
@@ -8500,8 +8480,8 @@
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.08499999999999999,
-   "outputSpeed": 15.8074962263582,
-   "latency": 27.0063761085,
+   "outputSpeed": 16.3900485350026,
+   "latency": 26.662879076,
    "contextWindowTokens": 128000
   },
   {
@@ -8540,7 +8520,7 @@
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.1,
-   "outputSpeed": 216.980435840434,
+   "outputSpeed": 222.586171474581,
    "latency": 0.640497081000092,
    "contextWindowTokens": 256000
   },
