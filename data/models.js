@@ -1,5 +1,5 @@
 window.__AA_DATA__ = {
- "fetchedAt": "2026-09-30T15:46:12.772Z",
+ "fetchedAt": "2026-10-01T16:12:48.783Z",
  "source": "api-oficial",
  "intelligenceIndexVersion": null,
  "attribution": "Dados: Artificial Analysis (https://artificialanalysis.ai)",
@@ -20,8 +20,8 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 95.679,
-   "latency": 479.922,
+   "outputSpeed": 95.995,
+   "latency": 481.193,
    "contextWindowTokens": null
   },
   {
@@ -40,8 +40,8 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 80.803,
-   "latency": 53.385,
+   "outputSpeed": 80.078,
+   "latency": 41.938,
    "contextWindowTokens": null
   },
   {
@@ -60,8 +60,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 145.279,
-   "latency": 308.288,
+   "outputSpeed": 145.124,
+   "latency": 284.979,
    "contextWindowTokens": null
   },
   {
@@ -80,8 +80,8 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 74.417,
-   "latency": 16.413,
+   "outputSpeed": 76.486,
+   "latency": 16.772,
    "contextWindowTokens": null
   },
   {
@@ -100,8 +100,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 69.184,
-   "latency": 113.701,
+   "outputSpeed": 69.003,
+   "latency": 127.394,
    "contextWindowTokens": null
   },
   {
@@ -120,13 +120,13 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 59.636,
-   "latency": 36.22,
+   "outputSpeed": 61.484,
+   "latency": 37.608,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-astra",
-   "name": "GPT-6 Astra (max)",
+   "name": "GPT-6 Astra (Max)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-03",
    "isReasoning": null,
@@ -140,13 +140,33 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 54.549,
-   "latency": 184.738,
+   "outputSpeed": 52.341,
+   "latency": 194.747,
+   "contextWindowTokens": null
+  },
+  {
+   "slug": "gemini-4-argon",
+   "name": "Gemini 4 Argon (High)",
+   "creator": "Google",
+   "releaseDate": "2026-09-30",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 52.6,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 2,
+   "outputPrice": 10,
+   "cacheHitPrice": null,
+   "blendedPrice": 4,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-astra-xhigh",
-   "name": "GPT-6 Astra (xhigh)",
+   "name": "GPT-6 Astra (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-03",
    "isReasoning": null,
@@ -160,8 +180,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 52.972,
-   "latency": 79.195,
+   "outputSpeed": 49.704,
+   "latency": 74.33,
    "contextWindowTokens": null
   },
   {
@@ -180,13 +200,13 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 109.722,
+   "outputSpeed": 112.379,
    "latency": 15.042,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-1-sol",
-   "name": "GPT-6.1 Sol (max)",
+   "name": "GPT-6.1 Sol (Max)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-29",
    "isReasoning": null,
@@ -200,8 +220,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 80.013,
-   "latency": 157.7,
+   "outputSpeed": 68.576,
+   "latency": 134.009,
    "contextWindowTokens": null
   },
   {
@@ -220,8 +240,8 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 73.613,
-   "latency": 12.608,
+   "outputSpeed": 73.504,
+   "latency": 13.621,
    "contextWindowTokens": null
   },
   {
@@ -240,13 +260,13 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 51.949,
-   "latency": 6.344,
+   "outputSpeed": 52.756,
+   "latency": 7.01,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-1-sol-xhigh",
-   "name": "GPT-6.1 Sol (xhigh)",
+   "name": "GPT-6.1 Sol (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-29",
    "isReasoning": null,
@@ -260,13 +280,13 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 73.56,
-   "latency": 47.373,
+   "outputSpeed": 61.806,
+   "latency": 51.195,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-astra-high",
-   "name": "GPT-6 Astra (high)",
+   "name": "GPT-6 Astra (High)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-03",
    "isReasoning": null,
@@ -280,8 +300,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 49.969,
-   "latency": 34.812,
+   "outputSpeed": 50.744,
+   "latency": 27.551,
    "contextWindowTokens": null
   },
   {
@@ -306,7 +326,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-6-1-sol-high",
-   "name": "GPT-6.1 Sol (high)",
+   "name": "GPT-6.1 Sol (High)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-29",
    "isReasoning": null,
@@ -320,8 +340,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 68.522,
-   "latency": 20.905,
+   "outputSpeed": 59.225,
+   "latency": 20.276,
    "contextWindowTokens": null
   },
   {
@@ -366,7 +386,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-6-astra-medium",
-   "name": "GPT-6 Astra (medium)",
+   "name": "GPT-6 Astra (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-03",
    "isReasoning": null,
@@ -380,8 +400,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 49.184,
-   "latency": 3.986,
+   "outputSpeed": 49.943,
+   "latency": 4.249,
    "contextWindowTokens": null
   },
   {
@@ -400,8 +420,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 49.475,
-   "latency": 5.42,
+   "outputSpeed": 48.238,
+   "latency": 5.5,
    "contextWindowTokens": null
   },
   {
@@ -426,7 +446,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "muse-spark-1-3",
-   "name": "Muse Spark 1.3 (max)",
+   "name": "Muse Spark 1.3 (Max)",
    "creator": "Meta",
    "releaseDate": "2026-09-02",
    "isReasoning": null,
@@ -440,13 +460,13 @@ window.__AA_DATA__ = {
    "outputPrice": 4.25,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 195.622,
-   "latency": 33.065,
+   "outputSpeed": 172.206,
+   "latency": 47.677,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-1-sol-medium",
-   "name": "GPT-6.1 Sol (medium)",
+   "name": "GPT-6.1 Sol (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-29",
    "isReasoning": null,
@@ -460,33 +480,33 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 69.944,
-   "latency": 4.128,
+   "outputSpeed": 64.364,
+   "latency": 3.627,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-sol",
-   "name": "GPT-6 Sol (max)",
+   "name": "GPT-6 Sol (Max)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-22",
    "isReasoning": null,
    "isOpenWeights": null,
    "deprecated": false,
    "estimated": false,
-   "intelligenceIndex": 47.5,
+   "intelligenceIndex": 47.6,
    "codingIndex": null,
    "agenticIndex": null,
    "inputPrice": 2,
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 79.832,
-   "latency": 116.988,
+   "outputSpeed": 83.804,
+   "latency": 113.588,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-sol",
-   "name": "GPT-5.6 Sol (max)",
+   "name": "GPT-5.6 Sol (Max)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -520,7 +540,7 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 51.59,
+   "outputSpeed": 50.544,
    "latency": 3.309,
    "contextWindowTokens": null
   },
@@ -540,13 +560,13 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 105.624,
-   "latency": 7.512,
+   "outputSpeed": 106.339,
+   "latency": 7.074,
    "contextWindowTokens": null
   },
   {
    "slug": "grok-4-7",
-   "name": "Grok 4.7 (xhigh)",
+   "name": "Grok 4.7 (Xhigh)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-09-21",
    "isReasoning": null,
@@ -560,13 +580,13 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 82.607,
-   "latency": 22.566,
+   "outputSpeed": 83.02,
+   "latency": 17.794,
    "contextWindowTokens": null
   },
   {
    "slug": "grok-4-7-high",
-   "name": "Grok 4.7 (high)",
+   "name": "Grok 4.7 (High)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-09-21",
    "isReasoning": null,
@@ -580,8 +600,8 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 78.595,
-   "latency": 18.289,
+   "outputSpeed": 81.236,
+   "latency": 13.682,
    "contextWindowTokens": null
   },
   {
@@ -600,13 +620,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.87,
    "cacheHitPrice": null,
    "blendedPrice": 0.544,
-   "outputSpeed": 44.954,
-   "latency": 47.784,
+   "outputSpeed": 47.877,
+   "latency": 45.191,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-astra-low",
-   "name": "GPT-6 Astra (low)",
+   "name": "GPT-6 Astra (Low)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-03",
    "isReasoning": null,
@@ -620,8 +640,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 47.823,
-   "latency": 2.098,
+   "outputSpeed": 46.052,
+   "latency": 2.047,
    "contextWindowTokens": null
   },
   {
@@ -641,12 +661,12 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 3,
    "outputSpeed": 39.824,
-   "latency": 52.047,
+   "latency": 51.993,
    "contextWindowTokens": null
   },
   {
    "slug": "muse-spark-1-3-xhigh",
-   "name": "Muse Spark 1.3 (xhigh)",
+   "name": "Muse Spark 1.3 (Xhigh)",
    "creator": "Meta",
    "releaseDate": "2026-09-02",
    "isReasoning": null,
@@ -660,8 +680,8 @@ window.__AA_DATA__ = {
    "outputPrice": 4.25,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 162.293,
-   "latency": 45.723,
+   "outputSpeed": 189.341,
+   "latency": 42.494,
    "contextWindowTokens": null
   },
   {
@@ -686,7 +706,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "glm-5-3",
-   "name": "GLM-5.3 (max)",
+   "name": "GLM-5.3 (Max)",
    "creator": "Z AI",
    "releaseDate": "2026-08-18",
    "isReasoning": null,
@@ -700,13 +720,13 @@ window.__AA_DATA__ = {
    "outputPrice": 4.4,
    "cacheHitPrice": null,
    "blendedPrice": 2.15,
-   "outputSpeed": 70.087,
-   "latency": 31.33,
+   "outputSpeed": 69.345,
+   "latency": 31.551,
    "contextWindowTokens": null
   },
   {
    "slug": "grok-4-6",
-   "name": "Grok 4.6 (high)",
+   "name": "Grok 4.6 (High)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-08-12",
    "isReasoning": null,
@@ -720,13 +740,33 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 62.616,
-   "latency": 27.853,
+   "outputSpeed": 55.666,
+   "latency": 17.578,
+   "contextWindowTokens": null
+  },
+  {
+   "slug": "gpt-6-sol-xhigh",
+   "name": "GPT-6 Sol (Xhigh)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 44.2,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 2,
+   "outputPrice": 10,
+   "cacheHitPrice": null,
+   "blendedPrice": 4,
+   "outputSpeed": 76.81,
+   "latency": 30.631,
    "contextWindowTokens": null
   },
   {
    "slug": "grok-4-6-xhigh",
-   "name": "Grok 4.6 (xhigh)",
+   "name": "Grok 4.6 (Xhigh)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-08-12",
    "isReasoning": null,
@@ -740,33 +780,13 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 60.758,
-   "latency": 28.847,
-   "contextWindowTokens": null
-  },
-  {
-   "slug": "gpt-6-sol-xhigh",
-   "name": "GPT-6 Sol (xhigh)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 44.1,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 2,
-   "outputPrice": 10,
-   "cacheHitPrice": null,
-   "blendedPrice": 4,
-   "outputSpeed": 73.18,
-   "latency": 39.205,
+   "outputSpeed": 59.83,
+   "latency": 15.114,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-sol-xhigh",
-   "name": "GPT-5.6 Sol (xhigh)",
+   "name": "GPT-5.6 Sol (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -800,13 +820,13 @@ window.__AA_DATA__ = {
    "outputPrice": 2.7,
    "cacheHitPrice": null,
    "blendedPrice": 1.425,
-   "outputSpeed": 87.558,
-   "latency": 24.894,
+   "outputSpeed": 87.402,
+   "latency": 25.021,
    "contextWindowTokens": null
   },
   {
    "slug": "kimi-k3",
-   "name": "Kimi K3 (max)",
+   "name": "Kimi K3 (Max)",
    "creator": "Kimi",
    "releaseDate": "2026-07-16",
    "isReasoning": null,
@@ -820,13 +840,13 @@ window.__AA_DATA__ = {
    "outputPrice": 15,
    "cacheHitPrice": null,
    "blendedPrice": 6,
-   "outputSpeed": 40.421,
-   "latency": 52.6,
+   "outputSpeed": 38.459,
+   "latency": 54.909,
    "contextWindowTokens": null
   },
   {
    "slug": "grok-4-6-medium",
-   "name": "Grok 4.6 (medium)",
+   "name": "Grok 4.6 (Medium)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-08-12",
    "isReasoning": null,
@@ -840,33 +860,33 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 61.514,
-   "latency": 21.148,
+   "outputSpeed": 63.226,
+   "latency": 20.3,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-sol-high",
-   "name": "GPT-6 Sol (high)",
+   "name": "GPT-6 Sol (High)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-22",
    "isReasoning": null,
    "isOpenWeights": null,
    "deprecated": false,
    "estimated": false,
-   "intelligenceIndex": 42.8,
+   "intelligenceIndex": 42.4,
    "codingIndex": null,
    "agenticIndex": null,
    "inputPrice": 2,
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 70.636,
-   "latency": 17.975,
+   "outputSpeed": 73.395,
+   "latency": 15.287,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-sol-high",
-   "name": "GPT-5.6 Sol (high)",
+   "name": "GPT-5.6 Sol (High)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -900,13 +920,13 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 75.255,
-   "latency": 6.303,
+   "outputSpeed": 74.863,
+   "latency": 6.503,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-1-sol-low",
-   "name": "GPT-6.1 Sol (low)",
+   "name": "GPT-6.1 Sol (Low)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-29",
    "isReasoning": null,
@@ -920,13 +940,13 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 69.645,
-   "latency": 1.419,
+   "outputSpeed": 55.324,
+   "latency": 2,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-terra",
-   "name": "GPT-5.6 Terra (max)",
+   "name": "GPT-5.6 Terra (Max)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -940,8 +960,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 109.104,
-   "latency": 115.52,
+   "outputSpeed": 107.685,
+   "latency": 115.347,
    "contextWindowTokens": null
   },
   {
@@ -960,8 +980,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.237,
-   "outputSpeed": 47.201,
-   "latency": 45.568,
+   "outputSpeed": 48.181,
+   "latency": 44.705,
    "contextWindowTokens": null
   },
   {
@@ -986,7 +1006,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gemini-3-8-flash",
-   "name": "Gemini 3.8 Flash (high)",
+   "name": "Gemini 3.8 Flash (High)",
    "creator": "Google",
    "releaseDate": "2026-09-02",
    "isReasoning": null,
@@ -1000,8 +1020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.75,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 230.001,
-   "latency": 13.065,
+   "outputSpeed": 231.213,
+   "latency": 13.377,
    "contextWindowTokens": null
   },
   {
@@ -1020,8 +1040,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 94.584,
-   "latency": 0.812,
+   "outputSpeed": 103.84,
+   "latency": 0.944,
    "contextWindowTokens": null
   },
   {
@@ -1080,8 +1100,8 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 39.895,
-   "latency": 52.2,
+   "outputSpeed": 39.994,
+   "latency": 51.894,
    "contextWindowTokens": null
   },
   {
@@ -1100,13 +1120,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.47,
    "cacheHitPrice": null,
    "blendedPrice": 0.23,
-   "outputSpeed": 52.938,
-   "latency": 39.271,
+   "outputSpeed": 52.897,
+   "latency": 39.26,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-6-sol-medium",
-   "name": "GPT-6 Sol (medium)",
+   "name": "GPT-6 Sol (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-09-22",
    "isReasoning": null,
@@ -1126,7 +1146,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gemini-3-8-flash-medium",
-   "name": "Gemini 3.8 Flash (medium)",
+   "name": "Gemini 3.8 Flash (Medium)",
    "creator": "Google",
    "releaseDate": "2026-09-02",
    "isReasoning": null,
@@ -1146,7 +1166,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gemini-3-7-flash-medium",
-   "name": "Gemini 3.7 Flash (medium)",
+   "name": "Gemini 3.7 Flash (Medium)",
    "creator": "Google",
    "releaseDate": "2026-08-13",
    "isReasoning": null,
@@ -1166,7 +1186,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "muse-spark-1-2",
-   "name": "Muse Spark 1.2 (xhigh)",
+   "name": "Muse Spark 1.2 (Xhigh)",
    "creator": "Meta",
    "releaseDate": "2026-08-05",
    "isReasoning": null,
@@ -1186,7 +1206,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "deepseek-v4-1-flash",
-   "name": "DeepSeek V4.1 Flash (Reasoning, Max Effort)",
+   "name": "DeepSeek V4.1 Flash (Max)",
    "creator": "DeepSeek",
    "releaseDate": "2026-09-10",
    "isReasoning": null,
@@ -1200,8 +1220,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 219.837,
-   "latency": 9.918,
+   "outputSpeed": 226.71,
+   "latency": 9.666,
    "contextWindowTokens": null
   },
   {
@@ -1226,7 +1246,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-6-sol-medium",
-   "name": "GPT-5.6 Sol (medium)",
+   "name": "GPT-5.6 Sol (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -1246,7 +1266,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gemini-3-7-flash",
-   "name": "Gemini 3.7 Flash (high)",
+   "name": "Gemini 3.7 Flash (High)",
    "creator": "Google",
    "releaseDate": "2026-08-13",
    "isReasoning": null,
@@ -1266,7 +1286,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-4",
-   "name": "GPT-5.4 (xhigh)",
+   "name": "GPT-5.4 (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-03-05",
    "isReasoning": null,
@@ -1286,7 +1306,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "grok-4-5",
-   "name": "Grok 4.5 (high)",
+   "name": "Grok 4.5 (High)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-07-08",
    "isReasoning": null,
@@ -1306,7 +1326,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-5",
-   "name": "GPT-5.5 (xhigh)",
+   "name": "GPT-5.5 (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-04-23",
    "isReasoning": null,
@@ -1340,13 +1360,33 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 86.98,
-   "latency": 123.046,
+   "outputSpeed": 92.899,
+   "latency": 138,
+   "contextWindowTokens": null
+  },
+  {
+   "slug": "gpt-6-luna",
+   "name": "GPT-6 Luna (Max)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 38.1,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 0.1,
+   "outputPrice": 0.5,
+   "cacheHitPrice": null,
+   "blendedPrice": 0.2,
+   "outputSpeed": 139.721,
+   "latency": 83.735,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-terra-xhigh",
-   "name": "GPT-5.6 Terra (xhigh)",
+   "name": "GPT-5.6 Terra (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -1360,8 +1400,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 91.986,
-   "latency": 9.848,
+   "outputSpeed": 84.929,
+   "latency": 9.576,
    "contextWindowTokens": null
   },
   {
@@ -1380,13 +1420,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.28,
    "cacheHitPrice": null,
    "blendedPrice": 0.175,
-   "outputSpeed": 53.198,
-   "latency": 41.25,
+   "outputSpeed": 54.674,
+   "latency": 39.961,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-luna",
-   "name": "GPT-5.6 Luna (max)",
+   "name": "GPT-5.6 Luna (Max)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -1405,28 +1445,8 @@ window.__AA_DATA__ = {
    "contextWindowTokens": null
   },
   {
-   "slug": "gpt-6-luna",
-   "name": "GPT-6 Luna (max)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 37.3,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 0.1,
-   "outputPrice": 0.5,
-   "cacheHitPrice": null,
-   "blendedPrice": 0.2,
-   "outputSpeed": 134.492,
-   "latency": 83.473,
-   "contextWindowTokens": null
-  },
-  {
    "slug": "gpt-5-5-high",
-   "name": "GPT-5.5 (high)",
+   "name": "GPT-5.5 (High)",
    "creator": "OpenAI",
    "releaseDate": "2026-04-23",
    "isReasoning": null,
@@ -1446,7 +1466,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gemini-3-7-flash-low",
-   "name": "Gemini 3.7 Flash (low)",
+   "name": "Gemini 3.7 Flash (Low)",
    "creator": "Google",
    "releaseDate": "2026-08-13",
    "isReasoning": null,
@@ -1466,7 +1486,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "deepseek-v4-pro",
-   "name": "DeepSeek V4 Pro 0813 (Reasoning, Max Effort)",
+   "name": "DeepSeek V4 Pro 0813 (Max)",
    "creator": "DeepSeek",
    "releaseDate": "2026-08-13",
    "isReasoning": null,
@@ -1480,13 +1500,13 @@ window.__AA_DATA__ = {
    "outputPrice": 3.96,
    "cacheHitPrice": null,
    "blendedPrice": 1.98,
-   "outputSpeed": 80.035,
-   "latency": 26.113,
+   "outputSpeed": 101.435,
+   "latency": 20.889,
    "contextWindowTokens": null
   },
   {
    "slug": "grok-4-6-low",
-   "name": "Grok 4.6 (low)",
+   "name": "Grok 4.6 (Low)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-08-12",
    "isReasoning": null,
@@ -1501,12 +1521,12 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 3,
    "outputSpeed": 61.893,
-   "latency": 2.677,
+   "latency": 2.081,
    "contextWindowTokens": null
   },
   {
    "slug": "deepseek-v4-flash-vision",
-   "name": "DeepSeek V4 Flash Vision (Reasoning, Max Effort)",
+   "name": "DeepSeek V4 Flash Vision (Max)",
    "creator": "DeepSeek",
    "releaseDate": "2026-08-21",
    "isReasoning": null,
@@ -1520,13 +1540,33 @@ window.__AA_DATA__ = {
    "outputPrice": 1.32,
    "cacheHitPrice": null,
    "blendedPrice": 0.66,
-   "outputSpeed": 222.109,
-   "latency": 9.775,
+   "outputSpeed": 226.994,
+   "latency": 9.663,
+   "contextWindowTokens": null
+  },
+  {
+   "slug": "gpt-6-luna-xhigh",
+   "name": "GPT-6 Luna (Xhigh)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 34.6,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 0.1,
+   "outputPrice": 0.5,
+   "cacheHitPrice": null,
+   "blendedPrice": 0.2,
+   "outputSpeed": 120.807,
+   "latency": 20.021,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-luna-xhigh",
-   "name": "GPT-5.6 Luna (xhigh)",
+   "name": "GPT-5.6 Luna (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -1561,12 +1601,12 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 4,
    "outputSpeed": 74.116,
-   "latency": 18.899,
+   "latency": 17.023,
    "contextWindowTokens": null
   },
   {
    "slug": "deepseek-v4-flash",
-   "name": "DeepSeek V4 Flash 0731 (Reasoning, Max Effort)",
+   "name": "DeepSeek V4 Flash 0731 (Max)",
    "creator": "DeepSeek",
    "releaseDate": "2026-07-31",
    "isReasoning": null,
@@ -1586,7 +1626,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "glm-5-3-low",
-   "name": "GLM-5.3 (low)",
+   "name": "GLM-5.3 (Low)",
    "creator": "Z AI",
    "releaseDate": "2026-08-18",
    "isReasoning": null,
@@ -1600,13 +1640,13 @@ window.__AA_DATA__ = {
    "outputPrice": 4.4,
    "cacheHitPrice": null,
    "blendedPrice": 2.15,
-   "outputSpeed": 75.769,
-   "latency": 29.542,
+   "outputSpeed": 69.042,
+   "latency": 32.229,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-terra-high",
-   "name": "GPT-5.6 Terra (high)",
+   "name": "GPT-5.6 Terra (High)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -1620,13 +1660,33 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 89.978,
-   "latency": 3.213,
+   "outputSpeed": 83.466,
+   "latency": 2.334,
+   "contextWindowTokens": null
+  },
+  {
+   "slug": "gpt-6-sol-low",
+   "name": "GPT-6 Sol (Low)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 34.2,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 2,
+   "outputPrice": 10,
+   "cacheHitPrice": null,
+   "blendedPrice": 4,
+   "outputSpeed": 72.672,
+   "latency": 1.874,
    "contextWindowTokens": null
   },
   {
    "slug": "gemini-3-6-flash",
-   "name": "Gemini 3.6 Flash (high)",
+   "name": "Gemini 3.6 Flash (High)",
    "creator": "Google",
    "releaseDate": "2026-07-21",
    "isReasoning": null,
@@ -1646,7 +1706,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "jt236b",
-   "name": "JT-4.1 Flash 236B A21B",
+   "name": "JT-4.1 Flash 236B A21B (Reasoning)",
    "creator": "China Mobile",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -1665,48 +1725,8 @@ window.__AA_DATA__ = {
    "contextWindowTokens": null
   },
   {
-   "slug": "gpt-6-sol-low",
-   "name": "GPT-6 Sol (low)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 33.9,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 2,
-   "outputPrice": 10,
-   "cacheHitPrice": null,
-   "blendedPrice": 4,
-   "outputSpeed": 67.577,
-   "latency": 1.81,
-   "contextWindowTokens": null
-  },
-  {
-   "slug": "gpt-6-luna-xhigh",
-   "name": "GPT-6 Luna (xhigh)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 33.9,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 0.1,
-   "outputPrice": 0.5,
-   "cacheHitPrice": null,
-   "blendedPrice": 0.2,
-   "outputSpeed": 137.374,
-   "latency": 17.214,
-   "contextWindowTokens": null
-  },
-  {
    "slug": "gpt-5-5-medium",
-   "name": "GPT-5.5 (medium)",
+   "name": "GPT-5.5 (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-04-23",
    "isReasoning": null,
@@ -1726,7 +1746,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "muse-spark-1-1",
-   "name": "Muse Spark 1.1 (xhigh)",
+   "name": "Muse Spark 1.1 (Xhigh)",
    "creator": "Meta",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -1746,7 +1766,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "glm-5-2",
-   "name": "GLM-5.2 (max)",
+   "name": "GLM-5.2 (Max)",
    "creator": "Z AI",
    "releaseDate": "2026-06-16",
    "isReasoning": null,
@@ -1766,7 +1786,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "qwen3-8-27b",
-   "name": "Qwen3.8 27B (xhigh)",
+   "name": "Qwen3.8 27B (Xhigh)",
    "creator": "Alibaba",
    "releaseDate": "2026-08-14",
    "isReasoning": null,
@@ -1780,13 +1800,13 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 45.386,
-   "latency": 45.304,
+   "outputSpeed": 44.979,
+   "latency": 45.7,
    "contextWindowTokens": null
   },
   {
    "slug": "gemini-3-5-flash-medium",
-   "name": "Gemini 3.5 Flash (medium)",
+   "name": "Gemini 3.5 Flash (Medium)",
    "creator": "Google",
    "releaseDate": "2026-05-19",
    "isReasoning": null,
@@ -1826,7 +1846,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-6-sol-low",
-   "name": "GPT-5.6 Sol (low)",
+   "name": "GPT-5.6 Sol (Low)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -1846,7 +1866,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gemini-3-8-flash-low",
-   "name": "Gemini 3.8 Flash (low)",
+   "name": "Gemini 3.8 Flash (Low)",
    "creator": "Google",
    "releaseDate": "2026-09-02",
    "isReasoning": null,
@@ -1865,8 +1885,28 @@ window.__AA_DATA__ = {
    "contextWindowTokens": null
   },
   {
+   "slug": "gpt-6-luna-high",
+   "name": "GPT-6 Luna (High)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 32.9,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 0.1,
+   "outputPrice": 0.5,
+   "cacheHitPrice": null,
+   "blendedPrice": 0.2,
+   "outputSpeed": 131.134,
+   "latency": 7.064,
+   "contextWindowTokens": null
+  },
+  {
    "slug": "gemini-3-5-flash",
-   "name": "Gemini 3.5 Flash (high)",
+   "name": "Gemini 3.5 Flash (High)",
    "creator": "Google",
    "releaseDate": "2026-05-19",
    "isReasoning": null,
@@ -1886,7 +1926,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-3-codex",
-   "name": "GPT-5.3 Codex (xhigh)",
+   "name": "GPT-5.3 Codex (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-02-05",
    "isReasoning": null,
@@ -1900,8 +1940,8 @@ window.__AA_DATA__ = {
    "outputPrice": 14,
    "cacheHitPrice": null,
    "blendedPrice": 4.813,
-   "outputSpeed": 97.734,
-   "latency": 39.96,
+   "outputSpeed": 96.414,
+   "latency": 46.568,
    "contextWindowTokens": null
   },
   {
@@ -1925,28 +1965,8 @@ window.__AA_DATA__ = {
    "contextWindowTokens": null
   },
   {
-   "slug": "gpt-6-luna-high",
-   "name": "GPT-6 Luna (high)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 32.1,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 0.1,
-   "outputPrice": 0.5,
-   "cacheHitPrice": null,
-   "blendedPrice": 0.2,
-   "outputSpeed": 138.238,
-   "latency": 8.169,
-   "contextWindowTokens": null
-  },
-  {
    "slug": "gpt-5-6-luna-high",
-   "name": "GPT-5.6 Luna (high)",
+   "name": "GPT-5.6 Luna (High)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -2000,8 +2020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 62.317,
-   "latency": 4.119,
+   "outputSpeed": 59.719,
+   "latency": 3.504,
    "contextWindowTokens": null
   },
   {
@@ -2046,7 +2066,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-5-low",
-   "name": "GPT-5.5 (low)",
+   "name": "GPT-5.5 (Low)",
    "creator": "OpenAI",
    "releaseDate": "2026-04-23",
    "isReasoning": null,
@@ -2086,7 +2106,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "deepseek-v4-pro-0424",
-   "name": "DeepSeek V4 Pro 0424 (Reasoning, Max Effort)",
+   "name": "DeepSeek V4 Pro 0424 (Max)",
    "creator": "DeepSeek",
    "releaseDate": "2026-04-24",
    "isReasoning": null,
@@ -2106,7 +2126,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-2",
-   "name": "GPT-5.2 (xhigh)",
+   "name": "GPT-5.2 (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2025-12-11",
    "isReasoning": null,
@@ -2126,7 +2146,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "deepseek-v4-pro-0424-high",
-   "name": "DeepSeek V4 Pro 0424 (Reasoning, High Effort)",
+   "name": "DeepSeek V4 Pro 0424 (High)",
    "creator": "DeepSeek",
    "releaseDate": "2026-04-24",
    "isReasoning": null,
@@ -2146,7 +2166,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-6-terra-medium",
-   "name": "GPT-5.6 Terra (medium)",
+   "name": "GPT-5.6 Terra (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -2160,13 +2180,13 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 94.175,
-   "latency": 1.833,
+   "outputSpeed": 87.396,
+   "latency": 1.924,
    "contextWindowTokens": null
   },
   {
    "slug": "kimi-k3-low",
-   "name": "Kimi K3 (low)",
+   "name": "Kimi K3 (Low)",
    "creator": "Kimi",
    "releaseDate": "2026-07-16",
    "isReasoning": null,
@@ -2180,8 +2200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 15,
    "cacheHitPrice": null,
    "blendedPrice": 6,
-   "outputSpeed": 39.535,
-   "latency": 54.213,
+   "outputSpeed": 37.205,
+   "latency": 57.381,
    "contextWindowTokens": null
   },
   {
@@ -2205,6 +2225,26 @@ window.__AA_DATA__ = {
    "contextWindowTokens": null
   },
   {
+   "slug": "gpt-6-luna-medium",
+   "name": "GPT-6 Luna (Medium)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 29.9,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 0.1,
+   "outputPrice": 0.5,
+   "cacheHitPrice": null,
+   "blendedPrice": 0.2,
+   "outputSpeed": 0,
+   "latency": 0,
+   "contextWindowTokens": null
+  },
+  {
    "slug": "gemini-3-1-pro-preview",
    "name": "Gemini 3.1 Pro Preview",
    "creator": "Google",
@@ -2220,28 +2260,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 126.44,
-   "latency": 24.435,
-   "contextWindowTokens": null
-  },
-  {
-   "slug": "gpt-6-luna-medium",
-   "name": "GPT-6 Luna (medium)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 29.5,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 0.1,
-   "outputPrice": 0.5,
-   "cacheHitPrice": null,
-   "blendedPrice": 0.2,
-   "outputSpeed": 0,
-   "latency": 0,
+   "outputSpeed": 127.145,
+   "latency": 25.822,
    "contextWindowTokens": null
   },
   {
@@ -2280,8 +2300,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 121.319,
-   "latency": 17.229,
+   "outputSpeed": 90.467,
+   "latency": 22.872,
    "contextWindowTokens": null
   },
   {
@@ -2325,8 +2345,28 @@ window.__AA_DATA__ = {
    "contextWindowTokens": null
   },
   {
+   "slug": "gpt-6-sol-non-reasoning",
+   "name": "GPT-6 Sol (Non-reasoning)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 28.5,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 2,
+   "outputPrice": 10,
+   "cacheHitPrice": null,
+   "blendedPrice": 4,
+   "outputSpeed": 72.71,
+   "latency": 1.115,
+   "contextWindowTokens": null
+  },
+  {
    "slug": "gpt-5-2-codex",
-   "name": "GPT-5.2 Codex (xhigh)",
+   "name": "GPT-5.2 Codex (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2025-12-11",
    "isReasoning": null,
@@ -2386,7 +2426,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "nex-n2-pro",
-   "name": "Nex-N2-Pro (based on Qwen3.5-397B-A17B)",
+   "name": "Nex-N2-Pro (Based on Qwen3.5-397B-A17B)",
    "creator": "Nex AGI",
    "releaseDate": "2026-06-02",
    "isReasoning": null,
@@ -2420,28 +2460,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 95.966,
-   "latency": 21.958,
-   "contextWindowTokens": null
-  },
-  {
-   "slug": "gpt-6-sol-non-reasoning",
-   "name": "GPT-6 Sol (Non-reasoning)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 28.1,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 2,
-   "outputPrice": 10,
-   "cacheHitPrice": null,
-   "blendedPrice": 4,
-   "outputSpeed": 73.24,
-   "latency": 1.046,
+   "outputSpeed": 90.613,
+   "latency": 23.247,
    "contextWindowTokens": null
   },
   {
@@ -2460,13 +2480,13 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 59.9,
-   "latency": 1.365,
+   "outputSpeed": 56.752,
+   "latency": 1.6,
    "contextWindowTokens": null
   },
   {
    "slug": "gemini-3-pro",
-   "name": "Gemini 3 Pro Preview (high)",
+   "name": "Gemini 3 Pro Preview (High)",
    "creator": "Google",
    "releaseDate": "2025-11-18",
    "isReasoning": null,
@@ -2506,7 +2526,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-4-low",
-   "name": "GPT-5.4 (low)",
+   "name": "GPT-5.4 (Low)",
    "creator": "OpenAI",
    "releaseDate": "2026-03-05",
    "isReasoning": null,
@@ -2526,7 +2546,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "qwen3-8-27b-medium",
-   "name": "Qwen3.8 27B (medium)",
+   "name": "Qwen3.8 27B (Medium)",
    "creator": "Alibaba",
    "releaseDate": "2026-08-14",
    "isReasoning": null,
@@ -2540,13 +2560,13 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 48.128,
-   "latency": 42.765,
+   "outputSpeed": 50.944,
+   "latency": 40.47,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-6-terra-low",
-   "name": "GPT-5.6 Terra (low)",
+   "name": "GPT-5.6 Terra (Low)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -2560,13 +2580,13 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 88.129,
-   "latency": 1.623,
+   "outputSpeed": 85.483,
+   "latency": 1.549,
    "contextWindowTokens": null
   },
   {
    "slug": "jt-4-1-flash-236b-a21b",
-   "name": "JT-4.1 Flash 236B A21B (non-reasoning)",
+   "name": "JT-4.1 Flash 236B A21B (Non-reasoning)",
    "creator": "China Mobile",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -2626,7 +2646,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "kimi-k2-6",
-   "name": "Kimi K2.6",
+   "name": "Kimi K2.6 (Reasoning)",
    "creator": "Kimi",
    "releaseDate": "2026-04-20",
    "isReasoning": null,
@@ -2646,7 +2666,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "quasar-438b",
-   "name": "Quasar 438B (max, based on GLM-5.2)",
+   "name": "Quasar 438B (Max, Based on GLM-5.2)",
    "creator": "Multiverse Computing",
    "releaseDate": "2026-08-10",
    "isReasoning": null,
@@ -2660,8 +2680,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.9,
-   "outputSpeed": 150.56,
-   "latency": 13.733,
+   "outputSpeed": 152.496,
+   "latency": 13.597,
    "contextWindowTokens": null
   },
   {
@@ -2686,7 +2706,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-2-medium",
-   "name": "GPT-5.2 (medium)",
+   "name": "GPT-5.2 (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2025-12-11",
    "isReasoning": null,
@@ -2766,7 +2786,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "qwen3-8-27b-low",
-   "name": "Qwen3.8 27B (low)",
+   "name": "Qwen3.8 27B (Low)",
    "creator": "Alibaba",
    "releaseDate": "2026-08-14",
    "isReasoning": null,
@@ -2780,8 +2800,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 48.358,
-   "latency": 42.579,
+   "outputSpeed": 48.374,
+   "latency": 42.555,
    "contextWindowTokens": null
   },
   {
@@ -2820,13 +2840,13 @@ window.__AA_DATA__ = {
    "outputPrice": 30,
    "cacheHitPrice": null,
    "blendedPrice": 11.25,
-   "outputSpeed": 128.385,
-   "latency": 16.432,
+   "outputSpeed": 138.141,
+   "latency": 15.332,
    "contextWindowTokens": null
   },
   {
    "slug": "mimo-v2-5-pro",
-   "name": "MiMo-V2.5-Pro",
+   "name": "MiMo-V2.5-Pro (Reasoning)",
    "creator": "Xiaomi",
    "releaseDate": "2026-04-22",
    "isReasoning": null,
@@ -2840,8 +2860,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.87,
    "cacheHitPrice": null,
    "blendedPrice": 0.544,
-   "outputSpeed": 23.783,
-   "latency": 85.667,
+   "outputSpeed": 32.061,
+   "latency": 63.953,
    "contextWindowTokens": null
   },
   {
@@ -2860,8 +2880,8 @@ window.__AA_DATA__ = {
    "outputPrice": 4,
    "cacheHitPrice": null,
    "blendedPrice": 1.712,
-   "outputSpeed": 51.327,
-   "latency": 44.461,
+   "outputSpeed": 78.639,
+   "latency": 29.52,
    "contextWindowTokens": null
   },
   {
@@ -2880,8 +2900,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 209.144,
-   "latency": 11.317,
+   "outputSpeed": 176.903,
+   "latency": 13.236,
    "contextWindowTokens": null
   },
   {
@@ -2940,8 +2960,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.555,
    "cacheHitPrice": null,
    "blendedPrice": 0.241,
-   "outputSpeed": 90.967,
-   "latency": 24.017,
+   "outputSpeed": 87.744,
+   "latency": 24.88,
    "contextWindowTokens": null
   },
   {
@@ -2980,8 +3000,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.28,
    "cacheHitPrice": null,
    "blendedPrice": 0.175,
-   "outputSpeed": 43.921,
-   "latency": 47.643,
+   "outputSpeed": 47.927,
+   "latency": 43.605,
    "contextWindowTokens": null
   },
   {
@@ -3000,8 +3020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.7,
-   "outputSpeed": 56.268,
-   "latency": 37.232,
+   "outputSpeed": 55.988,
+   "latency": 37.393,
    "contextWindowTokens": null
   },
   {
@@ -3026,7 +3046,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-6-luna-medium",
-   "name": "GPT-5.6 Luna (medium)",
+   "name": "GPT-5.6 Luna (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -3046,7 +3066,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "inkling",
-   "name": "Inkling (xhigh)",
+   "name": "Inkling (Xhigh)",
    "creator": "Thinking Machines",
    "releaseDate": "2026-07-15",
    "isReasoning": null,
@@ -3060,13 +3080,13 @@ window.__AA_DATA__ = {
    "outputPrice": 4.05,
    "cacheHitPrice": null,
    "blendedPrice": 1.762,
-   "outputSpeed": 171.128,
-   "latency": 14.002,
+   "outputSpeed": 202.391,
+   "latency": 12.196,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-codex",
-   "name": "GPT-5 Codex (high)",
+   "name": "GPT-5 Codex (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-09-23",
    "isReasoning": null,
@@ -3086,7 +3106,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "grok-4-3",
-   "name": "Grok 4.3 (high)",
+   "name": "Grok 4.3 (High)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-04-30",
    "isReasoning": null,
@@ -3106,7 +3126,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "grok-4-3-medium",
-   "name": "Grok 4.3 (medium)",
+   "name": "Grok 4.3 (Medium)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-04-30",
    "isReasoning": null,
@@ -3146,7 +3166,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-1",
-   "name": "GPT-5.1 (high)",
+   "name": "GPT-5.1 (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-11-13",
    "isReasoning": null,
@@ -3186,7 +3206,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "deepseek-v4-1-flash-non-reasoning",
-   "name": "DeepSeek V4.1 Flash (Non-Reasoning)",
+   "name": "DeepSeek V4.1 Flash (Non-reasoning)",
    "creator": "DeepSeek",
    "releaseDate": "2026-09-10",
    "isReasoning": null,
@@ -3200,8 +3220,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 229.001,
-   "latency": 0.831,
+   "outputSpeed": 245.479,
+   "latency": 0.795,
    "contextWindowTokens": null
   },
   {
@@ -3220,13 +3240,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.22,
    "cacheHitPrice": null,
    "blendedPrice": 0.111,
-   "outputSpeed": 151.028,
-   "latency": 14.94,
+   "outputSpeed": 152.255,
+   "latency": 15.286,
    "contextWindowTokens": null
   },
   {
    "slug": "deepseek-v4-flash-0420-high",
-   "name": "DeepSeek V4 Flash 0420 (Reasoning, High Effort)",
+   "name": "DeepSeek V4 Flash 0420 (High)",
    "creator": "DeepSeek",
    "releaseDate": "2026-04-24",
    "isReasoning": null,
@@ -3246,7 +3266,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "grok-4-3-low",
-   "name": "Grok 4.3 (low)",
+   "name": "Grok 4.3 (Low)",
    "creator": "SpaceXAI",
    "releaseDate": "2026-04-30",
    "isReasoning": null,
@@ -3280,8 +3300,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 59.692,
-   "latency": 1.119,
+   "outputSpeed": 58.379,
+   "latency": 1.122,
    "contextWindowTokens": null
   },
   {
@@ -3306,7 +3326,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "deepseek-v4-flash-0420",
-   "name": "DeepSeek V4 Flash 0420 (Reasoning, Max Effort)",
+   "name": "DeepSeek V4 Flash 0420 (Max)",
    "creator": "DeepSeek",
    "releaseDate": "2026-04-24",
    "isReasoning": null,
@@ -3326,7 +3346,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-4-mini",
-   "name": "GPT-5.4 mini (xhigh)",
+   "name": "GPT-5.4 mini (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-03-17",
    "isReasoning": null,
@@ -3342,6 +3362,26 @@ window.__AA_DATA__ = {
    "blendedPrice": 1.688,
    "outputSpeed": 0,
    "latency": 0,
+   "contextWindowTokens": null
+  },
+  {
+   "slug": "solar-mini4",
+   "name": "Solar Mini 4",
+   "creator": "Upstage",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 24.1,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 0.1,
+   "outputPrice": 0.4,
+   "cacheHitPrice": null,
+   "blendedPrice": 0.175,
+   "outputSpeed": 198.577,
+   "latency": 11.167,
    "contextWindowTokens": null
   },
   {
@@ -3366,7 +3406,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gemini-3-5-flash-minimal",
-   "name": "Gemini 3.5 Flash (minimal)",
+   "name": "Gemini 3.5 Flash (Minimal)",
    "creator": "Google",
    "releaseDate": "2026-05-19",
    "isReasoning": null,
@@ -3386,7 +3426,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-1-codex",
-   "name": "GPT-5.1 Codex (high)",
+   "name": "GPT-5.1 Codex (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-11-13",
    "isReasoning": null,
@@ -3520,7 +3560,7 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 58.42,
+   "outputSpeed": 56.579,
    "latency": 0.929,
    "contextWindowTokens": null
   },
@@ -3546,7 +3586,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5",
-   "name": "GPT-5 (high)",
+   "name": "GPT-5 (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -3580,8 +3620,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 1.075,
-   "outputSpeed": 189.075,
-   "latency": 12.882,
+   "outputSpeed": 171.559,
+   "latency": 14.055,
    "contextWindowTokens": null
   },
   {
@@ -3606,7 +3646,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-medium",
-   "name": "GPT-5 (medium)",
+   "name": "GPT-5 (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -3760,8 +3800,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.22,
    "cacheHitPrice": null,
    "blendedPrice": 0.111,
-   "outputSpeed": 286.954,
-   "latency": 8.241,
+   "outputSpeed": 322.811,
+   "latency": 7.482,
    "contextWindowTokens": null
   },
   {
@@ -3826,7 +3866,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gemini-3-pro-low",
-   "name": "Gemini 3 Pro Preview (low)",
+   "name": "Gemini 3 Pro Preview (Low)",
    "creator": "Google",
    "releaseDate": "2025-11-18",
    "isReasoning": null,
@@ -3880,8 +3920,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 329.142,
-   "latency": 8.387,
+   "outputSpeed": 328.9,
+   "latency": 6.734,
    "contextWindowTokens": null
   },
   {
@@ -3985,6 +4025,26 @@ window.__AA_DATA__ = {
    "contextWindowTokens": null
   },
   {
+   "slug": "gpt-6-luna-low",
+   "name": "GPT-6 Luna (Low)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 21.5,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 0.1,
+   "outputPrice": 0.5,
+   "cacheHitPrice": null,
+   "blendedPrice": 0.2,
+   "outputSpeed": 125.946,
+   "latency": 2.142,
+   "contextWindowTokens": null
+  },
+  {
    "slug": "deepseek-v3-2-reasoning",
    "name": "DeepSeek V3.2 (Reasoning)",
    "creator": "DeepSeek",
@@ -4020,8 +4080,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 85.789,
-   "latency": 1.635,
+   "outputSpeed": 85.451,
+   "latency": 1.593,
    "contextWindowTokens": null
   },
   {
@@ -4066,7 +4126,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-6-luna-low",
-   "name": "GPT-5.6 Luna (low)",
+   "name": "GPT-5.6 Luna (Low)",
    "creator": "OpenAI",
    "releaseDate": "2026-07-09",
    "isReasoning": null,
@@ -4102,26 +4162,6 @@ window.__AA_DATA__ = {
    "blendedPrice": 0.525,
    "outputSpeed": 0,
    "latency": 0,
-   "contextWindowTokens": null
-  },
-  {
-   "slug": "gpt-6-luna-low",
-   "name": "GPT-6 Luna (low)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 20.9,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 0.1,
-   "outputPrice": 0.5,
-   "cacheHitPrice": null,
-   "blendedPrice": 0.2,
-   "outputSpeed": 130.442,
-   "latency": 2.341,
    "contextWindowTokens": null
   },
   {
@@ -4166,7 +4206,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-low",
-   "name": "GPT-5 (low)",
+   "name": "GPT-5 (Low)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -4200,13 +4240,13 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 84.28,
-   "latency": 0.761,
+   "outputSpeed": 78.054,
+   "latency": 0.809,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-4-nano",
-   "name": "GPT-5.4 nano (xhigh)",
+   "name": "GPT-5.4 nano (Xhigh)",
    "creator": "OpenAI",
    "releaseDate": "2026-03-17",
    "isReasoning": null,
@@ -4266,7 +4306,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-mini-medium",
-   "name": "GPT-5 mini (medium)",
+   "name": "GPT-5 mini (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -4320,13 +4360,13 @@ window.__AA_DATA__ = {
    "outputPrice": 4.8,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 70.098,
-   "latency": 1.197,
+   "outputSpeed": 89.687,
+   "latency": 1.203,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-1-codex-mini",
-   "name": "GPT-5.1 Codex mini (high)",
+   "name": "GPT-5.1 Codex mini (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-11-13",
    "isReasoning": null,
@@ -4380,8 +4420,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.96,
    "cacheHitPrice": null,
    "blendedPrice": 1.98,
-   "outputSpeed": 181.926,
-   "latency": 1.035,
+   "outputSpeed": 161.578,
+   "latency": 0.97,
    "contextWindowTokens": null
   },
   {
@@ -4400,8 +4440,8 @@ window.__AA_DATA__ = {
    "outputPrice": 8,
    "cacheHitPrice": null,
    "blendedPrice": 3.5,
-   "outputSpeed": 137.31,
-   "latency": 5.893,
+   "outputSpeed": 111.73,
+   "latency": 8.356,
    "contextWindowTokens": null
   },
   {
@@ -4420,8 +4460,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 50.708,
-   "latency": 1.21,
+   "outputSpeed": 51.014,
+   "latency": 1.2,
    "contextWindowTokens": null
   },
   {
@@ -4440,13 +4480,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.22,
    "cacheHitPrice": null,
    "blendedPrice": 0.111,
-   "outputSpeed": 330.306,
-   "latency": 7.826,
+   "outputSpeed": 323.923,
+   "latency": 7.946,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-4-nano-medium",
-   "name": "GPT-5.4 nano (medium)",
+   "name": "GPT-5.4 nano (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-03-17",
    "isReasoning": null,
@@ -4486,7 +4526,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-4-mini-medium",
-   "name": "GPT-5.4 mini (medium)",
+   "name": "GPT-5.4 mini (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2026-03-17",
    "isReasoning": null,
@@ -4540,8 +4580,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.438,
-   "outputSpeed": 200.021,
-   "latency": 11.368,
+   "outputSpeed": 190.703,
+   "latency": 11.834,
    "contextWindowTokens": null
   },
   {
@@ -4785,6 +4825,26 @@ window.__AA_DATA__ = {
    "contextWindowTokens": null
   },
   {
+   "slug": "gpt-6-luna-non-reasoning",
+   "name": "GPT-6 Luna (Non-reasoning)",
+   "creator": "OpenAI",
+   "releaseDate": "2026-09-22",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 18.5,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 0.1,
+   "outputPrice": 0.5,
+   "cacheHitPrice": null,
+   "blendedPrice": 0.2,
+   "outputSpeed": 131.975,
+   "latency": 0.851,
+   "contextWindowTokens": null
+  },
+  {
    "slug": "qwen3-5-397b-a17b",
    "name": "Qwen3.5 397B A17B (Reasoning)",
    "creator": "Alibaba",
@@ -4800,8 +4860,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 88.317,
-   "latency": 37.764,
+   "outputSpeed": 87.717,
+   "latency": 38.11,
    "contextWindowTokens": null
   },
   {
@@ -4820,28 +4880,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.87,
    "cacheHitPrice": null,
    "blendedPrice": 0.544,
-   "outputSpeed": 24.317,
-   "latency": 1.331,
-   "contextWindowTokens": null
-  },
-  {
-   "slug": "gpt-6-luna-non-reasoning",
-   "name": "GPT-6 Luna (Non-reasoning)",
-   "creator": "OpenAI",
-   "releaseDate": "2026-09-22",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 18.3,
-   "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 0.1,
-   "outputPrice": 0.5,
-   "cacheHitPrice": null,
-   "blendedPrice": 0.2,
-   "outputSpeed": 128.366,
-   "latency": 0.764,
+   "outputSpeed": 24.967,
+   "latency": 1.221,
    "contextWindowTokens": null
   },
   {
@@ -4860,8 +4900,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.844,
-   "outputSpeed": 134.622,
-   "latency": 41.211,
+   "outputSpeed": 135.263,
+   "latency": 41.06,
    "contextWindowTokens": null
   },
   {
@@ -4940,8 +4980,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.1,
-   "outputSpeed": 144.441,
-   "latency": 1.008,
+   "outputSpeed": 142.62,
+   "latency": 1.04,
    "contextWindowTokens": null
   },
   {
@@ -4966,7 +5006,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "muse-glimmer",
-   "name": "Muse Glimmer (high)",
+   "name": "Muse Glimmer (High)",
    "creator": "Meta",
    "releaseDate": "2026-08-10",
    "isReasoning": null,
@@ -4980,8 +5020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.35,
    "cacheHitPrice": null,
    "blendedPrice": 0.581,
-   "outputSpeed": 168.659,
-   "latency": 12.341,
+   "outputSpeed": 161.708,
+   "latency": 12.937,
    "contextWindowTokens": null
   },
   {
@@ -5120,13 +5160,13 @@ window.__AA_DATA__ = {
    "outputPrice": 5,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 120.134,
-   "latency": 13.08,
+   "outputSpeed": 122.528,
+   "latency": 12.631,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-mini",
-   "name": "GPT-5 mini (high)",
+   "name": "GPT-5 mini (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -5166,7 +5206,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "o4-mini",
-   "name": "o4-mini (high)",
+   "name": "o4-mini (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-04-16",
    "isReasoning": null,
@@ -5200,8 +5240,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 114.73,
-   "latency": 19.821,
+   "outputSpeed": 118.803,
+   "latency": 18.778,
    "contextWindowTokens": null
   },
   {
@@ -5420,8 +5460,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.1,
-   "outputSpeed": 129.572,
-   "latency": 16.474,
+   "outputSpeed": 131.356,
+   "latency": 16.265,
    "contextWindowTokens": null
   },
   {
@@ -5500,8 +5540,8 @@ window.__AA_DATA__ = {
    "outputPrice": 5,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 92.163,
-   "latency": 0.494,
+   "outputSpeed": 100.638,
+   "latency": 0.495,
    "contextWindowTokens": null
   },
   {
@@ -5560,8 +5600,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.844,
-   "outputSpeed": 141.459,
-   "latency": 1.116,
+   "outputSpeed": 142.024,
+   "latency": 1.108,
    "contextWindowTokens": null
   },
   {
@@ -5680,8 +5720,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.65,
    "cacheHitPrice": null,
    "blendedPrice": 0.282,
-   "outputSpeed": 77.669,
-   "latency": 26.053,
+   "outputSpeed": 77.7,
+   "latency": 26.042,
    "contextWindowTokens": null
   },
   {
@@ -5720,13 +5760,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 35.045,
-   "latency": 50.51,
+   "outputSpeed": 34.905,
+   "latency": 50.71,
    "contextWindowTokens": null
   },
   {
    "slug": "grok-3-mini-reasoning",
-   "name": "Grok 3 mini Reasoning (high)",
+   "name": "Grok 3 mini Reasoning (High)",
    "creator": "SpaceXAI",
    "releaseDate": "2025-02-19",
    "isReasoning": null,
@@ -5880,8 +5920,8 @@ window.__AA_DATA__ = {
    "outputPrice": 7.5,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 167.671,
-   "latency": 12.549,
+   "outputSpeed": 167.324,
+   "latency": 12.598,
    "contextWindowTokens": null
   },
   {
@@ -5900,13 +5940,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
-   "outputSpeed": 148.302,
-   "latency": 14.842,
+   "outputSpeed": 146.236,
+   "latency": 15.094,
    "contextWindowTokens": null
   },
   {
    "slug": "nova-2-0-pro-reasoning-medium",
-   "name": "Nova 2.0 Pro Preview (medium)",
+   "name": "Nova 2.0 Pro Preview (Medium)",
    "creator": "Amazon",
    "releaseDate": "2025-11-27",
    "isReasoning": null,
@@ -5920,8 +5960,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 126.882,
-   "latency": 36.267,
+   "outputSpeed": 122.057,
+   "latency": 36.805,
    "contextWindowTokens": null
   },
   {
@@ -6001,7 +6041,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.205,
    "outputSpeed": 38.694,
-   "latency": 1.064,
+   "latency": 0.916,
    "contextWindowTokens": null
   },
   {
@@ -6086,7 +6126,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "nova-2-0-omni-reasoning-medium",
-   "name": "Nova 2.0 Omni (medium)",
+   "name": "Nova 2.0 Omni (Medium)",
    "creator": "Amazon",
    "releaseDate": "2025-11-26",
    "isReasoning": null,
@@ -6166,7 +6206,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "nova-2-0-lite-reasoning",
-   "name": "Nova 2.0 Lite (high)",
+   "name": "Nova 2.0 Lite (High)",
    "creator": "Amazon",
    "releaseDate": "2025-10-29",
    "isReasoning": null,
@@ -6180,8 +6220,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 208.543,
-   "latency": 22.144,
+   "outputSpeed": 192.054,
+   "latency": 20.762,
    "contextWindowTokens": null
   },
   {
@@ -6220,13 +6260,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.19,
-   "outputSpeed": 0,
-   "latency": 0,
+   "outputSpeed": 75.262,
+   "latency": 0.853,
    "contextWindowTokens": null
   },
   {
    "slug": "exaone-4-5-33b",
-   "name": "EXAONE 4.5 33B",
+   "name": "EXAONE 4.5 33B (Reasoning)",
    "creator": "LG AI Research",
    "releaseDate": "2026-04-09",
    "isReasoning": null,
@@ -6260,8 +6300,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 230.167,
-   "latency": 8.886,
+   "outputSpeed": 211.201,
+   "latency": 9.673,
    "contextWindowTokens": null
   },
   {
@@ -6280,8 +6320,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.198,
-   "outputSpeed": 107.829,
-   "latency": 0.669,
+   "outputSpeed": 120.471,
+   "latency": 0.703,
    "contextWindowTokens": null
   },
   {
@@ -6300,8 +6340,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.06,
-   "outputSpeed": 28.784,
-   "latency": 69.956,
+   "outputSpeed": 20.94,
+   "latency": 96.047,
    "contextWindowTokens": null
   },
   {
@@ -6346,7 +6386,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-nano",
-   "name": "GPT-5 nano (high)",
+   "name": "GPT-5 nano (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -6376,12 +6416,12 @@ window.__AA_DATA__ = {
    "intelligenceIndex": 12.9,
    "codingIndex": 26.8,
    "agenticIndex": null,
-   "inputPrice": 0.07,
-   "outputPrice": 0.22,
+   "inputPrice": 0.06,
+   "outputPrice": 0.2,
    "cacheHitPrice": null,
-   "blendedPrice": 0.108,
-   "outputSpeed": 290.107,
-   "latency": 7.351,
+   "blendedPrice": 0.095,
+   "outputSpeed": 291.294,
+   "latency": 7.278,
    "contextWindowTokens": null
   },
   {
@@ -6400,13 +6440,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.9,
    "cacheHitPrice": null,
    "blendedPrice": 0.45,
-   "outputSpeed": 162.106,
-   "latency": 13.186,
+   "outputSpeed": 158.1,
+   "latency": 13.507,
    "contextWindowTokens": null
   },
   {
    "slug": "nova-2-0-pro-reasoning-low",
-   "name": "Nova 2.0 Pro Preview (low)",
+   "name": "Nova 2.0 Pro Preview (Low)",
    "creator": "Amazon",
    "releaseDate": "2025-11-27",
    "isReasoning": null,
@@ -6420,8 +6460,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 130.558,
-   "latency": 21.609,
+   "outputSpeed": 123.554,
+   "latency": 19.951,
    "contextWindowTokens": null
   },
   {
@@ -6526,7 +6566,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "nova-2-0-lite-reasoning-medium",
-   "name": "Nova 2.0 Lite (medium)",
+   "name": "Nova 2.0 Lite (Medium)",
    "creator": "Amazon",
    "releaseDate": "2025-10-29",
    "isReasoning": null,
@@ -6540,13 +6580,13 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 195.508,
-   "latency": 23.726,
+   "outputSpeed": 194.073,
+   "latency": 22.623,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-nano-medium",
-   "name": "GPT-5 nano (medium)",
+   "name": "GPT-5 nano (Medium)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -6581,7 +6621,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.275,
    "outputSpeed": 225.787,
-   "latency": 0.944,
+   "latency": 0.939,
    "contextWindowTokens": null
   },
   {
@@ -6680,8 +6720,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.75,
    "cacheHitPrice": null,
    "blendedPrice": 0.375,
-   "outputSpeed": 713.254,
-   "latency": 2.812,
+   "outputSpeed": 637.534,
+   "latency": 2.878,
    "contextWindowTokens": null
   },
   {
@@ -6846,7 +6886,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "nova-2-0-lite-reasoning-low",
-   "name": "Nova 2.0 Lite (low)",
+   "name": "Nova 2.0 Lite (Low)",
    "creator": "Amazon",
    "releaseDate": "2025-10-29",
    "isReasoning": null,
@@ -6860,13 +6900,13 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 212.29,
-   "latency": 14.443,
+   "outputSpeed": 205.594,
+   "latency": 14.329,
    "contextWindowTokens": null
   },
   {
    "slug": "hypernova-60b",
-   "name": "HyperNova 60B 2605 (high, based on gpt-oss-120b)",
+   "name": "HyperNova 60B 2605 (High, Based on gpt-oss-120b)",
    "creator": "Multiverse Computing",
    "releaseDate": "2026-05-26",
    "isReasoning": null,
@@ -6906,7 +6946,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-4-nano-non-reasoning",
-   "name": "GPT-5.4 nano (Non-Reasoning)",
+   "name": "GPT-5.4 nano (Non-reasoning)",
    "creator": "OpenAI",
    "releaseDate": "2026-03-17",
    "isReasoning": null,
@@ -6966,7 +7006,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-oss-120b",
-   "name": "gpt-oss-120b (high)",
+   "name": "gpt-oss-120b (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-05",
    "isReasoning": null,
@@ -6980,8 +7020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.595,
    "cacheHitPrice": null,
    "blendedPrice": 0.261,
-   "outputSpeed": 177.407,
-   "latency": 11.837,
+   "outputSpeed": 157.738,
+   "latency": 13.229,
    "contextWindowTokens": null
   },
   {
@@ -7026,7 +7066,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-minimal",
-   "name": "GPT-5 (minimal)",
+   "name": "GPT-5 (Minimal)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -7141,7 +7181,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.262,
    "outputSpeed": 171.736,
-   "latency": 12.214,
+   "latency": 12.246,
    "contextWindowTokens": null
   },
   {
@@ -7200,8 +7240,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.412,
-   "outputSpeed": 168.548,
-   "latency": 13.046,
+   "outputSpeed": 170.636,
+   "latency": 12.895,
    "contextWindowTokens": null
   },
   {
@@ -7221,12 +7261,12 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.151,
    "outputSpeed": 31.456,
-   "latency": 64.777,
+   "latency": 64.698,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-4-mini-non-reasoning",
-   "name": "GPT-5.4 mini (Non-Reasoning)",
+   "name": "GPT-5.4 mini (Non-reasoning)",
    "creator": "OpenAI",
    "releaseDate": "2026-03-17",
    "isReasoning": null,
@@ -7246,7 +7286,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "nova-2-0-omni-reasoning-low",
-   "name": "Nova 2.0 Omni (low)",
+   "name": "Nova 2.0 Omni (Low)",
    "creator": "Amazon",
    "releaseDate": "2025-11-26",
    "isReasoning": null,
@@ -7300,8 +7340,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.107,
-   "outputSpeed": 65.199,
-   "latency": 31.005,
+   "outputSpeed": 66.839,
+   "latency": 30.239,
    "contextWindowTokens": null
   },
   {
@@ -7340,8 +7380,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 53.682,
-   "latency": 38.96,
+   "outputSpeed": 57.333,
+   "latency": 36.514,
    "contextWindowTokens": null
   },
   {
@@ -7366,7 +7406,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "o3-mini-high",
-   "name": "o3-mini (high)",
+   "name": "o3-mini (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-01-31",
    "isReasoning": null,
@@ -7440,8 +7480,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.388,
-   "outputSpeed": 341.784,
-   "latency": 6.976,
+   "outputSpeed": 353.826,
+   "latency": 6.644,
    "contextWindowTokens": null
   },
   {
@@ -7460,13 +7500,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.06,
-   "outputSpeed": 25.451,
-   "latency": 0.546,
+   "outputSpeed": 16.892,
+   "latency": 0.723,
    "contextWindowTokens": null
   },
   {
    "slug": "intellect-3",
-   "name": "INTELLECT-3 (based on GLM-4.5-Air)",
+   "name": "INTELLECT-3 (Based on GLM-4.5-Air)",
    "creator": "Prime Intellect",
    "releaseDate": "2025-11-27",
    "isReasoning": null,
@@ -7600,13 +7640,13 @@ window.__AA_DATA__ = {
    "outputPrice": 1.095,
    "cacheHitPrice": null,
    "blendedPrice": 0.42,
-   "outputSpeed": 265.979,
-   "latency": 7.768,
+   "outputSpeed": 264.971,
+   "latency": 7.796,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-oss-120b-low",
-   "name": "gpt-oss-120b (low)",
+   "name": "gpt-oss-120b (Low)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-05",
    "isReasoning": null,
@@ -7620,8 +7660,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.545,
    "cacheHitPrice": null,
    "blendedPrice": 0.249,
-   "outputSpeed": 193.256,
-   "latency": 10.886,
+   "outputSpeed": 163.155,
+   "latency": 12.809,
    "contextWindowTokens": null
   },
   {
@@ -7660,8 +7700,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.91,
    "cacheHitPrice": null,
    "blendedPrice": 0.422,
-   "outputSpeed": 90.761,
-   "latency": 0.592,
+   "outputSpeed": 84.886,
+   "latency": 0.594,
    "contextWindowTokens": null
   },
   {
@@ -7700,13 +7740,13 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 128.424,
-   "latency": 0.689,
+   "outputSpeed": 120.708,
+   "latency": 0.697,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-oss-20b-low",
-   "name": "gpt-oss-20b (low)",
+   "name": "gpt-oss-20b (Low)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-05",
    "isReasoning": null,
@@ -7720,8 +7760,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.215,
    "cacheHitPrice": null,
    "blendedPrice": 0.106,
-   "outputSpeed": 214.735,
-   "latency": 9.842,
+   "outputSpeed": 211.466,
+   "latency": 9.941,
    "contextWindowTokens": null
   },
   {
@@ -7760,13 +7800,13 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 77.976,
-   "latency": 25.92,
+   "outputSpeed": 72.361,
+   "latency": 27.968,
    "contextWindowTokens": null
   },
   {
    "slug": "gpt-5-mini-minimal",
-   "name": "GPT-5 mini (minimal)",
+   "name": "GPT-5 mini (Minimal)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -7786,7 +7826,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "k2-v2",
-   "name": "K2-V2 (high)",
+   "name": "K2-V2 (High)",
    "creator": "Institute of Foundation Models",
    "releaseDate": "2025-12-05",
    "isReasoning": null,
@@ -7921,7 +7961,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.412,
    "outputSpeed": 171.439,
-   "latency": 1.08,
+   "latency": 1.029,
    "contextWindowTokens": null
   },
   {
@@ -8100,8 +8140,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
-   "outputSpeed": 148.392,
-   "latency": 1.454,
+   "outputSpeed": 145.78,
+   "latency": 1.377,
    "contextWindowTokens": null
   },
   {
@@ -8140,8 +8180,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.75,
-   "outputSpeed": 78.102,
-   "latency": 0.697,
+   "outputSpeed": 75.237,
+   "latency": 0.721,
    "contextWindowTokens": null
   },
   {
@@ -8160,8 +8200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.563,
-   "outputSpeed": 110.54,
-   "latency": 0.926,
+   "outputSpeed": 111.165,
+   "latency": 0.844,
    "contextWindowTokens": null
   },
   {
@@ -8280,8 +8320,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.12,
    "cacheHitPrice": null,
    "blendedPrice": 0.052,
-   "outputSpeed": 232.022,
-   "latency": 8.863,
+   "outputSpeed": 231.694,
+   "latency": 8.862,
    "contextWindowTokens": null
   },
   {
@@ -8326,7 +8366,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "k2-v2-medium",
-   "name": "K2-V2 (medium)",
+   "name": "K2-V2 (Medium)",
    "creator": "Institute of Foundation Models",
    "releaseDate": "2025-12-05",
    "isReasoning": null,
@@ -8400,8 +8440,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.262,
-   "outputSpeed": 152.949,
-   "latency": 0.564,
+   "outputSpeed": 149.959,
+   "latency": 0.531,
    "contextWindowTokens": null
   },
   {
@@ -8426,7 +8466,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-oss-20b",
-   "name": "gpt-oss-20b (high)",
+   "name": "gpt-oss-20b (High)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-05",
    "isReasoning": null,
@@ -8440,8 +8480,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.18,
    "cacheHitPrice": null,
    "blendedPrice": 0.098,
-   "outputSpeed": 179.989,
-   "latency": 11.533,
+   "outputSpeed": 187.455,
+   "latency": 11.09,
    "contextWindowTokens": null
   },
   {
@@ -8540,8 +8580,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.04,
-   "outputSpeed": 79.22,
-   "latency": 25.572,
+   "outputSpeed": 82.286,
+   "latency": 24.641,
    "contextWindowTokens": null
   },
   {
@@ -8560,8 +8600,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.088,
-   "outputSpeed": 149.547,
-   "latency": 13.965,
+   "outputSpeed": 151.276,
+   "latency": 13.814,
    "contextWindowTokens": null
   },
   {
@@ -8606,7 +8646,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "sarvam-105b",
-   "name": "Sarvam 105B (high)",
+   "name": "Sarvam 105B (High)",
    "creator": "Sarvam",
    "releaseDate": "2026-03-06",
    "isReasoning": null,
@@ -8660,8 +8700,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 224.195,
-   "latency": 0.827,
+   "outputSpeed": 215.132,
+   "latency": 0.896,
    "contextWindowTokens": null
   },
   {
@@ -9180,8 +9220,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.68,
    "cacheHitPrice": null,
    "blendedPrice": 0.313,
-   "outputSpeed": 134.167,
-   "latency": 0.679,
+   "outputSpeed": 118.789,
+   "latency": 0.659,
    "contextWindowTokens": null
   },
   {
@@ -9460,8 +9500,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.97,
    "cacheHitPrice": null,
    "blendedPrice": 0.43,
-   "outputSpeed": 110.818,
-   "latency": 18.999,
+   "outputSpeed": 109.925,
+   "latency": 19.14,
    "contextWindowTokens": null
   },
   {
@@ -9560,8 +9600,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.72,
    "cacheHitPrice": null,
    "blendedPrice": 0.712,
-   "outputSpeed": 88.954,
-   "latency": 0.634,
+   "outputSpeed": 81.905,
+   "latency": 0.639,
    "contextWindowTokens": null
   },
   {
@@ -9780,8 +9820,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 42.81,
-   "latency": 47.452,
+   "outputSpeed": 40.005,
+   "latency": 50.762,
    "contextWindowTokens": null
   },
   {
@@ -9840,8 +9880,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.04,
-   "outputSpeed": 77.394,
-   "latency": 0.288,
+   "outputSpeed": 79.759,
+   "latency": 0.29,
    "contextWindowTokens": null
   },
   {
@@ -9880,8 +9920,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.16,
    "cacheHitPrice": null,
    "blendedPrice": 0.07,
-   "outputSpeed": 94.218,
-   "latency": 28.551,
+   "outputSpeed": 101.143,
+   "latency": 24.521,
    "contextWindowTokens": null
   },
   {
@@ -9900,8 +9940,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 42.883,
-   "latency": 0.713,
+   "outputSpeed": 37.282,
+   "latency": 0.723,
    "contextWindowTokens": null
   },
   {
@@ -10026,7 +10066,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "k2-v2-low",
-   "name": "K2-V2 (low)",
+   "name": "K2-V2 (Low)",
    "creator": "Institute of Foundation Models",
    "releaseDate": "2025-12-05",
    "isReasoning": null,
@@ -10366,7 +10406,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "gpt-5-nano-minimal",
-   "name": "GPT-5 nano (minimal)",
+   "name": "GPT-5 nano (Minimal)",
    "creator": "OpenAI",
    "releaseDate": "2025-08-07",
    "isReasoning": null,
@@ -10500,8 +10540,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4.375,
-   "outputSpeed": 63.844,
-   "latency": 0.362,
+   "outputSpeed": 64.777,
+   "latency": 0.383,
    "contextWindowTokens": null
   },
   {
@@ -10620,8 +10660,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.088,
-   "outputSpeed": 218.658,
-   "latency": 0.376,
+   "outputSpeed": 219.143,
+   "latency": 0.352,
    "contextWindowTokens": null
   },
   {
@@ -10640,8 +10680,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.195,
    "cacheHitPrice": null,
    "blendedPrice": 0.086,
-   "outputSpeed": 155.151,
-   "latency": 1.284,
+   "outputSpeed": 156.52,
+   "latency": 1.324,
    "contextWindowTokens": null
   },
   {
@@ -10966,7 +11006,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "sarvam-30b",
-   "name": "Sarvam 30B (high)",
+   "name": "Sarvam 30B (High)",
    "creator": "Sarvam",
    "releaseDate": "2026-03-06",
    "isReasoning": null,
@@ -11260,8 +11300,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.7,
    "cacheHitPrice": null,
    "blendedPrice": 0.325,
-   "outputSpeed": 2093.754,
-   "latency": 0.466,
+   "outputSpeed": 2157.61,
+   "latency": 0.489,
    "contextWindowTokens": null
   },
   {
@@ -11320,8 +11360,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 45.193,
-   "latency": 0.331,
+   "outputSpeed": 44.85,
+   "latency": 0.334,
    "contextWindowTokens": null
   },
   {
@@ -11480,8 +11520,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 82.683,
-   "latency": 0.532,
+   "outputSpeed": 70.098,
+   "latency": 0.669,
    "contextWindowTokens": null
   },
   {
@@ -11520,8 +11560,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.97,
    "cacheHitPrice": null,
    "blendedPrice": 0.43,
-   "outputSpeed": 107.77,
-   "latency": 0.886,
+   "outputSpeed": 107.294,
+   "latency": 0.879,
    "contextWindowTokens": null
   },
   {
@@ -11680,8 +11720,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.219,
-   "outputSpeed": 43.181,
-   "latency": 0.983,
+   "outputSpeed": 40.688,
+   "latency": 0.94,
    "contextWindowTokens": null
   },
   {
@@ -11720,8 +11760,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.14,
    "cacheHitPrice": null,
    "blendedPrice": 0.061,
-   "outputSpeed": 231.722,
-   "latency": 0.561,
+   "outputSpeed": 223.487,
+   "latency": 0.591,
    "contextWindowTokens": null
   },
   {
@@ -11820,8 +11860,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.3,
-   "outputSpeed": 202.88,
-   "latency": 0.781,
+   "outputSpeed": 197.545,
+   "latency": 0.782,
    "contextWindowTokens": null
   },
   {
@@ -11860,8 +11900,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 17.202,
-   "latency": 0.37,
+   "outputSpeed": 17.221,
+   "latency": 0.353,
    "contextWindowTokens": null
   },
   {
@@ -12060,8 +12100,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.35,
-   "outputSpeed": 96.334,
-   "latency": 21.563,
+   "outputSpeed": 95.538,
+   "latency": 21.768,
    "contextWindowTokens": null
   },
   {
@@ -12421,7 +12461,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.345,
    "outputSpeed": 14.837,
-   "latency": 1.444,
+   "latency": 1.339,
    "contextWindowTokens": null
   },
   {
@@ -12506,7 +12546,7 @@ window.__AA_DATA__ = {
   },
   {
    "slug": "sarvam-m-reasoning",
-   "name": "Sarvam M (Reasoning, based on Mistral Small 3.1)",
+   "name": "Sarvam M (Reasoning, Based on Mistral Small 3.1)",
    "creator": "Sarvam",
    "releaseDate": "2025-05-23",
    "isReasoning": null,
@@ -13200,8 +13240,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.1,
-   "outputSpeed": 249.595,
-   "latency": 0.58,
+   "outputSpeed": 236.406,
+   "latency": 0.559,
    "contextWindowTokens": null
   },
   {
@@ -13480,8 +13520,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 131.672,
-   "latency": 0.213,
+   "outputSpeed": 130.719,
+   "latency": 0.216,
    "contextWindowTokens": null
   },
   {
