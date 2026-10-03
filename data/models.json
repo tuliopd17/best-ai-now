@@ -1,12 +1,12 @@
 {
- "fetchedAt": "2026-10-02T15:37:30.383Z",
+ "fetchedAt": "2026-10-03T14:12:56.767Z",
  "source": "api-oficial",
  "intelligenceIndexVersion": null,
  "attribution": "Dados: Artificial Analysis (https://artificialanalysis.ai)",
  "models": [
   {
    "slug": "claude-opus-5-5",
-   "name": "Claude Opus 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+   "name": "Claude Opus 5.5 (Max, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-22",
    "isReasoning": null,
@@ -20,13 +20,13 @@
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 97.011,
-   "latency": 461.826,
+   "outputSpeed": 97.297,
+   "latency": 449.114,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-sonnet-5-5",
-   "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Max Effort, Default Fallback)",
+   "name": "Claude Sonnet 5.5 (Max, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-28",
    "isReasoning": null,
@@ -41,12 +41,12 @@
    "cacheHitPrice": null,
    "blendedPrice": 4,
    "outputSpeed": 142.537,
-   "latency": 261.168,
+   "latency": 261.063,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-5-5-xhigh",
-   "name": "Claude Opus 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+   "name": "Claude Opus 5.5 (Xhigh, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-22",
    "isReasoning": null,
@@ -60,13 +60,13 @@
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 81.109,
-   "latency": 51.883,
+   "outputSpeed": 78.732,
+   "latency": 50.457,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-5-5-high",
-   "name": "Claude Opus 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
+   "name": "Claude Opus 5.5 (High, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-22",
    "isReasoning": null,
@@ -80,13 +80,13 @@
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 77.146,
-   "latency": 19.518,
+   "outputSpeed": 81.29,
+   "latency": 16.78,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-fable-5-1",
-   "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
+   "name": "Claude Fable 5.1 (Max, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-01",
    "isReasoning": null,
@@ -100,13 +100,13 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 69.669,
-   "latency": 146.211,
+   "outputSpeed": 70.69,
+   "latency": 136.203,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-fable-5-1-xhigh",
-   "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+   "name": "Claude Fable 5.1 (Xhigh, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-01",
    "isReasoning": null,
@@ -120,8 +120,8 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 64.21,
-   "latency": 37.157,
+   "outputSpeed": 61.016,
+   "latency": 33.253,
    "contextWindowTokens": null
   },
   {
@@ -140,8 +140,8 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 56.513,
-   "latency": 197.067,
+   "outputSpeed": 57.178,
+   "latency": 192.922,
    "contextWindowTokens": null
   },
   {
@@ -180,13 +180,13 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 52.27,
-   "latency": 74.33,
+   "outputSpeed": 53.656,
+   "latency": 63.456,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-sonnet-5-5-xhigh",
-   "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+   "name": "Claude Sonnet 5.5 (Xhigh, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-28",
    "isReasoning": null,
@@ -200,8 +200,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 112.409,
-   "latency": 15.676,
+   "outputSpeed": 112.96,
+   "latency": 12.717,
    "contextWindowTokens": null
   },
   {
@@ -220,13 +220,13 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 61.649,
-   "latency": 170.489,
+   "outputSpeed": 59.154,
+   "latency": 152.12,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-5-5-medium",
-   "name": "Claude Opus 5.5 (Adaptive Reasoning, Medium Effort, Default Fallback)",
+   "name": "Claude Opus 5.5 (Medium, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-22",
    "isReasoning": null,
@@ -240,13 +240,13 @@
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 75.099,
-   "latency": 14.579,
+   "outputSpeed": 79.489,
+   "latency": 10.01,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-fable-5-1-high",
-   "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
+   "name": "Claude Fable 5.1 (High, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-01",
    "isReasoning": null,
@@ -261,7 +261,7 @@
    "cacheHitPrice": null,
    "blendedPrice": 20,
    "outputSpeed": 56.047,
-   "latency": 7.401,
+   "latency": 6.8,
    "contextWindowTokens": null
   },
   {
@@ -280,8 +280,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 58.357,
-   "latency": 69.336,
+   "outputSpeed": 54.153,
+   "latency": 62.454,
    "contextWindowTokens": null
   },
   {
@@ -300,13 +300,13 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 52.779,
-   "latency": 36.99,
+   "outputSpeed": 53.437,
+   "latency": 27.551,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-5",
-   "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
+   "name": "Claude Opus 5 (Max)",
    "creator": "Anthropic",
    "releaseDate": "2026-07-24",
    "isReasoning": null,
@@ -340,13 +340,13 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 56.049,
-   "latency": 25.54,
+   "outputSpeed": 52.438,
+   "latency": 20.73,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-5-xhigh",
-   "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
+   "name": "Claude Opus 5 (Xhigh)",
    "creator": "Anthropic",
    "releaseDate": "2026-07-24",
    "isReasoning": null,
@@ -366,7 +366,7 @@
   },
   {
    "slug": "claude-fable-5",
-   "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+   "name": "Claude Fable 5 (Max, Opus 4.8 Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-06-09",
    "isReasoning": null,
@@ -400,13 +400,13 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 51.763,
-   "latency": 4.833,
+   "outputSpeed": 52.617,
+   "latency": 4.079,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-fable-5-1-medium",
-   "name": "Claude Fable 5.1 (Adaptive Reasoning, Medium Effort, Default Fallback)",
+   "name": "Claude Fable 5.1 (Medium, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-01",
    "isReasoning": null,
@@ -420,13 +420,13 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 56.022,
-   "latency": 6.555,
+   "outputSpeed": 56.869,
+   "latency": 5.888,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-5-high",
-   "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
+   "name": "Claude Opus 5 (High)",
    "creator": "Anthropic",
    "releaseDate": "2026-07-24",
    "isReasoning": null,
@@ -460,8 +460,8 @@
    "outputPrice": 4.25,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 168.397,
-   "latency": 55.226,
+   "outputSpeed": 162.276,
+   "latency": 57.031,
    "contextWindowTokens": null
   },
   {
@@ -480,8 +480,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 60.284,
-   "latency": 3.741,
+   "outputSpeed": 56.156,
+   "latency": 3.553,
    "contextWindowTokens": null
   },
   {
@@ -500,8 +500,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 96.316,
-   "latency": 106.858,
+   "outputSpeed": 111.184,
+   "latency": 96.068,
    "contextWindowTokens": null
   },
   {
@@ -526,7 +526,7 @@
   },
   {
    "slug": "claude-fable-5-1-low",
-   "name": "Claude Fable 5.1 (Adaptive Reasoning, Low Effort, Default Fallback)",
+   "name": "Claude Fable 5.1 (Low, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-01",
    "isReasoning": null,
@@ -540,13 +540,13 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 54.648,
-   "latency": 3.492,
+   "outputSpeed": 55.253,
+   "latency": 3.491,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-sonnet-5-5-high",
-   "name": "Claude Sonnet 5.5 (Adaptive Reasoning, High Effort, Default Fallback)",
+   "name": "Claude Sonnet 5.5 (High, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-28",
    "isReasoning": null,
@@ -560,8 +560,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 108.854,
-   "latency": 8.512,
+   "outputSpeed": 109.242,
+   "latency": 7.71,
    "contextWindowTokens": null
   },
   {
@@ -580,8 +580,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 83.18,
-   "latency": 21.243,
+   "outputSpeed": 81.611,
+   "latency": 22.446,
    "contextWindowTokens": null
   },
   {
@@ -600,8 +600,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 78.111,
-   "latency": 17.538,
+   "outputSpeed": 78.479,
+   "latency": 17.723,
    "contextWindowTokens": null
   },
   {
@@ -620,8 +620,8 @@
    "outputPrice": 0.87,
    "cacheHitPrice": null,
    "blendedPrice": 0.544,
-   "outputSpeed": 46.231,
-   "latency": 46.379,
+   "outputSpeed": 46.034,
+   "latency": 47.089,
    "contextWindowTokens": null
   },
   {
@@ -640,8 +640,8 @@
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 46.275,
-   "latency": 1.747,
+   "outputSpeed": 49.254,
+   "latency": 1.666,
    "contextWindowTokens": null
   },
   {
@@ -660,8 +660,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 38.24,
-   "latency": 54.002,
+   "outputSpeed": 37.962,
+   "latency": 54.451,
    "contextWindowTokens": null
   },
   {
@@ -680,13 +680,13 @@
    "outputPrice": 4.25,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 167.351,
-   "latency": 43.597,
+   "outputSpeed": 172.408,
+   "latency": 45.446,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-5-medium",
-   "name": "Claude Opus 5 (Adaptive Reasoning, Medium Effort)",
+   "name": "Claude Opus 5 (Medium)",
    "creator": "Anthropic",
    "releaseDate": "2026-07-24",
    "isReasoning": null,
@@ -720,8 +720,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": null,
    "blendedPrice": 2.15,
-   "outputSpeed": 73.819,
-   "latency": 29.774,
+   "outputSpeed": 75.197,
+   "latency": 29.298,
    "contextWindowTokens": null
   },
   {
@@ -760,8 +760,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 96.386,
-   "latency": 30.434,
+   "outputSpeed": 104.352,
+   "latency": 24.849,
    "contextWindowTokens": null
   },
   {
@@ -820,8 +820,8 @@
    "outputPrice": 2.7,
    "cacheHitPrice": null,
    "blendedPrice": 1.425,
-   "outputSpeed": 84.74,
-   "latency": 25.558,
+   "outputSpeed": 84.069,
+   "latency": 25.746,
    "contextWindowTokens": null
   },
   {
@@ -840,8 +840,8 @@
    "outputPrice": 15,
    "cacheHitPrice": null,
    "blendedPrice": 6,
-   "outputSpeed": 36.018,
-   "latency": 58.578,
+   "outputSpeed": 35.161,
+   "latency": 59.504,
    "contextWindowTokens": null
   },
   {
@@ -860,8 +860,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 107.338,
-   "latency": 17.139,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -880,8 +880,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 85.682,
-   "latency": 16.273,
+   "outputSpeed": 90.685,
+   "latency": 11.472,
    "contextWindowTokens": null
   },
   {
@@ -906,7 +906,7 @@
   },
   {
    "slug": "claude-opus-5-5-low",
-   "name": "Claude Opus 5.5 (Adaptive Reasoning, Low Effort, Default Fallback)",
+   "name": "Claude Opus 5.5 (Low, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-22",
    "isReasoning": null,
@@ -920,8 +920,8 @@
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 75.007,
-   "latency": 6.565,
+   "outputSpeed": 74.766,
+   "latency": 5.004,
    "contextWindowTokens": null
   },
   {
@@ -940,8 +940,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 67.924,
-   "latency": 4.983,
+   "outputSpeed": 67.802,
+   "latency": 6.278,
    "contextWindowTokens": null
   },
   {
@@ -960,8 +960,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 52.555,
-   "latency": 2.028,
+   "outputSpeed": 51.838,
+   "latency": 2.299,
    "contextWindowTokens": null
   },
   {
@@ -980,8 +980,8 @@
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 111.008,
-   "latency": 107.6,
+   "outputSpeed": 110.113,
+   "latency": 91.227,
    "contextWindowTokens": null
   },
   {
@@ -1000,13 +1000,13 @@
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.237,
-   "outputSpeed": 51.663,
-   "latency": 41.857,
+   "outputSpeed": 55.194,
+   "latency": 39.228,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-4-8",
-   "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
+   "name": "Claude Opus 4.8 (Max)",
    "creator": "Anthropic",
    "releaseDate": "2026-05-28",
    "isReasoning": null,
@@ -1020,6 +1020,26 @@
    "outputPrice": 25,
    "cacheHitPrice": null,
    "blendedPrice": 10,
+   "outputSpeed": 0,
+   "latency": 0,
+   "contextWindowTokens": null
+  },
+  {
+   "slug": "ling-3-1-flash",
+   "name": "Ling 3.1 Flash",
+   "creator": "InclusionAI",
+   "releaseDate": "2026-10-01",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 41.1,
+   "codingIndex": null,
+   "agenticIndex": null,
+   "inputPrice": 0.3,
+   "outputPrice": 0.9,
+   "cacheHitPrice": null,
+   "blendedPrice": 0.45,
    "outputSpeed": 0,
    "latency": 0,
    "contextWindowTokens": null
@@ -1040,13 +1060,13 @@
    "outputPrice": 3.75,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 255.648,
-   "latency": 12.085,
+   "outputSpeed": 268.03,
+   "latency": 11.596,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-sonnet-5-5-medium",
-   "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Medium Effort, Default Fallback)",
+   "name": "Claude Sonnet 5.5 (Medium, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-28",
    "isReasoning": null,
@@ -1060,13 +1080,13 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 109.735,
-   "latency": 1.195,
+   "outputSpeed": 110.736,
+   "latency": 1.513,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-4-7",
-   "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
+   "name": "Claude Opus 4.7 (Max)",
    "creator": "Anthropic",
    "releaseDate": "2026-04-16",
    "isReasoning": null,
@@ -1120,8 +1140,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 38.601,
-   "latency": 53.558,
+   "outputSpeed": 38.886,
+   "latency": 53.171,
    "contextWindowTokens": null
   },
   {
@@ -1140,8 +1160,8 @@
    "outputPrice": 0.47,
    "cacheHitPrice": null,
    "blendedPrice": 0.23,
-   "outputSpeed": 52.111,
-   "latency": 39.839,
+   "outputSpeed": 52.183,
+   "latency": 39.802,
    "contextWindowTokens": null
   },
   {
@@ -1241,12 +1261,12 @@
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
    "outputSpeed": 220.886,
-   "latency": 9.831,
+   "latency": 9.858,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-opus-5-low",
-   "name": "Claude Opus 5 (Adaptive Reasoning, Low Effort)",
+   "name": "Claude Opus 5 (Low)",
    "creator": "Anthropic",
    "releaseDate": "2026-07-24",
    "isReasoning": null,
@@ -1366,7 +1386,7 @@
   },
   {
    "slug": "claude-sonnet-5",
-   "name": "Claude Sonnet 5 (Adaptive Reasoning, Max Effort)",
+   "name": "Claude Sonnet 5 (Max)",
    "creator": "Anthropic",
    "releaseDate": "2026-06-30",
    "isReasoning": null,
@@ -1380,8 +1400,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 93.163,
-   "latency": 177.43,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -1400,8 +1420,8 @@
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 142.025,
-   "latency": 85.233,
+   "outputSpeed": 137.613,
+   "latency": 80.374,
    "contextWindowTokens": null
   },
   {
@@ -1420,8 +1440,8 @@
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 100.367,
-   "latency": 26.038,
+   "outputSpeed": 105.011,
+   "latency": 15.345,
    "contextWindowTokens": null
   },
   {
@@ -1440,8 +1460,8 @@
    "outputPrice": 0.28,
    "cacheHitPrice": null,
    "blendedPrice": 0.175,
-   "outputSpeed": 53.996,
-   "latency": 40.694,
+   "outputSpeed": 53.285,
+   "latency": 41.778,
    "contextWindowTokens": null
   },
   {
@@ -1520,13 +1540,13 @@
    "outputPrice": 3.96,
    "cacheHitPrice": null,
    "blendedPrice": 1.98,
-   "outputSpeed": 108.409,
-   "latency": 19.586,
+   "outputSpeed": 116.078,
+   "latency": 18.269,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-sonnet-5-5-low",
-   "name": "Claude Sonnet 5.5 (Adaptive Reasoning, Low Effort, Default Fallback)",
+   "name": "Claude Sonnet 5.5 (Low, Default Fallback)",
    "creator": "Anthropic",
    "releaseDate": "2026-09-28",
    "isReasoning": null,
@@ -1540,8 +1560,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 105.173,
-   "latency": 0.888,
+   "outputSpeed": 108.911,
+   "latency": 0.871,
    "contextWindowTokens": null
   },
   {
@@ -1560,8 +1580,8 @@
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 120.863,
-   "latency": 2.677,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -1580,8 +1600,8 @@
    "outputPrice": 1.32,
    "cacheHitPrice": null,
    "blendedPrice": 0.66,
-   "outputSpeed": 222.527,
-   "latency": 9.747,
+   "outputSpeed": 223.285,
+   "latency": 9.725,
    "contextWindowTokens": null
   },
   {
@@ -1600,8 +1620,8 @@
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 131.692,
-   "latency": 26.376,
+   "outputSpeed": 138.896,
+   "latency": 16.325,
    "contextWindowTokens": null
   },
   {
@@ -1626,7 +1646,7 @@
   },
   {
    "slug": "claude-sonnet-5-xhigh",
-   "name": "Claude Sonnet 5 (Adaptive Reasoning, Xhigh Effort)",
+   "name": "Claude Sonnet 5 (Xhigh)",
    "creator": "Anthropic",
    "releaseDate": "2026-06-30",
    "isReasoning": null,
@@ -1640,8 +1660,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 78.766,
-   "latency": 13.48,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -1680,8 +1700,8 @@
    "outputPrice": 4.4,
    "cacheHitPrice": null,
    "blendedPrice": 2.15,
-   "outputSpeed": 70.674,
-   "latency": 31.538,
+   "outputSpeed": 73.721,
+   "latency": 30.132,
    "contextWindowTokens": null
   },
   {
@@ -1700,8 +1720,8 @@
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 91.363,
-   "latency": 2.763,
+   "outputSpeed": 94.702,
+   "latency": 2.169,
    "contextWindowTokens": null
   },
   {
@@ -1720,8 +1740,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 87.861,
-   "latency": 1.957,
+   "outputSpeed": 93.222,
+   "latency": 1.488,
    "contextWindowTokens": null
   },
   {
@@ -1745,7 +1765,7 @@
    "contextWindowTokens": null
   },
   {
-   "slug": "jt236b",
+   "slug": "jt-4-1-flash-236b-a21b",
    "name": "JT-4.1 Flash 236B A21B (Reasoning)",
    "creator": "China Mobile",
    "releaseDate": "2026-07-09",
@@ -1840,8 +1860,8 @@
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 45.564,
-   "latency": 45.09,
+   "outputSpeed": 47.251,
+   "latency": 43.504,
    "contextWindowTokens": null
   },
   {
@@ -1940,8 +1960,8 @@
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 128.535,
-   "latency": 9.589,
+   "outputSpeed": 127.962,
+   "latency": 7.551,
    "contextWindowTokens": null
   },
   {
@@ -1980,8 +2000,8 @@
    "outputPrice": 14,
    "cacheHitPrice": null,
    "blendedPrice": 4.813,
-   "outputSpeed": 102.846,
-   "latency": 55.02,
+   "outputSpeed": 101.8,
+   "latency": 36.61,
    "contextWindowTokens": null
   },
   {
@@ -2026,7 +2046,7 @@
   },
   {
    "slug": "claude-opus-4-6-adaptive",
-   "name": "Claude Opus 4.6 (Adaptive Reasoning, Max Effort)",
+   "name": "Claude Opus 4.6 (Max)",
    "creator": "Anthropic",
    "releaseDate": "2026-02-05",
    "isReasoning": null,
@@ -2046,7 +2066,7 @@
   },
   {
    "slug": "claude-sonnet-5-high",
-   "name": "Claude Sonnet 5 (Adaptive Reasoning, High Effort)",
+   "name": "Claude Sonnet 5 (High)",
    "creator": "Anthropic",
    "releaseDate": "2026-06-30",
    "isReasoning": null,
@@ -2060,8 +2080,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 81.944,
-   "latency": 9.026,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -2086,7 +2106,7 @@
   },
   {
    "slug": "claude-opus-4-7-non-reasoning",
-   "name": "Claude Opus 4.7 (Non-reasoning, High Effort)",
+   "name": "Claude Opus 4.7 (Non-reasoning, High)",
    "creator": "Anthropic",
    "releaseDate": "2026-04-16",
    "isReasoning": null,
@@ -2140,8 +2160,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 121.977,
-   "latency": 36.501,
+   "outputSpeed": 123.792,
+   "latency": 29.831,
    "contextWindowTokens": null
   },
   {
@@ -2220,8 +2240,8 @@
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 94.889,
-   "latency": 1.964,
+   "outputSpeed": 96.06,
+   "latency": 1.73,
    "contextWindowTokens": null
   },
   {
@@ -2240,13 +2260,13 @@
    "outputPrice": 15,
    "cacheHitPrice": null,
    "blendedPrice": 6,
-   "outputSpeed": 35.3,
-   "latency": 60.524,
+   "outputSpeed": 35.663,
+   "latency": 60.191,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-sonnet-4-6-adaptive",
-   "name": "Claude Sonnet 4.6 (Adaptive Reasoning, Max Effort)",
+   "name": "Claude Sonnet 4.6 (Max)",
    "creator": "Anthropic",
    "releaseDate": "2026-02-17",
    "isReasoning": null,
@@ -2300,8 +2320,8 @@
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 127.145,
-   "latency": 26.238,
+   "outputSpeed": 127.803,
+   "latency": 24.674,
    "contextWindowTokens": null
   },
   {
@@ -2340,8 +2360,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 77.606,
-   "latency": 26.742,
+   "outputSpeed": 74.309,
+   "latency": 28.02,
    "contextWindowTokens": null
   },
   {
@@ -2400,8 +2420,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 89.895,
-   "latency": 1.088,
+   "outputSpeed": 91.783,
+   "latency": 1.257,
    "contextWindowTokens": null
   },
   {
@@ -2500,13 +2520,13 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 85.261,
-   "latency": 24.523,
+   "outputSpeed": 92.876,
+   "latency": 22.608,
    "contextWindowTokens": null
   },
   {
    "slug": "claude-sonnet-5-medium",
-   "name": "Claude Sonnet 5 (Adaptive Reasoning, Medium Effort)",
+   "name": "Claude Sonnet 5 (Medium)",
    "creator": "Anthropic",
    "releaseDate": "2026-06-30",
    "isReasoning": null,
@@ -2520,8 +2540,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 78.414,
-   "latency": 1.858,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -2600,8 +2620,8 @@
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 53.544,
-   "latency": 38.526,
+   "outputSpeed": 55.699,
+   "latency": 37.069,
    "contextWindowTokens": null
   },
   {
@@ -2620,12 +2640,12 @@
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 92.706,
-   "latency": 1.594,
+   "outputSpeed": 98.405,
+   "latency": 1.582,
    "contextWindowTokens": null
   },
   {
-   "slug": "jt-4-1-flash-236b-a21b",
+   "slug": "jt-4-1-flash-236b-a21b-non-reasoning",
    "name": "JT-4.1 Flash 236B A21B (Non-reasoning)",
    "creator": "China Mobile",
    "releaseDate": "2026-07-09",
@@ -2720,8 +2740,8 @@
    "outputPrice": 1.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.9,
-   "outputSpeed": 152.496,
-   "latency": 13.625,
+   "outputSpeed": 155.104,
+   "latency": 13.448,
    "contextWindowTokens": null
   },
   {
@@ -2786,7 +2806,7 @@
   },
   {
    "slug": "claude-opus-4-6",
-   "name": "Claude Opus 4.6 (Non-reasoning, High Effort)",
+   "name": "Claude Opus 4.6 (Non-reasoning, High)",
    "creator": "Anthropic",
    "releaseDate": "2026-02-05",
    "isReasoning": null,
@@ -2880,8 +2900,8 @@
    "outputPrice": 30,
    "cacheHitPrice": null,
    "blendedPrice": 11.25,
-   "outputSpeed": 135.332,
-   "latency": 15.638,
+   "outputSpeed": 144.846,
+   "latency": 14.696,
    "contextWindowTokens": null
   },
   {
@@ -2920,8 +2940,8 @@
    "outputPrice": 4,
    "cacheHitPrice": null,
    "blendedPrice": 1.712,
-   "outputSpeed": 81.863,
-   "latency": 28.388,
+   "outputSpeed": 86.705,
+   "latency": 26.941,
    "contextWindowTokens": null
   },
   {
@@ -2940,8 +2960,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 135.057,
-   "latency": 16.68,
+   "outputSpeed": 185.295,
+   "latency": 12.651,
    "contextWindowTokens": null
   },
   {
@@ -3000,8 +3020,8 @@
    "outputPrice": 0.555,
    "cacheHitPrice": null,
    "blendedPrice": 0.241,
-   "outputSpeed": 86.864,
-   "latency": 25.118,
+   "outputSpeed": 90.539,
+   "latency": 24.138,
    "contextWindowTokens": null
   },
   {
@@ -3040,8 +3060,8 @@
    "outputPrice": 0.28,
    "cacheHitPrice": null,
    "blendedPrice": 0.175,
-   "outputSpeed": 48.743,
-   "latency": 43.507,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -3060,8 +3080,8 @@
    "outputPrice": 1.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.7,
-   "outputSpeed": 55.419,
-   "latency": 37.766,
+   "outputSpeed": 55.831,
+   "latency": 37.507,
    "contextWindowTokens": null
   },
   {
@@ -3120,8 +3140,8 @@
    "outputPrice": 4.05,
    "cacheHitPrice": null,
    "blendedPrice": 1.762,
-   "outputSpeed": 176.51,
-   "latency": 13.675,
+   "outputSpeed": 167.429,
+   "latency": 14.227,
    "contextWindowTokens": null
   },
   {
@@ -3226,7 +3246,7 @@
   },
   {
    "slug": "claude-sonnet-4-6",
-   "name": "Claude Sonnet 4.6 (Non-reasoning, High Effort)",
+   "name": "Claude Sonnet 4.6 (Non-reasoning, High)",
    "creator": "Anthropic",
    "releaseDate": "2026-02-17",
    "isReasoning": null,
@@ -3260,8 +3280,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 234.567,
-   "latency": 0.785,
+   "outputSpeed": 247.779,
+   "latency": 0.778,
    "contextWindowTokens": null
   },
   {
@@ -3326,7 +3346,7 @@
   },
   {
    "slug": "claude-sonnet-5-low",
-   "name": "Claude Sonnet 5 (Adaptive Reasoning, Low Effort)",
+   "name": "Claude Sonnet 5 (Low)",
    "creator": "Anthropic",
    "releaseDate": "2026-06-30",
    "isReasoning": null,
@@ -3340,8 +3360,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 74.386,
-   "latency": 4.696,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -3420,8 +3440,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.175,
-   "outputSpeed": 196.096,
-   "latency": 11.349,
+   "outputSpeed": 190.312,
+   "latency": 11.535,
    "contextWindowTokens": null
   },
   {
@@ -3566,7 +3586,7 @@
   },
   {
    "slug": "claude-sonnet-4-6-non-reasoning-low-effort",
-   "name": "Claude Sonnet 4.6 (Non-reasoning, Low Effort)",
+   "name": "Claude Sonnet 4.6 (Non-reasoning, Low)",
    "creator": "Anthropic",
    "releaseDate": "2026-02-17",
    "isReasoning": null,
@@ -3586,7 +3606,7 @@
   },
   {
    "slug": "claude-sonnet-5-non-reasoning",
-   "name": "Claude Sonnet 5 (Non-reasoning, High Effort)",
+   "name": "Claude Sonnet 5 (Non-reasoning, High)",
    "creator": "Anthropic",
    "releaseDate": "2026-06-30",
    "isReasoning": null,
@@ -3600,8 +3620,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 71.782,
-   "latency": 1.637,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -3660,8 +3680,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 1.075,
-   "outputSpeed": 165.005,
-   "latency": 14.68,
+   "outputSpeed": 165.194,
+   "latency": 14.659,
    "contextWindowTokens": null
   },
   {
@@ -3840,8 +3860,8 @@
    "outputPrice": 0.22,
    "cacheHitPrice": null,
    "blendedPrice": 0.111,
-   "outputSpeed": 340.467,
-   "latency": 7.068,
+   "outputSpeed": 364.914,
+   "latency": 6.666,
    "contextWindowTokens": null
   },
   {
@@ -4080,8 +4100,8 @@
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 126.255,
-   "latency": 2.093,
+   "outputSpeed": 124.805,
+   "latency": 1.981,
    "contextWindowTokens": null
   },
   {
@@ -4120,8 +4140,8 @@
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 86.33,
-   "latency": 1.594,
+   "outputSpeed": 86.212,
+   "latency": 1.603,
    "contextWindowTokens": null
   },
   {
@@ -4280,8 +4300,8 @@
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 89.415,
-   "latency": 0.77,
+   "outputSpeed": 100.296,
+   "latency": 0.753,
    "contextWindowTokens": null
   },
   {
@@ -4400,8 +4420,8 @@
    "outputPrice": 4.8,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 114.097,
-   "latency": 1.133,
+   "outputSpeed": 124.898,
+   "latency": 1.12,
    "contextWindowTokens": null
   },
   {
@@ -4456,12 +4476,12 @@
    "intelligenceIndex": 20.4,
    "codingIndex": null,
    "agenticIndex": null,
-   "inputPrice": 1.32,
-   "outputPrice": 3.96,
+   "inputPrice": 0.91,
+   "outputPrice": 2.98,
    "cacheHitPrice": null,
-   "blendedPrice": 1.98,
-   "outputSpeed": 151.902,
-   "latency": 1.045,
+   "blendedPrice": 1.427,
+   "outputSpeed": 125.498,
+   "latency": 1.048,
    "contextWindowTokens": null
   },
   {
@@ -4480,8 +4500,8 @@
    "outputPrice": 8,
    "cacheHitPrice": null,
    "blendedPrice": 3.5,
-   "outputSpeed": 117.213,
-   "latency": 7.653,
+   "outputSpeed": 113.629,
+   "latency": 7.437,
    "contextWindowTokens": null
   },
   {
@@ -4500,8 +4520,8 @@
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 54.608,
-   "latency": 1.213,
+   "outputSpeed": 54.674,
+   "latency": 1.152,
    "contextWindowTokens": null
   },
   {
@@ -4520,8 +4540,8 @@
    "outputPrice": 0.22,
    "cacheHitPrice": null,
    "blendedPrice": 0.111,
-   "outputSpeed": 331.527,
-   "latency": 7.805,
+   "outputSpeed": 360.189,
+   "latency": 7.357,
    "contextWindowTokens": null
   },
   {
@@ -4620,8 +4640,8 @@
    "outputPrice": 1.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.438,
-   "outputSpeed": 225.811,
-   "latency": 10.203,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -4881,7 +4901,7 @@
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
    "outputSpeed": 133.599,
-   "latency": 0.811,
+   "latency": 0.761,
    "contextWindowTokens": null
   },
   {
@@ -4900,8 +4920,8 @@
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 87.913,
-   "latency": 38.018,
+   "outputSpeed": 88.215,
+   "latency": 37.78,
    "contextWindowTokens": null
   },
   {
@@ -4920,8 +4940,8 @@
    "outputPrice": 0.87,
    "cacheHitPrice": null,
    "blendedPrice": 0.544,
-   "outputSpeed": 22.467,
-   "latency": 1.151,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -4940,8 +4960,8 @@
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.844,
-   "outputSpeed": 140.111,
-   "latency": 39.621,
+   "outputSpeed": 148.572,
+   "latency": 37.412,
    "contextWindowTokens": null
   },
   {
@@ -5020,8 +5040,8 @@
    "outputPrice": 3.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.1,
-   "outputSpeed": 143.338,
-   "latency": 1.04,
+   "outputSpeed": 144.676,
+   "latency": 1.023,
    "contextWindowTokens": null
   },
   {
@@ -5060,8 +5080,8 @@
    "outputPrice": 1.35,
    "cacheHitPrice": null,
    "blendedPrice": 0.581,
-   "outputSpeed": 144.507,
-   "latency": 14.423,
+   "outputSpeed": 142.251,
+   "latency": 14.638,
    "contextWindowTokens": null
   },
   {
@@ -5200,8 +5220,8 @@
    "outputPrice": 5,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 122.528,
-   "latency": 13.947,
+   "outputSpeed": 115.226,
+   "latency": 14.969,
    "contextWindowTokens": null
   },
   {
@@ -5280,8 +5300,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 127.111,
-   "latency": 17.61,
+   "outputSpeed": 129.547,
+   "latency": 17.459,
    "contextWindowTokens": null
   },
   {
@@ -5500,8 +5520,8 @@
    "outputPrice": 3.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.1,
-   "outputSpeed": 131.298,
-   "latency": 16.254,
+   "outputSpeed": 131.739,
+   "latency": 16.183,
    "contextWindowTokens": null
   },
   {
@@ -5580,8 +5600,8 @@
    "outputPrice": 5,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 104.998,
-   "latency": 0.44,
+   "outputSpeed": 107.764,
+   "latency": 0.477,
    "contextWindowTokens": null
   },
   {
@@ -5640,8 +5660,8 @@
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.844,
-   "outputSpeed": 151.553,
-   "latency": 1.1,
+   "outputSpeed": 158.769,
+   "latency": 1.11,
    "contextWindowTokens": null
   },
   {
@@ -5760,8 +5780,8 @@
    "outputPrice": 0.65,
    "cacheHitPrice": null,
    "blendedPrice": 0.282,
-   "outputSpeed": 77.891,
-   "latency": 25.948,
+   "outputSpeed": 78.168,
+   "latency": 25.861,
    "contextWindowTokens": null
   },
   {
@@ -5800,8 +5820,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 35.112,
-   "latency": 50.42,
+   "outputSpeed": 35.496,
+   "latency": 49.883,
    "contextWindowTokens": null
   },
   {
@@ -5960,8 +5980,8 @@
    "outputPrice": 7.5,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 169.484,
-   "latency": 12.356,
+   "outputSpeed": 172.993,
+   "latency": 12.125,
    "contextWindowTokens": null
   },
   {
@@ -5980,8 +6000,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
-   "outputSpeed": 146.236,
-   "latency": 15.082,
+   "outputSpeed": 144.183,
+   "latency": 15.263,
    "contextWindowTokens": null
   },
   {
@@ -6000,8 +6020,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 130.672,
-   "latency": 34.607,
+   "outputSpeed": 123.957,
+   "latency": 31.426,
    "contextWindowTokens": null
   },
   {
@@ -6080,8 +6100,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.205,
-   "outputSpeed": 35.819,
-   "latency": 0.92,
+   "outputSpeed": 39.562,
+   "latency": 0.928,
    "contextWindowTokens": null
   },
   {
@@ -6260,8 +6280,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 216.074,
-   "latency": 18.931,
+   "outputSpeed": 212.259,
+   "latency": 19.097,
    "contextWindowTokens": null
   },
   {
@@ -6300,8 +6320,8 @@
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.19,
-   "outputSpeed": 81.253,
-   "latency": 0.404,
+   "outputSpeed": 85.082,
+   "latency": 0.391,
    "contextWindowTokens": null
   },
   {
@@ -6340,8 +6360,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 211.201,
-   "latency": 9.687,
+   "outputSpeed": 197.301,
+   "latency": 10.362,
    "contextWindowTokens": null
   },
   {
@@ -6360,8 +6380,8 @@
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.198,
-   "outputSpeed": 119.816,
-   "latency": 0.681,
+   "outputSpeed": 107.873,
+   "latency": 0.68,
    "contextWindowTokens": null
   },
   {
@@ -6380,8 +6400,8 @@
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.06,
-   "outputSpeed": 15.331,
-   "latency": 131.04,
+   "outputSpeed": 17.348,
+   "latency": 115.837,
    "contextWindowTokens": null
   },
   {
@@ -6460,8 +6480,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.095,
-   "outputSpeed": 291.3,
-   "latency": 7.268,
+   "outputSpeed": 292.054,
+   "latency": 7.248,
    "contextWindowTokens": null
   },
   {
@@ -6480,8 +6500,8 @@
    "outputPrice": 0.9,
    "cacheHitPrice": null,
    "blendedPrice": 0.45,
-   "outputSpeed": 155.927,
-   "latency": 13.686,
+   "outputSpeed": 158.629,
+   "latency": 13.449,
    "contextWindowTokens": null
   },
   {
@@ -6500,8 +6520,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 137.72,
-   "latency": 19.04,
+   "outputSpeed": 141.442,
+   "latency": 17.062,
    "contextWindowTokens": null
   },
   {
@@ -6620,8 +6640,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 209.043,
-   "latency": 21.337,
+   "outputSpeed": 226.558,
+   "latency": 20.46,
    "contextWindowTokens": null
   },
   {
@@ -6660,8 +6680,8 @@
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.275,
-   "outputSpeed": 232.838,
-   "latency": 0.934,
+   "outputSpeed": 242.135,
+   "latency": 1.01,
    "contextWindowTokens": null
   },
   {
@@ -6760,8 +6780,8 @@
    "outputPrice": 0.75,
    "cacheHitPrice": null,
    "blendedPrice": 0.375,
-   "outputSpeed": 841.966,
-   "latency": 2.863,
+   "outputSpeed": 901.529,
+   "latency": 2.807,
    "contextWindowTokens": null
   },
   {
@@ -6940,8 +6960,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 206.793,
-   "latency": 14.178,
+   "outputSpeed": 208.54,
+   "latency": 13.748,
    "contextWindowTokens": null
   },
   {
@@ -7060,8 +7080,8 @@
    "outputPrice": 0.595,
    "cacheHitPrice": null,
    "blendedPrice": 0.261,
-   "outputSpeed": 152.258,
-   "latency": 13.667,
+   "outputSpeed": 175.423,
+   "latency": 11.913,
    "contextWindowTokens": null
   },
   {
@@ -7220,8 +7240,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.262,
-   "outputSpeed": 173.831,
-   "latency": 12.122,
+   "outputSpeed": 177.587,
+   "latency": 11.894,
    "contextWindowTokens": null
   },
   {
@@ -7280,8 +7300,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.412,
-   "outputSpeed": 170.51,
-   "latency": 12.853,
+   "outputSpeed": 176.454,
+   "latency": 12.488,
    "contextWindowTokens": null
   },
   {
@@ -7300,8 +7320,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.151,
-   "outputSpeed": 40.815,
-   "latency": 50.047,
+   "outputSpeed": 53.78,
+   "latency": 38.233,
    "contextWindowTokens": null
   },
   {
@@ -7380,8 +7400,8 @@
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.107,
-   "outputSpeed": 55.548,
-   "latency": 36.411,
+   "outputSpeed": 53.216,
+   "latency": 38.032,
    "contextWindowTokens": null
   },
   {
@@ -7420,8 +7440,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 58.16,
-   "latency": 36.036,
+   "outputSpeed": 51.008,
+   "latency": 40.857,
    "contextWindowTokens": null
   },
   {
@@ -7520,8 +7540,8 @@
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.388,
-   "outputSpeed": 371.798,
-   "latency": 6.393,
+   "outputSpeed": 371.385,
+   "latency": 6.399,
    "contextWindowTokens": null
   },
   {
@@ -7540,8 +7560,8 @@
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.06,
-   "outputSpeed": 14.397,
-   "latency": 0.841,
+   "outputSpeed": 14.328,
+   "latency": 0.757,
    "contextWindowTokens": null
   },
   {
@@ -7680,8 +7700,8 @@
    "outputPrice": 1.095,
    "cacheHitPrice": null,
    "blendedPrice": 0.42,
-   "outputSpeed": 263.788,
-   "latency": 7.829,
+   "outputSpeed": 264.833,
+   "latency": 7.799,
    "contextWindowTokens": null
   },
   {
@@ -7700,8 +7720,8 @@
    "outputPrice": 0.545,
    "cacheHitPrice": null,
    "blendedPrice": 0.249,
-   "outputSpeed": 155.929,
-   "latency": 13.348,
+   "outputSpeed": 162.206,
+   "latency": 12.838,
    "contextWindowTokens": null
   },
   {
@@ -7740,8 +7760,8 @@
    "outputPrice": 0.91,
    "cacheHitPrice": null,
    "blendedPrice": 0.422,
-   "outputSpeed": 80.677,
-   "latency": 0.589,
+   "outputSpeed": 76.762,
+   "latency": 0.604,
    "contextWindowTokens": null
   },
   {
@@ -7780,8 +7800,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 121.159,
-   "latency": 0.725,
+   "outputSpeed": 126.736,
+   "latency": 0.742,
    "contextWindowTokens": null
   },
   {
@@ -7800,8 +7820,8 @@
    "outputPrice": 0.215,
    "cacheHitPrice": null,
    "blendedPrice": 0.106,
-   "outputSpeed": 218.637,
-   "latency": 9.662,
+   "outputSpeed": 211.466,
+   "latency": 9.972,
    "contextWindowTokens": null
   },
   {
@@ -7840,8 +7860,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 82.401,
-   "latency": 24.553,
+   "outputSpeed": 91.586,
+   "latency": 22.107,
    "contextWindowTokens": null
   },
   {
@@ -8000,8 +8020,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.412,
-   "outputSpeed": 167.759,
-   "latency": 1.032,
+   "outputSpeed": 175.881,
+   "latency": 1.02,
    "contextWindowTokens": null
   },
   {
@@ -8180,8 +8200,8 @@
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
-   "outputSpeed": 152.664,
-   "latency": 1.403,
+   "outputSpeed": 150.511,
+   "latency": 1.396,
    "contextWindowTokens": null
   },
   {
@@ -8220,8 +8240,8 @@
    "outputPrice": 1.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.75,
-   "outputSpeed": 79.16,
-   "latency": 0.705,
+   "outputSpeed": 80.64,
+   "latency": 0.753,
    "contextWindowTokens": null
   },
   {
@@ -8240,8 +8260,8 @@
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.563,
-   "outputSpeed": 80.196,
-   "latency": 0.928,
+   "outputSpeed": 103.429,
+   "latency": 0.866,
    "contextWindowTokens": null
   },
   {
@@ -8360,8 +8380,8 @@
    "outputPrice": 0.12,
    "cacheHitPrice": null,
    "blendedPrice": 0.052,
-   "outputSpeed": 230.791,
-   "latency": 8.906,
+   "outputSpeed": 228.351,
+   "latency": 9.002,
    "contextWindowTokens": null
   },
   {
@@ -8480,8 +8500,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.262,
-   "outputSpeed": 154.338,
-   "latency": 0.526,
+   "outputSpeed": 164.23,
+   "latency": 0.523,
    "contextWindowTokens": null
   },
   {
@@ -8520,8 +8540,8 @@
    "outputPrice": 0.18,
    "cacheHitPrice": null,
    "blendedPrice": 0.098,
-   "outputSpeed": 198.092,
-   "latency": 10.497,
+   "outputSpeed": 197.378,
+   "latency": 10.562,
    "contextWindowTokens": null
   },
   {
@@ -8620,8 +8640,8 @@
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.04,
-   "outputSpeed": 82.286,
-   "latency": 24.665,
+   "outputSpeed": 64.933,
+   "latency": 31.206,
    "contextWindowTokens": null
   },
   {
@@ -8640,8 +8660,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.088,
-   "outputSpeed": 166.624,
-   "latency": 12.59,
+   "outputSpeed": 199.827,
+   "latency": 10.553,
    "contextWindowTokens": null
   },
   {
@@ -8740,8 +8760,8 @@
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 223.601,
-   "latency": 0.896,
+   "outputSpeed": 221.778,
+   "latency": 0.886,
    "contextWindowTokens": null
   },
   {
@@ -9260,8 +9280,8 @@
    "outputPrice": 0.68,
    "cacheHitPrice": null,
    "blendedPrice": 0.313,
-   "outputSpeed": 106.539,
-   "latency": 0.65,
+   "outputSpeed": 78.295,
+   "latency": 0.644,
    "contextWindowTokens": null
   },
   {
@@ -9540,8 +9560,8 @@
    "outputPrice": 0.97,
    "cacheHitPrice": null,
    "blendedPrice": 0.43,
-   "outputSpeed": 109.416,
-   "latency": 19.209,
+   "outputSpeed": 110.356,
+   "latency": 19.043,
    "contextWindowTokens": null
   },
   {
@@ -9640,8 +9660,8 @@
    "outputPrice": 0.72,
    "cacheHitPrice": null,
    "blendedPrice": 0.712,
-   "outputSpeed": 79.729,
-   "latency": 0.624,
+   "outputSpeed": 83.007,
+   "latency": 0.619,
    "contextWindowTokens": null
   },
   {
@@ -9860,8 +9880,8 @@
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 36.207,
-   "latency": 55.979,
+   "outputSpeed": 38.353,
+   "latency": 52.838,
    "contextWindowTokens": null
   },
   {
@@ -9920,8 +9940,8 @@
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.04,
-   "outputSpeed": 78.688,
-   "latency": 0.288,
+   "outputSpeed": 62.869,
+   "latency": 0.307,
    "contextWindowTokens": null
   },
   {
@@ -9960,8 +9980,8 @@
    "outputPrice": 0.16,
    "cacheHitPrice": null,
    "blendedPrice": 0.07,
-   "outputSpeed": 96.207,
-   "latency": 26.621,
+   "outputSpeed": 43.467,
+   "latency": 57.241,
    "contextWindowTokens": null
   },
   {
@@ -9980,8 +10000,8 @@
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 36.936,
-   "latency": 0.744,
+   "outputSpeed": 39.13,
+   "latency": 0.738,
    "contextWindowTokens": null
   },
   {
@@ -9995,26 +10015,6 @@
    "estimated": false,
    "intelligenceIndex": 7.4,
    "codingIndex": null,
-   "agenticIndex": null,
-   "inputPrice": 0,
-   "outputPrice": 0,
-   "cacheHitPrice": null,
-   "blendedPrice": 0,
-   "outputSpeed": 0,
-   "latency": 0,
-   "contextWindowTokens": null
-  },
-  {
-   "slug": "nvidia-nemotron-3-nano-4b",
-   "name": "NVIDIA Nemotron 3 Nano 4B",
-   "creator": "NVIDIA",
-   "releaseDate": "2026-03-16",
-   "isReasoning": null,
-   "isOpenWeights": null,
-   "deprecated": false,
-   "estimated": false,
-   "intelligenceIndex": 7.4,
-   "codingIndex": 8,
    "agenticIndex": null,
    "inputPrice": 0,
    "outputPrice": 0,
@@ -10580,8 +10580,8 @@
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4.375,
-   "outputSpeed": 66.572,
-   "latency": 0.413,
+   "outputSpeed": 69.68,
+   "latency": 0.452,
    "contextWindowTokens": null
   },
   {
@@ -10700,8 +10700,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.088,
-   "outputSpeed": 228.079,
-   "latency": 0.352,
+   "outputSpeed": 240.771,
+   "latency": 0.369,
    "contextWindowTokens": null
   },
   {
@@ -10720,8 +10720,8 @@
    "outputPrice": 0.195,
    "cacheHitPrice": null,
    "blendedPrice": 0.086,
-   "outputSpeed": 158.167,
-   "latency": 1.435,
+   "outputSpeed": 157.725,
+   "latency": 1.393,
    "contextWindowTokens": null
   },
   {
@@ -11340,8 +11340,8 @@
    "outputPrice": 0.7,
    "cacheHitPrice": null,
    "blendedPrice": 0.325,
-   "outputSpeed": 2151.558,
-   "latency": 0.489,
+   "outputSpeed": 2392.271,
+   "latency": 0.487,
    "contextWindowTokens": null
   },
   {
@@ -11400,8 +11400,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 44.85,
-   "latency": 0.326,
+   "outputSpeed": 45.223,
+   "latency": 0.329,
    "contextWindowTokens": null
   },
   {
@@ -11540,8 +11540,8 @@
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.107,
-   "outputSpeed": 32.843,
-   "latency": 26.749,
+   "outputSpeed": 54.18,
+   "latency": 9.431,
    "contextWindowTokens": null
   },
   {
@@ -11560,8 +11560,8 @@
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 84.764,
-   "latency": 0.66,
+   "outputSpeed": 90.028,
+   "latency": 0.564,
    "contextWindowTokens": null
   },
   {
@@ -11600,8 +11600,8 @@
    "outputPrice": 0.97,
    "cacheHitPrice": null,
    "blendedPrice": 0.43,
-   "outputSpeed": 107.46,
-   "latency": 0.887,
+   "outputSpeed": 108.357,
+   "latency": 0.892,
    "contextWindowTokens": null
   },
   {
@@ -11761,7 +11761,7 @@
    "cacheHitPrice": null,
    "blendedPrice": 0.219,
    "outputSpeed": 31.733,
-   "latency": 1.137,
+   "latency": 1.046,
    "contextWindowTokens": null
   },
   {
@@ -11800,8 +11800,8 @@
    "outputPrice": 0.14,
    "cacheHitPrice": null,
    "blendedPrice": 0.061,
-   "outputSpeed": 242.493,
-   "latency": 0.574,
+   "outputSpeed": 272.419,
+   "latency": 0.605,
    "contextWindowTokens": null
   },
   {
@@ -11900,8 +11900,8 @@
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.3,
-   "outputSpeed": 193.661,
-   "latency": 0.781,
+   "outputSpeed": 184.05,
+   "latency": 0.817,
    "contextWindowTokens": null
   },
   {
@@ -11940,8 +11940,8 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 17.251,
-   "latency": 0.351,
+   "outputSpeed": 17.249,
+   "latency": 0.338,
    "contextWindowTokens": null
   },
   {
@@ -12140,8 +12140,8 @@
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.35,
-   "outputSpeed": 94.426,
-   "latency": 22.028,
+   "outputSpeed": 94.513,
+   "latency": 21.984,
    "contextWindowTokens": null
   },
   {
@@ -12400,8 +12400,8 @@
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
-   "outputSpeed": 104.912,
-   "latency": 0.498,
+   "outputSpeed": 109.286,
+   "latency": 0.463,
    "contextWindowTokens": null
   },
   {
@@ -12500,8 +12500,8 @@
    "outputPrice": 0.345,
    "cacheHitPrice": null,
    "blendedPrice": 0.345,
-   "outputSpeed": 14.837,
-   "latency": 1.339,
+   "outputSpeed": 13.941,
+   "latency": 1.406,
    "contextWindowTokens": null
   },
   {
@@ -13280,8 +13280,8 @@
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.1,
-   "outputSpeed": 227.136,
-   "latency": 0.494,
+   "outputSpeed": 234.936,
+   "latency": 0.432,
    "contextWindowTokens": null
   },
   {
@@ -13560,8 +13560,28 @@
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 130.065,
-   "latency": 0.217,
+   "outputSpeed": 129.805,
+   "latency": 0.211,
+   "contextWindowTokens": null
+  },
+  {
+   "slug": "nvidia-nemotron-3-nano-4b",
+   "name": "NVIDIA Nemotron 3 Nano 4B",
+   "creator": "NVIDIA",
+   "releaseDate": "2026-03-16",
+   "isReasoning": null,
+   "isOpenWeights": null,
+   "deprecated": false,
+   "estimated": false,
+   "intelligenceIndex": 4.8,
+   "codingIndex": 8,
+   "agenticIndex": null,
+   "inputPrice": 0,
+   "outputPrice": 0,
+   "cacheHitPrice": null,
+   "blendedPrice": 0,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
