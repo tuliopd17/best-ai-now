@@ -1,5 +1,5 @@
 window.__AA_DATA__ = {
- "fetchedAt": "2026-10-10T15:09:04.890Z",
+ "fetchedAt": "2026-10-11T15:30:14.298Z",
  "source": "api-oficial",
  "intelligenceIndexVersion": null,
  "attribution": "Dados: Artificial Analysis (https://artificialanalysis.ai)",
@@ -20,8 +20,8 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 97.402,
-   "latency": 544.903,
+   "outputSpeed": 97.361,
+   "latency": 580.597,
    "contextWindowTokens": null
   },
   {
@@ -40,8 +40,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 137.652,
-   "latency": 313.087,
+   "outputSpeed": 135.99,
+   "latency": 310,
    "contextWindowTokens": null
   },
   {
@@ -60,8 +60,8 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 76.752,
-   "latency": 79.562,
+   "outputSpeed": 78.853,
+   "latency": 64.258,
    "contextWindowTokens": null
   },
   {
@@ -80,8 +80,8 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 74.51,
-   "latency": 22.693,
+   "outputSpeed": 74.184,
+   "latency": 22.124,
    "contextWindowTokens": null
   },
   {
@@ -100,8 +100,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 69.222,
-   "latency": 155.989,
+   "outputSpeed": 71.826,
+   "latency": 159.901,
    "contextWindowTokens": null
   },
   {
@@ -120,8 +120,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 56.94,
-   "latency": 52.125,
+   "outputSpeed": 56.509,
+   "latency": 50.676,
    "contextWindowTokens": null
   },
   {
@@ -140,8 +140,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 50.474,
-   "latency": 244.386,
+   "outputSpeed": 58.043,
+   "latency": 239.819,
    "contextWindowTokens": null
   },
   {
@@ -180,8 +180,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 50.681,
-   "latency": 93.677,
+   "outputSpeed": 53.757,
+   "latency": 90.535,
    "contextWindowTokens": null
   },
   {
@@ -200,8 +200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 96.659,
-   "latency": 15.667,
+   "outputSpeed": 98.665,
+   "latency": 17.771,
    "contextWindowTokens": null
   },
   {
@@ -220,8 +220,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 60.9,
-   "latency": 208.522,
+   "outputSpeed": 61.543,
+   "latency": 204.073,
    "contextWindowTokens": null
   },
   {
@@ -240,8 +240,8 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 73.519,
-   "latency": 12.602,
+   "outputSpeed": 74.442,
+   "latency": 11.54,
    "contextWindowTokens": null
   },
   {
@@ -260,8 +260,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 52.787,
-   "latency": 6.572,
+   "outputSpeed": 52.461,
+   "latency": 3.317,
    "contextWindowTokens": null
   },
   {
@@ -280,8 +280,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 55.528,
-   "latency": 69.46,
+   "outputSpeed": 57.5,
+   "latency": 68.964,
    "contextWindowTokens": null
   },
   {
@@ -300,8 +300,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 47.292,
-   "latency": 39.631,
+   "outputSpeed": 53.272,
+   "latency": 32.012,
    "contextWindowTokens": null
   },
   {
@@ -340,8 +340,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 53.006,
-   "latency": 30.478,
+   "outputSpeed": 53.855,
+   "latency": 29.465,
    "contextWindowTokens": null
   },
   {
@@ -400,7 +400,7 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 42.874,
+   "outputSpeed": 49.532,
    "latency": 4.861,
    "contextWindowTokens": null
   },
@@ -420,8 +420,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 51.975,
-   "latency": 2.778,
+   "outputSpeed": 52.603,
+   "latency": 2.462,
    "contextWindowTokens": null
   },
   {
@@ -461,7 +461,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 2,
    "outputSpeed": 114.783,
-   "latency": 58.802,
+   "latency": 56.44,
    "contextWindowTokens": null
   },
   {
@@ -480,8 +480,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 50.547,
-   "latency": 6.095,
+   "outputSpeed": 52.628,
+   "latency": 5.617,
    "contextWindowTokens": null
   },
   {
@@ -540,8 +540,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 52.439,
-   "latency": 1.397,
+   "outputSpeed": 50.484,
+   "latency": 1.03,
    "contextWindowTokens": null
   },
   {
@@ -560,7 +560,7 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 98.524,
+   "outputSpeed": 99.772,
    "latency": 7.299,
    "contextWindowTokens": null
   },
@@ -580,8 +580,8 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 74.286,
-   "latency": 16.815,
+   "outputSpeed": 81.635,
+   "latency": 16.085,
    "contextWindowTokens": null
   },
   {
@@ -600,7 +600,7 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 64.109,
+   "outputSpeed": 71.035,
    "latency": 7.624,
    "contextWindowTokens": null
   },
@@ -620,8 +620,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.87,
    "cacheHitPrice": null,
    "blendedPrice": 0.544,
-   "outputSpeed": 38.408,
-   "latency": 55.549,
+   "outputSpeed": 38.183,
+   "latency": 55.011,
    "contextWindowTokens": null
   },
   {
@@ -640,8 +640,8 @@ window.__AA_DATA__ = {
    "outputPrice": 50,
    "cacheHitPrice": null,
    "blendedPrice": 20,
-   "outputSpeed": 45.131,
-   "latency": 2.252,
+   "outputSpeed": 54.307,
+   "latency": 2.16,
    "contextWindowTokens": null
   },
   {
@@ -660,8 +660,8 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 35.626,
-   "latency": 58.172,
+   "outputSpeed": 35.508,
+   "latency": 58.346,
    "contextWindowTokens": null
   },
   {
@@ -680,8 +680,8 @@ window.__AA_DATA__ = {
    "outputPrice": 4.25,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 224.529,
-   "latency": 28.522,
+   "outputSpeed": 224.248,
+   "latency": 27.731,
    "contextWindowTokens": null
   },
   {
@@ -720,8 +720,8 @@ window.__AA_DATA__ = {
    "outputPrice": 4.4,
    "cacheHitPrice": null,
    "blendedPrice": 2.15,
-   "outputSpeed": 60.228,
-   "latency": 36.367,
+   "outputSpeed": 65.318,
+   "latency": 33.83,
    "contextWindowTokens": null
   },
   {
@@ -820,8 +820,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.7,
    "cacheHitPrice": null,
    "blendedPrice": 1.425,
-   "outputSpeed": 90.829,
-   "latency": 23.848,
+   "outputSpeed": 88.99,
+   "latency": 24.236,
    "contextWindowTokens": null
   },
   {
@@ -840,8 +840,8 @@ window.__AA_DATA__ = {
    "outputPrice": 15,
    "cacheHitPrice": null,
    "blendedPrice": 6,
-   "outputSpeed": 38.787,
-   "latency": 54.443,
+   "outputSpeed": 39.43,
+   "latency": 53.476,
    "contextWindowTokens": null
   },
   {
@@ -860,8 +860,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 236.903,
-   "latency": 268.666,
+   "outputSpeed": 237.037,
+   "latency": 260.431,
    "contextWindowTokens": null
   },
   {
@@ -940,7 +940,7 @@ window.__AA_DATA__ = {
    "outputPrice": 20,
    "cacheHitPrice": null,
    "blendedPrice": 8,
-   "outputSpeed": 72.824,
+   "outputSpeed": 72.44,
    "latency": 5.321,
    "contextWindowTokens": null
   },
@@ -960,8 +960,8 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 63.124,
-   "latency": 4.044,
+   "outputSpeed": 63.208,
+   "latency": 4.534,
    "contextWindowTokens": null
   },
   {
@@ -980,8 +980,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 52.243,
-   "latency": 2.755,
+   "outputSpeed": 53.587,
+   "latency": 1.677,
    "contextWindowTokens": null
   },
   {
@@ -1000,8 +1000,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 114.462,
-   "latency": 113.118,
+   "outputSpeed": 118.841,
+   "latency": 101.071,
    "contextWindowTokens": null
   },
   {
@@ -1020,8 +1020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.237,
-   "outputSpeed": 53.907,
-   "latency": 39.685,
+   "outputSpeed": 56.888,
+   "latency": 37.677,
    "contextWindowTokens": null
   },
   {
@@ -1060,8 +1060,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 177.019,
-   "latency": 42.784,
+   "outputSpeed": 177.519,
+   "latency": 42.991,
    "contextWindowTokens": null
   },
   {
@@ -1080,8 +1080,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.9,
    "cacheHitPrice": null,
    "blendedPrice": 0.45,
-   "outputSpeed": 214.434,
-   "latency": 10.398,
+   "outputSpeed": 217.361,
+   "latency": 10.296,
    "contextWindowTokens": null
   },
   {
@@ -1100,8 +1100,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.75,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 127.185,
-   "latency": 16.635,
+   "outputSpeed": 135.236,
+   "latency": 14.596,
    "contextWindowTokens": null
   },
   {
@@ -1120,8 +1120,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4,
-   "outputSpeed": 90.796,
-   "latency": 0.667,
+   "outputSpeed": 90.43,
+   "latency": 0.6,
    "contextWindowTokens": null
   },
   {
@@ -1180,8 +1180,8 @@ window.__AA_DATA__ = {
    "outputPrice": 6,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 34.943,
-   "latency": 59.17,
+   "outputSpeed": 35.137,
+   "latency": 58.922,
    "contextWindowTokens": null
   },
   {
@@ -1200,8 +1200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.47,
    "cacheHitPrice": null,
    "blendedPrice": 0.23,
-   "outputSpeed": 52.713,
-   "latency": 39.164,
+   "outputSpeed": 52.421,
+   "latency": 39.29,
    "contextWindowTokens": null
   },
   {
@@ -1300,8 +1300,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 214.822,
-   "latency": 10.149,
+   "outputSpeed": 216.895,
+   "latency": 10.074,
    "contextWindowTokens": null
   },
   {
@@ -1480,8 +1480,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 139.473,
-   "latency": 99.813,
+   "outputSpeed": 138.048,
+   "latency": 82.534,
    "contextWindowTokens": null
   },
   {
@@ -1500,7 +1500,7 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 99.876,
+   "outputSpeed": 102.356,
    "latency": 14.401,
    "contextWindowTokens": null
   },
@@ -1520,8 +1520,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.28,
    "cacheHitPrice": null,
    "blendedPrice": 0.175,
-   "outputSpeed": 49.059,
-   "latency": 43.537,
+   "outputSpeed": 47.558,
+   "latency": 44.865,
    "contextWindowTokens": null
   },
   {
@@ -1540,8 +1540,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 150.363,
-   "latency": 15.803,
+   "outputSpeed": 162.019,
+   "latency": 17.142,
    "contextWindowTokens": null
   },
   {
@@ -1620,8 +1620,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.96,
    "cacheHitPrice": null,
    "blendedPrice": 1.98,
-   "outputSpeed": 81.87,
-   "latency": 25.502,
+   "outputSpeed": 92.423,
+   "latency": 22.767,
    "contextWindowTokens": null
   },
   {
@@ -1641,7 +1641,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 4,
    "outputSpeed": 91.072,
-   "latency": 0.655,
+   "latency": 0.633,
    "contextWindowTokens": null
   },
   {
@@ -1680,8 +1680,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.32,
    "cacheHitPrice": null,
    "blendedPrice": 0.66,
-   "outputSpeed": 216.924,
-   "latency": 10.152,
+   "outputSpeed": 214.901,
+   "latency": 10.249,
    "contextWindowTokens": null
   },
   {
@@ -1700,8 +1700,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 131.393,
-   "latency": 27.335,
+   "outputSpeed": 131.542,
+   "latency": 27.422,
    "contextWindowTokens": null
   },
   {
@@ -1740,8 +1740,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 144.542,
-   "latency": 8.404,
+   "outputSpeed": 149.328,
+   "latency": 8.079,
    "contextWindowTokens": null
   },
   {
@@ -1800,8 +1800,8 @@ window.__AA_DATA__ = {
    "outputPrice": 4.4,
    "cacheHitPrice": null,
    "blendedPrice": 2.15,
-   "outputSpeed": 69.596,
-   "latency": 32.043,
+   "outputSpeed": 76.923,
+   "latency": 28.888,
    "contextWindowTokens": null
   },
   {
@@ -1820,8 +1820,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 93.057,
-   "latency": 2.557,
+   "outputSpeed": 95.963,
+   "latency": 2.712,
    "contextWindowTokens": null
   },
   {
@@ -1960,8 +1960,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 45.417,
-   "latency": 45.191,
+   "outputSpeed": 46.14,
+   "latency": 44.551,
    "contextWindowTokens": null
   },
   {
@@ -2060,8 +2060,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 127.368,
-   "latency": 14.19,
+   "outputSpeed": 127.99,
+   "latency": 12.977,
    "contextWindowTokens": null
   },
   {
@@ -2100,8 +2100,8 @@ window.__AA_DATA__ = {
    "outputPrice": 14,
    "cacheHitPrice": null,
    "blendedPrice": 4.813,
-   "outputSpeed": 96.349,
-   "latency": 45.55,
+   "outputSpeed": 102.044,
+   "latency": 41.477,
    "contextWindowTokens": null
   },
   {
@@ -2260,8 +2260,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 119.155,
-   "latency": 28.289,
+   "outputSpeed": 115.122,
+   "latency": 27.838,
    "contextWindowTokens": null
   },
   {
@@ -2340,8 +2340,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 91.092,
-   "latency": 1.734,
+   "outputSpeed": 94.776,
+   "latency": 1.761,
    "contextWindowTokens": null
   },
   {
@@ -2360,8 +2360,8 @@ window.__AA_DATA__ = {
    "outputPrice": 15,
    "cacheHitPrice": null,
    "blendedPrice": 6,
-   "outputSpeed": 37.337,
-   "latency": 56.156,
+   "outputSpeed": 38.313,
+   "latency": 54.842,
    "contextWindowTokens": null
   },
   {
@@ -2420,8 +2420,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 118.243,
-   "latency": 15.834,
+   "outputSpeed": 125.783,
+   "latency": 15.458,
    "contextWindowTokens": null
   },
   {
@@ -2460,8 +2460,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 139.853,
-   "latency": 4.99,
+   "outputSpeed": 144.022,
+   "latency": 4.586,
    "contextWindowTokens": null
   },
   {
@@ -2480,8 +2480,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 102.245,
-   "latency": 20.682,
+   "outputSpeed": 110.057,
+   "latency": 18.996,
    "contextWindowTokens": null
   },
   {
@@ -2640,8 +2640,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 93.919,
-   "latency": 22.372,
+   "outputSpeed": 91.713,
+   "latency": 22.905,
    "contextWindowTokens": null
   },
   {
@@ -2740,8 +2740,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 50.35,
-   "latency": 40.848,
+   "outputSpeed": 50.53,
+   "latency": 40.707,
    "contextWindowTokens": null
   },
   {
@@ -2760,8 +2760,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 92.354,
-   "latency": 1.843,
+   "outputSpeed": 95.684,
+   "latency": 1.538,
    "contextWindowTokens": null
   },
   {
@@ -2860,8 +2860,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.9,
-   "outputSpeed": 121.807,
-   "latency": 16.974,
+   "outputSpeed": 139.383,
+   "latency": 14.904,
    "contextWindowTokens": null
   },
   {
@@ -2980,8 +2980,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 51.919,
-   "latency": 39.8,
+   "outputSpeed": 51.982,
+   "latency": 39.754,
    "contextWindowTokens": null
   },
   {
@@ -3020,8 +3020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 30,
    "cacheHitPrice": null,
    "blendedPrice": 11.25,
-   "outputSpeed": 144.353,
-   "latency": 14.648,
+   "outputSpeed": 155.138,
+   "latency": 13.632,
    "contextWindowTokens": null
   },
   {
@@ -3060,8 +3060,8 @@ window.__AA_DATA__ = {
    "outputPrice": 4,
    "cacheHitPrice": null,
    "blendedPrice": 1.712,
-   "outputSpeed": 55.413,
-   "latency": 41.351,
+   "outputSpeed": 60.921,
+   "latency": 37.78,
    "contextWindowTokens": null
   },
   {
@@ -3080,8 +3080,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 148.619,
-   "latency": 16.285,
+   "outputSpeed": 166.245,
+   "latency": 14.719,
    "contextWindowTokens": null
   },
   {
@@ -3140,8 +3140,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.555,
    "cacheHitPrice": null,
    "blendedPrice": 0.241,
-   "outputSpeed": 91.943,
-   "latency": 23.779,
+   "outputSpeed": 91.329,
+   "latency": 23.88,
    "contextWindowTokens": null
   },
   {
@@ -3200,8 +3200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.7,
-   "outputSpeed": 53.964,
-   "latency": 38.799,
+   "outputSpeed": 54.136,
+   "latency": 38.68,
    "contextWindowTokens": null
   },
   {
@@ -3260,8 +3260,8 @@ window.__AA_DATA__ = {
    "outputPrice": 4.05,
    "cacheHitPrice": null,
    "blendedPrice": 1.762,
-   "outputSpeed": 204.646,
-   "latency": 12.031,
+   "outputSpeed": 213.06,
+   "latency": 11.685,
    "contextWindowTokens": null
   },
   {
@@ -3400,8 +3400,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.525,
-   "outputSpeed": 201.587,
-   "latency": 0.754,
+   "outputSpeed": 209.791,
+   "latency": 0.861,
    "contextWindowTokens": null
   },
   {
@@ -3560,8 +3560,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.175,
-   "outputSpeed": 61.338,
-   "latency": 33.859,
+   "outputSpeed": 60.346,
+   "latency": 34.425,
    "contextWindowTokens": null
   },
   {
@@ -3800,8 +3800,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 1.075,
-   "outputSpeed": 147.579,
-   "latency": 16.321,
+   "outputSpeed": 141.562,
+   "latency": 16.914,
    "contextWindowTokens": null
   },
   {
@@ -3960,8 +3960,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.22,
    "cacheHitPrice": null,
    "blendedPrice": 0.111,
-   "outputSpeed": 318.631,
-   "latency": 7.433,
+   "outputSpeed": 317.45,
+   "latency": 7.311,
    "contextWindowTokens": null
   },
   {
@@ -4080,8 +4080,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 387.572,
-   "latency": 5.694,
+   "outputSpeed": 371.941,
+   "latency": 5.521,
    "contextWindowTokens": null
   },
   {
@@ -4200,8 +4200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 115.438,
-   "latency": 3.317,
+   "outputSpeed": 119.636,
+   "latency": 3.046,
    "contextWindowTokens": null
   },
   {
@@ -4260,8 +4260,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 83.238,
-   "latency": 1.606,
+   "outputSpeed": 82.207,
+   "latency": 1.612,
    "contextWindowTokens": null
   },
   {
@@ -4420,8 +4420,8 @@ window.__AA_DATA__ = {
    "outputPrice": 12,
    "cacheHitPrice": null,
    "blendedPrice": 4.5,
-   "outputSpeed": 90.935,
-   "latency": 0.732,
+   "outputSpeed": 96.382,
+   "latency": 0.709,
    "contextWindowTokens": null
   },
   {
@@ -4540,7 +4540,7 @@ window.__AA_DATA__ = {
    "outputPrice": 4.8,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 84.047,
+   "outputSpeed": 82.76,
    "latency": 1.172,
    "contextWindowTokens": null
   },
@@ -4600,7 +4600,7 @@ window.__AA_DATA__ = {
    "outputPrice": 3.96,
    "cacheHitPrice": null,
    "blendedPrice": 1.98,
-   "outputSpeed": 82.587,
+   "outputSpeed": 97.87,
    "latency": 1.048,
    "contextWindowTokens": null
   },
@@ -4620,8 +4620,8 @@ window.__AA_DATA__ = {
    "outputPrice": 8,
    "cacheHitPrice": null,
    "blendedPrice": 3.5,
-   "outputSpeed": 108.593,
-   "latency": 5.651,
+   "outputSpeed": 116.233,
+   "latency": 5.598,
    "contextWindowTokens": null
   },
   {
@@ -4640,8 +4640,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.125,
-   "outputSpeed": 50.019,
-   "latency": 1.164,
+   "outputSpeed": 52.134,
+   "latency": 1.159,
    "contextWindowTokens": null
   },
   {
@@ -4660,8 +4660,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.22,
    "cacheHitPrice": null,
    "blendedPrice": 0.111,
-   "outputSpeed": 344.662,
-   "latency": 7.527,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -4860,8 +4860,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.95,
    "cacheHitPrice": null,
    "blendedPrice": 1.3,
-   "outputSpeed": 64.411,
-   "latency": 32.934,
+   "outputSpeed": 64.792,
+   "latency": 32.588,
    "contextWindowTokens": null
   },
   {
@@ -5020,8 +5020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 124.377,
-   "latency": 0.877,
+   "outputSpeed": 126.595,
+   "latency": 0.902,
    "contextWindowTokens": null
   },
   {
@@ -5040,8 +5040,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.6,
    "cacheHitPrice": null,
    "blendedPrice": 1.35,
-   "outputSpeed": 87.436,
-   "latency": 38.07,
+   "outputSpeed": 86.859,
+   "latency": 38.264,
    "contextWindowTokens": null
   },
   {
@@ -5080,8 +5080,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.844,
-   "outputSpeed": 129.452,
-   "latency": 42.714,
+   "outputSpeed": 130.657,
+   "latency": 42.351,
    "contextWindowTokens": null
   },
   {
@@ -5160,8 +5160,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.1,
-   "outputSpeed": 140.266,
-   "latency": 1.019,
+   "outputSpeed": 143.264,
+   "latency": 1.01,
    "contextWindowTokens": null
   },
   {
@@ -5200,8 +5200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.35,
    "cacheHitPrice": null,
    "blendedPrice": 0.581,
-   "outputSpeed": 139.811,
-   "latency": 14.801,
+   "outputSpeed": 144.459,
+   "latency": 14.31,
    "contextWindowTokens": null
   },
   {
@@ -5341,7 +5341,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 2,
    "outputSpeed": 102.95,
-   "latency": 9.098,
+   "latency": 14.671,
    "contextWindowTokens": null
   },
   {
@@ -5380,8 +5380,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.175,
-   "outputSpeed": 60.991,
-   "latency": 33.452,
+   "outputSpeed": 59.774,
+   "latency": 34.12,
    "contextWindowTokens": null
   },
   {
@@ -5420,8 +5420,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 115.123,
-   "latency": 19.377,
+   "outputSpeed": 121.877,
+   "latency": 18.432,
    "contextWindowTokens": null
   },
   {
@@ -5640,8 +5640,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3.2,
    "cacheHitPrice": null,
    "blendedPrice": 1.1,
-   "outputSpeed": 133.948,
-   "latency": 15.995,
+   "outputSpeed": 134.732,
+   "latency": 15.899,
    "contextWindowTokens": null
   },
   {
@@ -5720,8 +5720,8 @@ window.__AA_DATA__ = {
    "outputPrice": 5,
    "cacheHitPrice": null,
    "blendedPrice": 2,
-   "outputSpeed": 89.362,
-   "latency": 0.392,
+   "outputSpeed": 92.978,
+   "latency": 0.422,
    "contextWindowTokens": null
   },
   {
@@ -5780,8 +5780,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.844,
-   "outputSpeed": 135.21,
-   "latency": 1.077,
+   "outputSpeed": 136.433,
+   "latency": 1.08,
    "contextWindowTokens": null
   },
   {
@@ -5920,8 +5920,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 34.983,
-   "latency": 50.62,
+   "outputSpeed": 35.021,
+   "latency": 50.555,
    "contextWindowTokens": null
   },
   {
@@ -6080,8 +6080,8 @@ window.__AA_DATA__ = {
    "outputPrice": 7.5,
    "cacheHitPrice": null,
    "blendedPrice": 3,
-   "outputSpeed": 159.664,
-   "latency": 13.115,
+   "outputSpeed": 160.473,
+   "latency": 13.053,
    "contextWindowTokens": null
   },
   {
@@ -6101,7 +6101,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
    "outputSpeed": 145.084,
-   "latency": 15.204,
+   "latency": 15.225,
    "contextWindowTokens": null
   },
   {
@@ -6120,8 +6120,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 128.527,
-   "latency": 30.068,
+   "outputSpeed": 130.009,
+   "latency": 30.602,
    "contextWindowTokens": null
   },
   {
@@ -6200,8 +6200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.224,
-   "outputSpeed": 50.699,
-   "latency": 0.832,
+   "outputSpeed": 48.744,
+   "latency": 0.837,
    "contextWindowTokens": null
   },
   {
@@ -6380,8 +6380,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 210.651,
-   "latency": 24.504,
+   "outputSpeed": 225.425,
+   "latency": 23.566,
    "contextWindowTokens": null
   },
   {
@@ -6420,8 +6420,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.19,
-   "outputSpeed": 95.74,
-   "latency": 0.406,
+   "outputSpeed": 99.985,
+   "latency": 0.36,
    "contextWindowTokens": null
   },
   {
@@ -6460,8 +6460,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 220.835,
-   "latency": 9.257,
+   "outputSpeed": 231.714,
+   "latency": 8.83,
    "contextWindowTokens": null
   },
   {
@@ -6480,7 +6480,7 @@ window.__AA_DATA__ = {
    "outputPrice": 0.4,
    "cacheHitPrice": null,
    "blendedPrice": 0.198,
-   "outputSpeed": 89.795,
+   "outputSpeed": 95.492,
    "latency": 0.601,
    "contextWindowTokens": null
   },
@@ -6500,8 +6500,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.06,
-   "outputSpeed": 21.986,
-   "latency": 91.589,
+   "outputSpeed": 17.664,
+   "latency": 113.932,
    "contextWindowTokens": null
   },
   {
@@ -6580,8 +6580,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.095,
-   "outputSpeed": 292.497,
-   "latency": 7.266,
+   "outputSpeed": 295.416,
+   "latency": 7.204,
    "contextWindowTokens": null
   },
   {
@@ -6600,8 +6600,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.9,
    "cacheHitPrice": null,
    "blendedPrice": 0.45,
-   "outputSpeed": 150.005,
-   "latency": 14.198,
+   "outputSpeed": 157.613,
+   "latency": 13.536,
    "contextWindowTokens": null
   },
   {
@@ -6620,8 +6620,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 137.018,
-   "latency": 17.366,
+   "outputSpeed": 140.819,
+   "latency": 16.902,
    "contextWindowTokens": null
   },
   {
@@ -6720,8 +6720,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.65,
    "cacheHitPrice": null,
    "blendedPrice": 0.282,
-   "outputSpeed": 76.998,
-   "latency": 26.254,
+   "outputSpeed": 77.786,
+   "latency": 25.989,
    "contextWindowTokens": null
   },
   {
@@ -6760,8 +6760,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 199.46,
-   "latency": 22.665,
+   "outputSpeed": 218.768,
+   "latency": 21.113,
    "contextWindowTokens": null
   },
   {
@@ -6800,8 +6800,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.275,
-   "outputSpeed": 231.48,
-   "latency": 0.949,
+   "outputSpeed": 232.675,
+   "latency": 0.939,
    "contextWindowTokens": null
   },
   {
@@ -6900,8 +6900,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.75,
    "cacheHitPrice": null,
    "blendedPrice": 0.375,
-   "outputSpeed": 841.61,
-   "latency": 2.842,
+   "outputSpeed": 860.55,
+   "latency": 2.793,
    "contextWindowTokens": null
   },
   {
@@ -7080,8 +7080,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 191.41,
-   "latency": 14.775,
+   "outputSpeed": 197.98,
+   "latency": 14.839,
    "contextWindowTokens": null
   },
   {
@@ -7200,8 +7200,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.59,
    "cacheHitPrice": null,
    "blendedPrice": 0.26,
-   "outputSpeed": 206.876,
-   "latency": 10.176,
+   "outputSpeed": 222.38,
+   "latency": 9.499,
    "contextWindowTokens": null
   },
   {
@@ -7360,8 +7360,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.262,
-   "outputSpeed": 166.727,
-   "latency": 12.529,
+   "outputSpeed": 171.257,
+   "latency": 12.255,
    "contextWindowTokens": null
   },
   {
@@ -7420,8 +7420,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.412,
-   "outputSpeed": 155.465,
-   "latency": 13.957,
+   "outputSpeed": 158.823,
+   "latency": 13.684,
    "contextWindowTokens": null
   },
   {
@@ -7440,8 +7440,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.151,
-   "outputSpeed": 70.911,
-   "latency": 28.924,
+   "outputSpeed": 80.755,
+   "latency": 25.66,
    "contextWindowTokens": null
   },
   {
@@ -7520,8 +7520,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.107,
-   "outputSpeed": 58.016,
-   "latency": 34.819,
+   "outputSpeed": 63.553,
+   "latency": 31.771,
    "contextWindowTokens": null
   },
   {
@@ -7560,8 +7560,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 57.349,
-   "latency": 36.444,
+   "outputSpeed": 57.209,
+   "latency": 36.573,
    "contextWindowTokens": null
   },
   {
@@ -7660,8 +7660,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.8,
    "cacheHitPrice": null,
    "blendedPrice": 0.388,
-   "outputSpeed": 366.735,
-   "latency": 6.491,
+   "outputSpeed": 366.234,
+   "latency": 6.506,
    "contextWindowTokens": null
   },
   {
@@ -7680,8 +7680,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.15,
    "cacheHitPrice": null,
    "blendedPrice": 0.06,
-   "outputSpeed": 24.748,
-   "latency": 0.643,
+   "outputSpeed": 16.914,
+   "latency": 0.657,
    "contextWindowTokens": null
   },
   {
@@ -7820,8 +7820,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.9,
    "cacheHitPrice": null,
    "blendedPrice": 0.45,
-   "outputSpeed": 239.742,
-   "latency": 8.761,
+   "outputSpeed": 238.367,
+   "latency": 8.809,
    "contextWindowTokens": null
   },
   {
@@ -7840,8 +7840,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.237,
-   "outputSpeed": 205.173,
-   "latency": 10.263,
+   "outputSpeed": 225.976,
+   "latency": 9.35,
    "contextWindowTokens": null
   },
   {
@@ -7881,7 +7881,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.405,
    "outputSpeed": 49.484,
-   "latency": 0.622,
+   "latency": 0.649,
    "contextWindowTokens": null
   },
   {
@@ -7920,8 +7920,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 3.438,
-   "outputSpeed": 122.049,
-   "latency": 0.679,
+   "outputSpeed": 125.619,
+   "latency": 0.676,
    "contextWindowTokens": null
   },
   {
@@ -7940,8 +7940,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.215,
    "cacheHitPrice": null,
    "blendedPrice": 0.106,
-   "outputSpeed": 236.23,
-   "latency": 8.868,
+   "outputSpeed": 254.109,
+   "latency": 8.279,
    "contextWindowTokens": null
   },
   {
@@ -7980,8 +7980,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 76.018,
-   "latency": 26.604,
+   "outputSpeed": 88.829,
+   "latency": 22.815,
    "contextWindowTokens": null
   },
   {
@@ -8140,8 +8140,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.412,
-   "outputSpeed": 157.38,
-   "latency": 0.992,
+   "outputSpeed": 152.199,
+   "latency": 1.007,
    "contextWindowTokens": null
   },
   {
@@ -8320,8 +8320,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.3,
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
-   "outputSpeed": 141.584,
-   "latency": 1.427,
+   "outputSpeed": 146.39,
+   "latency": 1.441,
    "contextWindowTokens": null
   },
   {
@@ -8360,8 +8360,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.75,
-   "outputSpeed": 88.203,
-   "latency": 0.855,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -8380,7 +8380,7 @@ window.__AA_DATA__ = {
    "outputPrice": 1.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.675,
-   "outputSpeed": 73.64,
+   "outputSpeed": 78.531,
    "latency": 0.826,
    "contextWindowTokens": null
   },
@@ -8500,8 +8500,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.12,
    "cacheHitPrice": null,
    "blendedPrice": 0.052,
-   "outputSpeed": 226.607,
-   "latency": 9.079,
+   "outputSpeed": 226.308,
+   "latency": 9.095,
    "contextWindowTokens": null
   },
   {
@@ -8620,8 +8620,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.262,
-   "outputSpeed": 151.549,
-   "latency": 0.606,
+   "outputSpeed": 167.831,
+   "latency": 0.614,
    "contextWindowTokens": null
   },
   {
@@ -8660,8 +8660,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.18,
    "cacheHitPrice": null,
    "blendedPrice": 0.098,
-   "outputSpeed": 211.765,
-   "latency": 9.844,
+   "outputSpeed": 227.383,
+   "latency": 9.21,
    "contextWindowTokens": null
   },
   {
@@ -8760,8 +8760,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.04,
-   "outputSpeed": 28.951,
-   "latency": 69.633,
+   "outputSpeed": 29.91,
+   "latency": 67.377,
    "contextWindowTokens": null
   },
   {
@@ -8780,8 +8780,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.088,
-   "outputSpeed": 217.658,
-   "latency": 9.705,
+   "outputSpeed": 219.3,
+   "latency": 9.613,
    "contextWindowTokens": null
   },
   {
@@ -8880,8 +8880,8 @@ window.__AA_DATA__ = {
    "outputPrice": 2.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.85,
-   "outputSpeed": 221.836,
-   "latency": 0.802,
+   "outputSpeed": 224.771,
+   "latency": 0.788,
    "contextWindowTokens": null
   },
   {
@@ -9020,8 +9020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 1.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.75,
-   "outputSpeed": 79.479,
-   "latency": 25.973,
+   "outputSpeed": 78.308,
+   "latency": 26.363,
    "contextWindowTokens": null
   },
   {
@@ -9400,8 +9400,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.66,
    "cacheHitPrice": null,
    "blendedPrice": 0.3,
-   "outputSpeed": 71.752,
-   "latency": 0.624,
+   "outputSpeed": 81.038,
+   "latency": 0.641,
    "contextWindowTokens": null
   },
   {
@@ -9681,7 +9681,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.43,
    "outputSpeed": 110.049,
-   "latency": 19.083,
+   "latency": 19.094,
    "contextWindowTokens": null
   },
   {
@@ -9780,8 +9780,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.72,
    "cacheHitPrice": null,
    "blendedPrice": 0.712,
-   "outputSpeed": 92.042,
-   "latency": 0.643,
+   "outputSpeed": 95.413,
+   "latency": 0.692,
    "contextWindowTokens": null
   },
   {
@@ -10000,8 +10000,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 40.143,
-   "latency": 50.528,
+   "outputSpeed": 39.84,
+   "latency": 50.949,
    "contextWindowTokens": null
   },
   {
@@ -10060,8 +10060,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.04,
-   "outputSpeed": 34.523,
-   "latency": 0.395,
+   "outputSpeed": 32.688,
+   "latency": 0.457,
    "contextWindowTokens": null
   },
   {
@@ -10100,8 +10100,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.16,
    "cacheHitPrice": null,
    "blendedPrice": 0.07,
-   "outputSpeed": 58.931,
-   "latency": 37.087,
+   "outputSpeed": 189.189,
+   "latency": 10.935,
    "contextWindowTokens": null
   },
   {
@@ -10120,8 +10120,8 @@ window.__AA_DATA__ = {
    "outputPrice": 3,
    "cacheHitPrice": null,
    "blendedPrice": 1.5,
-   "outputSpeed": 39.397,
-   "latency": 0.679,
+   "outputSpeed": 39.897,
+   "latency": 0.657,
    "contextWindowTokens": null
   },
   {
@@ -10700,8 +10700,8 @@ window.__AA_DATA__ = {
    "outputPrice": 10,
    "cacheHitPrice": null,
    "blendedPrice": 4.375,
-   "outputSpeed": 55.384,
-   "latency": 0.451,
+   "outputSpeed": 58.116,
+   "latency": 0.402,
    "contextWindowTokens": null
   },
   {
@@ -10820,8 +10820,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.088,
-   "outputSpeed": 250.949,
-   "latency": 0.41,
+   "outputSpeed": 242.764,
+   "latency": 0.4,
    "contextWindowTokens": null
   },
   {
@@ -10840,8 +10840,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.195,
    "cacheHitPrice": null,
    "blendedPrice": 0.086,
-   "outputSpeed": 168.764,
-   "latency": 0.814,
+   "outputSpeed": 169.207,
+   "latency": 0.773,
    "contextWindowTokens": null
   },
   {
@@ -11460,8 +11460,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.7,
    "cacheHitPrice": null,
    "blendedPrice": 0.325,
-   "outputSpeed": 1807.467,
-   "latency": 0.413,
+   "outputSpeed": 1782.568,
+   "latency": 0.403,
    "contextWindowTokens": null
   },
   {
@@ -11520,8 +11520,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 46.8,
-   "latency": 0.339,
+   "outputSpeed": 46.912,
+   "latency": 0.343,
    "contextWindowTokens": null
   },
   {
@@ -11660,8 +11660,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.25,
    "cacheHitPrice": null,
    "blendedPrice": 0.107,
-   "outputSpeed": 57.425,
-   "latency": 8.968,
+   "outputSpeed": 0,
+   "latency": 0,
    "contextWindowTokens": null
   },
   {
@@ -11680,8 +11680,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.2,
    "cacheHitPrice": null,
    "blendedPrice": 0.2,
-   "outputSpeed": 67.86,
-   "latency": 0.59,
+   "outputSpeed": 64.73,
+   "latency": 0.579,
    "contextWindowTokens": null
   },
   {
@@ -11721,7 +11721,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.43,
    "outputSpeed": 107.824,
-   "latency": 0.88,
+   "latency": 0.884,
    "contextWindowTokens": null
   },
   {
@@ -11880,8 +11880,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.5,
    "cacheHitPrice": null,
    "blendedPrice": 0.219,
-   "outputSpeed": 44.069,
-   "latency": 0.956,
+   "outputSpeed": 44.242,
+   "latency": 0.953,
    "contextWindowTokens": null
   },
   {
@@ -11920,8 +11920,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.14,
    "cacheHitPrice": null,
    "blendedPrice": 0.061,
-   "outputSpeed": 264.121,
-   "latency": 0.634,
+   "outputSpeed": 269.5,
+   "latency": 0.631,
    "contextWindowTokens": null
   },
   {
@@ -12020,8 +12020,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.6,
    "cacheHitPrice": null,
    "blendedPrice": 0.3,
-   "outputSpeed": 211.791,
-   "latency": 0.809,
+   "outputSpeed": 209.92,
+   "latency": 0.803,
    "contextWindowTokens": null
   },
   {
@@ -12060,8 +12060,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 17.182,
-   "latency": 0.411,
+   "outputSpeed": 18.538,
+   "latency": 0.448,
    "contextWindowTokens": null
   },
   {
@@ -12261,7 +12261,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.35,
    "outputSpeed": 94.828,
-   "latency": 21.902,
+   "latency": 21.864,
    "contextWindowTokens": null
   },
   {
@@ -12521,7 +12521,7 @@ window.__AA_DATA__ = {
    "cacheHitPrice": null,
    "blendedPrice": 0.15,
    "outputSpeed": 103.537,
-   "latency": 0.505,
+   "latency": 0.522,
    "contextWindowTokens": null
   },
   {
@@ -12620,8 +12620,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.345,
    "cacheHitPrice": null,
    "blendedPrice": 0.345,
-   "outputSpeed": 24.808,
-   "latency": 0.73,
+   "outputSpeed": 24.438,
+   "latency": 0.71,
    "contextWindowTokens": null
   },
   {
@@ -13400,8 +13400,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0.1,
    "cacheHitPrice": null,
    "blendedPrice": 0.1,
-   "outputSpeed": 205.839,
-   "latency": 0.562,
+   "outputSpeed": 242.441,
+   "latency": 0.526,
    "contextWindowTokens": null
   },
   {
@@ -13680,8 +13680,8 @@ window.__AA_DATA__ = {
    "outputPrice": 0,
    "cacheHitPrice": null,
    "blendedPrice": 0,
-   "outputSpeed": 131.341,
-   "latency": 0.203,
+   "outputSpeed": 131.547,
+   "latency": 0.205,
    "contextWindowTokens": null
   },
   {
